@@ -1,0 +1,5 @@
+# Excluded files
+exclude:
+- README.md
+- LICENSE
+- CNAME
