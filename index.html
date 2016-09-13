@@ -1,40 +1,30 @@
-""" Build index from directory listing
+---
+# Front matter
+---
 
-make_index.py </path/to/directory> [--header <header text>]
-"""
-
-INDEX_TEMPLATE = r"""
-<html>
-<body>
-<h2>${header}</h2>
-<p>
-% for name in names:
-    <li><a href="${name}">${name}<a></li>
-% endfor
-</p>
-</body>
+<!doctype html>
+<html lang="en-GB">
+ <body>
+ 
+    <ul class="list  list--repos">
+        <li class="item  item--repo">
+            <a href="#">repo-name</a>
+        </li>
+    </ul>
+ 
+ </body>
 </html>
-"""
 
-EXCLUDED = ['index.html']
-
-import os
-import argparse
-
-# May need to do "pip install mako"
-from mako.template import Template
-
-
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("directory")
-    parser.add_argument("--header")
-    args = parser.parse_args()
-    fnames = [fname for fname in sorted(os.listdir(args.directory))
-              if fname not in EXCLUDED]
-    header = (args.header if args.header else os.path.basename(args.directory))
-    print(Template(INDEX_TEMPLATE).render(names=fnames, header=header))
-
-
-if __name__ == '__main__':
-    main()
+<ul class="portfolio">
+    {% for repo in site.github.public_repositories limit:28 %}
+ 
+        {% if repo.fork != true %}
+            <li class="repo">
+               
+                <a href="{{ repo.homepage }}">{{ repo.name }}</a>
+             
+            </li>
+        {% endif %}
+ 
+    {% endfor %}
+</ul>
