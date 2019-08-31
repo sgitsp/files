@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce0ce4be-ccf3-4b19-9960-5037738086d0</dc:identifier>
+        <dc:title>Jodohku Maunya Sih Kamu</dc:title>
+        <dc:creator opf:file-as="Wijayanto, Ust." opf:role="aut">Ust. Wijayanto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.47.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-17T17:00:00+00:00</dc:date>
+        <dc:publisher>Noura Books</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Islam Populer</dc:subject>
+        <meta content="{&quot;Ust. Wijayanto&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-31T17:52:56.579000+00:00" name="calibre:timestamp"/>
+        <meta content="Jodohku Maunya Sih Kamu" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

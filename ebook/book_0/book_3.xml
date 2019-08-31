@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jodohku Maunya Sih Kamu</title>
+  <id>urn:book:ce0ce4be-ccf3-4b19-9960-5037738086d0</id>
+  <updated>2019-09-01T00:52:58Z</updated>
+  <link href="./book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Jodohku Maunya Sih Kamu" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="http://repo.purwadi.web.id/ebook/Ust.%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu%20%283%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Ust.%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu%20%283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Ust.%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu%20%283%29/Jodohku%20Maunya%20Sih%20Kamu%20-%20Ust.%20Wijayanto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+  <author>
+    <name>Ust. Wijayanto</name>
+    <uri>../authors_0/authors_3_Page_1.xml</uri>
+  </author>
+  <published>2016-01-17T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Noura Books</dcterms:publisher>
+  <category term="Islam Populer" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Islam Populer, Lang:en
+    </p>
+  </content>
+  <link href="../authors_0/authors_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Ust. Wijayanto" />
+  <link href="http://www.goodreads.com/book/title/Jodohku%20Maunya%20Sih%20Kamu" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Jodohku%20Maunya%20Sih%20Kamu" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Jodohku%20Maunya%20Sih%20Kamu%20Ust.%20Wijayanto" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Jodohku%20Maunya%20Sih%20Kamu&amp;field-author=Ust.%20Wijayanto" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Ust.%20Wijayanto" type="text/html" rel="related" title="Ust. Wijayanto on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Ust.%20Wijayanto" type="text/html" rel="related" title="Ust. Wijayanto on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/WijayantoUst." type="text/html" rel="related" title="Ust. Wijayanto on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Ust.%20Wijayanto" type="text/html" rel="related" title="Ust. Wijayanto on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Ust.%20Wijayanto" type="text/html" rel="related" title="Ust. Wijayanto on ISFDB" target="_blank" />
+</entry>

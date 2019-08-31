@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Islam Populer</title>
-  <id>Calibre2opds:taglist:3</id>
+  <title>Ust. Wijayanto</title>
+  <id>Calibre2opds:authors:3</id>
   <author>
     <name>David Pierron</name>
     <uri>http://calibre2opds.com/</uri>
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./tags_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Islam Populer" />
+  <link href="./authors_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ust. Wijayanto" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
-  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
   <entry>
     <title>Jodohku Maunya Sih Kamu</title>
     <id>calibre:book:3</id>

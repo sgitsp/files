@@ -14,7 +14,7 @@
   <entry>
     <title>Previous week</title>
     <id>Calibre2opds:recent:ONEWEEK</id>
-    <content type="text">Buat Apa Shalat, The Prophet</content>
+    <content type="text">3 books</content>
     <link href="../recent/recent_ONEWEEK_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../recent.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
