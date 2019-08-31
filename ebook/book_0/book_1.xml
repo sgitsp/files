@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>The Prophet</title>
-  <id>urn:book:0ca06459-ef06-4b53-a418-40f491113086</id>
-  <updated>2019-08-31T10:15:07Z</updated>
+  <id>urn:book:3bba46d0-255a-4222-801b-31a14a737c2f</id>
+  <updated>2019-09-01T00:08:37Z</updated>
   <link href="./book_1.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Prophet" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
-  <link href="https://repo.purwadi.web.id/ebook/Kahlil%20Gibran/The%20Prophet%20%281%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
-  <link href="https://repo.purwadi.web.id/ebook/Kahlil%20Gibran/The%20Prophet%20%281%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="https://repo.purwadi.web.id/ebook/Kahlil%20Gibran/The%20Prophet%20%281%29/The%20Prophet%20-%20Kahlil%20Gibran.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="150 KB" />
+  <link href="http://repo.purwadi.web.id/ebook/Kahlil%20Gibran/The%20Prophet%20%281%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Kahlil%20Gibran/The%20Prophet%20%281%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Kahlil%20Gibran/The%20Prophet%20%281%29/The%20Prophet%20-%20Kahlil%20Gibran.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="150 KB" />
   <author>
     <name>Kahlil Gibran</name>
     <uri>../authors_0/authors_1_Page_1.xml</uri>
   </author>
-  <published>1923-08-14T05:00:00Z</published>
+  <published>1923-09-14T05:00:00Z</published>
   <dcterms:language>en</dcterms:language>
   <dcterms:publisher>Feedbooks</dcterms:publisher>
   <category term="Fiction" />
