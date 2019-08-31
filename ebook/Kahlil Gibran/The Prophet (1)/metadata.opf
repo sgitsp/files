@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ca06459-ef06-4b53-a418-40f491113086</dc:identifier>
+        <dc:title>The Prophet</dc:title>
+        <dc:creator opf:file-as="Gibran, Kahlil" opf:role="aut">Kahlil Gibran</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.47.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1923-08-14T17:00:00+00:00</dc:date>
+        <dc:description>The Prophet is a book of 26 poetic essays written in English in 1923 by the Lebanese-American artist, philosopher and writer Khalil Gibran. In the book, the prophet Almustafa who has lived in the foreign city of Orphalese for 12 years is about to board a ship which will carry him home. He is stopped by a group of people, with whom he discusses many issues of life and the human condition. The book is divided into chapters dealing with love, marriage, children, giving, eating and drinking, work, joy and sorrow, houses, clothes, buying and selling, crime and punishment, laws, freedom, reason and passion, pain, self-knowledge, teaching, friendship, talking, time, good and evil, prayer, pleasure, beauty, religion, and death.</dc:description>
+        <dc:publisher>Feedbooks</dc:publisher>
+        <dc:identifier opf:scheme="URI">http://www.feedbooks.com/book/2843</dc:identifier>
+        <dc:identifier opf:scheme="URN">urn:uuid:3a06a1a4-ddb9-11e5-ab23-4c72b9252ec6</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Poetry</dc:subject>
+        <meta content="{&quot;Kahlil Gibran&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-31T15:15:05.803000+00:00" name="calibre:timestamp"/>
+        <meta content="Prophet, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
