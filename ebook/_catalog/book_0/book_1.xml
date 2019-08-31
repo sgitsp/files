@@ -7,9 +7,9 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
-  <link href="https://repo.purwadi.web.id/ebook/Kahlil%20Gibran/The%20Prophet%20%281%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
-  <link href="https://repo.purwadi.web.id/ebook/Kahlil%20Gibran/The%20Prophet%20%281%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="https://repo.purwadi.web.id/ebook/Kahlil%20Gibran/The%20Prophet%20%281%29/The%20Prophet%20-%20Kahlil%20Gibran.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="150 KB" />
+  <link href="../../Kahlil%20Gibran/The%20Prophet%20%281%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Kahlil%20Gibran/The%20Prophet%20%281%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Kahlil%20Gibran/The%20Prophet%20%281%29/The%20Prophet%20-%20Kahlil%20Gibran.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="150 KB" />
   <author>
     <name>Kahlil Gibran</name>
     <uri>../authors_0/authors_1_Page_1.xml</uri>
