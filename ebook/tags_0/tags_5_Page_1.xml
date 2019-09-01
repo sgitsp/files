@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Lang:in</title>
+  <title>Historical</title>
   <id>Calibre2opds:taglist:5</id>
   <author>
     <name>David Pierron</name>
@@ -8,57 +8,27 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./tags_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lang:in" />
+  <link href="./tags_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Historical" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
   <entry>
-    <title>Buat Apa Shalat</title>
-    <id>calibre:book:2</id>
-    <updated>2019-09-01T00:20:22Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Buat%20Apa%20Shalat%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Buat%20Apa%20Shalat%20%282%29/Buat%20Apa%20Shalat%20-%20Haidar%20Bagir.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="476 KB" />
+    <title>BUMI MANUSIA</title>
+    <id>calibre:book:5</id>
+    <updated>2019-09-01T00:55:49Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Pramoedya%20Ananta%20Toer/BUMI%20MANUSIA%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Pramoedya%20Ananta%20Toer/BUMI%20MANUSIA%20%285%29/BUMI%20MANUSIA%20-%20Pramoedya%20Ananta%20Toer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="595 KB" />
     <author>
-      <name>Haidar Bagir</name>
-      <uri>../authors_0/authors_2_Page_1.xml</uri>
+      <name>Pramoedya Ananta Toer</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
     </author>
-    <published>2014-04-21T05:00:00Z</published>
+    <published>2002-09-30T05:00:00Z</published>
     <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Mizan</dcterms:publisher>
-    <category term="Islam" />
+    <dcterms:publisher>Hasta Mitra</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Historical" />
     <category term="Lang:in" />
-    <link href="../book_0/book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Jodohku Maunya Sih Kamu</title>
-    <id>calibre:book:3</id>
-    <updated>2019-09-01T00:52:58Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Ust.%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu%20%283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Ust.%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu%20%283%29/Jodohku%20Maunya%20Sih%20Kamu%20-%20Ust.%20Wijayanto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
-    <author>
-      <name>Ust. Wijayanto</name>
-      <uri>../authors_0/authors_3_Page_1.xml</uri>
-    </author>
-    <published>2016-01-17T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Noura Books</dcterms:publisher>
-    <category term="Islam" />
-    <category term="Lang:in" />
-    <link href="../book_0/book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Turned (Book 1 in the Vampire Journals) by Morgan Rice</title>
-    <id>calibre:book:4</id>
-    <updated>2019-09-01T00:05:38Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Morgan%20Rice/Turned%20%28Book%201%20in%20the%20Vampire%20Journa%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Morgan%20Rice/Turned%20%28Book%201%20in%20the%20Vampire%20Journa%20%284%29/Turned%20%28Book%201%20in%20the%20Vampire%20J%20-%20Morgan%20Rice.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="274 KB" />
-    <author>
-      <name>Morgan Rice</name>
-      <uri>../authors_0/authors_4_Page_1.xml</uri>
-    </author>
-    <published>2014-11-30T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <category term="Lang:in" />
-    <link href="../book_0/book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Sigit Purwadi's Library - Buku ini bercerita tentang perjalanan seorang tokoh bernama Minke. Minke adalah salah satu anak pribumi yang sekolah di HBS. Pada masa itu, yang dapat masuk ke sekolah HBS adalah orang-orang keturunan Eropa. Minke adalah seo...</summary>
+    <link href="../book_0/book_5.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>
