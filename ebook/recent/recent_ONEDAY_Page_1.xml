@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sep 1, 2019</title>
+  <id>Calibre2opds:recent:ONEDAY</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_ONEDAY_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sep 1, 2019" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <entry>
+    <title>Turned (Book 1 in the Vampire Journals) by Morgan Rice [September 1, 2019]</title>
+    <id>calibre:book:4</id>
+    <updated>2019-09-01T00:05:38Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Morgan%20Rice/Turned%20%28Book%201%20in%20the%20Vampire%20Journa%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Morgan%20Rice/Turned%20%28Book%201%20in%20the%20Vampire%20Journa%20%284%29/Turned%20%28Book%201%20in%20the%20Vampire%20J%20-%20Morgan%20Rice.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="274 KB" />
+    <author>
+      <name>Morgan Rice</name>
+      <uri>../authors_0/authors_4_Page_1.xml</uri>
+    </author>
+    <published>2014-11-30T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <category term="Lang:in" />
+    <link href="../book_0/book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

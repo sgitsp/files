@@ -23,10 +23,10 @@
       <uri>../authors_0/authors_3_Page_1.xml</uri>
     </author>
     <published>2016-01-17T05:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
+    <dcterms:language>in</dcterms:language>
     <dcterms:publisher>Noura Books</dcterms:publisher>
-    <category term="Islam Populer" />
-    <category term="Lang:en" />
+    <category term="Islam" />
+    <category term="Lang:in" />
     <link href="../book_0/book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
@@ -40,9 +40,10 @@
       <uri>../authors_0/authors_2_Page_1.xml</uri>
     </author>
     <published>2014-04-21T05:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
+    <dcterms:language>in</dcterms:language>
     <dcterms:publisher>Mizan</dcterms:publisher>
-    <category term="Lang:en" />
+    <category term="Islam" />
+    <category term="Lang:in" />
     <link href="../book_0/book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>

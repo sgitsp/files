@@ -15,18 +15,26 @@
     <uri>../authors_0/authors_3_Page_1.xml</uri>
   </author>
   <published>2016-01-17T05:00:00Z</published>
-  <dcterms:language>en</dcterms:language>
+  <dcterms:language>in</dcterms:language>
   <dcterms:publisher>Noura Books</dcterms:publisher>
-  <category term="Islam Populer" />
-  <category term="Lang:en" />
+  <category term="Islam" />
+  <category term="Lang:in" />
   <content type="text/html">
     <p>
-      <strong>Rating:</strong>
-      Not rated
+      <strong>Tags:</strong>
+      Islam, Lang:in
     </p>
     <p>
-      <strong>Tags:</strong>
-      Islam Populer, Lang:en
+      <strong>Publisher:</strong>
+      Noura Books
+    </p>
+    <p>
+      <strong>Published:</strong>
+      January 17, 2016
+    </p>
+    <p>
+      <strong>Added:</strong>
+      August 31, 2019
     </p>
   </content>
   <link href="../authors_0/authors_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Ust. Wijayanto" />

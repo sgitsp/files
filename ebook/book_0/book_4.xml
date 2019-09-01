@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Turned (Book 1 in the Vampire Journals) by Morgan Rice</title>
+  <id>urn:book:5fd4e730-6f35-4136-8afa-827e0e41329c</id>
+  <updated>2019-09-01T00:05:38Z</updated>
+  <link href="./book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Turned (Book 1 in the Vampire Journals) by Morgan Rice" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="http://repo.purwadi.web.id/ebook/Morgan%20Rice/Turned%20%28Book%201%20in%20the%20Vampire%20Journa%20%284%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Morgan%20Rice/Turned%20%28Book%201%20in%20the%20Vampire%20Journa%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Morgan%20Rice/Turned%20%28Book%201%20in%20the%20Vampire%20Journa%20%284%29/Turned%20%28Book%201%20in%20the%20Vampire%20J%20-%20Morgan%20Rice.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="274 KB" />
+  <author>
+    <name>Morgan Rice</name>
+    <uri>../authors_0/authors_4_Page_1.xml</uri>
+  </author>
+  <published>2014-11-30T05:00:00Z</published>
+  <dcterms:language>in</dcterms:language>
+  <category term="Lang:in" />
+  <content type="text/html">
+    <p>
+      <strong>Tags:</strong>
+      Lang:in
+    </p>
+    <p>
+      <strong>Published:</strong>
+      November 30, 2014
+    </p>
+    <p>
+      <strong>Added:</strong>
+      September 1, 2019
+    </p>
+  </content>
+  <link href="../authors_0/authors_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Morgan Rice" />
+  <link href="http://www.goodreads.com/book/title/Turned%20%28Book%201%20in%20the%20Vampire%20Journals%29%20by%20Morgan%20Rice" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Turned%20%28Book%201%20in%20the%20Vampire%20Journals%29%20by%20Morgan%20Rice" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Turned%20%28Book%201%20in%20the%20Vampire%20Journals%29%20by%20Morgan%20Rice%20Morgan%20Rice" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Turned%20%28Book%201%20in%20the%20Vampire%20Journals%29%20by%20Morgan%20Rice&amp;field-author=Morgan%20Rice" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Morgan%20Rice" type="text/html" rel="related" title="Morgan Rice on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Morgan%20Rice" type="text/html" rel="related" title="Morgan Rice on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/RiceMorgan" type="text/html" rel="related" title="Morgan Rice on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Morgan%20Rice" type="text/html" rel="related" title="Morgan Rice on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Morgan%20Rice" type="text/html" rel="related" title="Morgan Rice on ISFDB" target="_blank" />
+</entry>

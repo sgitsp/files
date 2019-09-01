@@ -1,0 +1,8 @@
+# For generated catalog
+.generated
+
+# Others
+*.bak
+*.old
+*.new
+*.code-workspace

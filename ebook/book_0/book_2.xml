@@ -15,17 +15,26 @@
     <uri>../authors_0/authors_2_Page_1.xml</uri>
   </author>
   <published>2014-04-21T05:00:00Z</published>
-  <dcterms:language>en</dcterms:language>
+  <dcterms:language>in</dcterms:language>
   <dcterms:publisher>Mizan</dcterms:publisher>
-  <category term="Lang:en" />
+  <category term="Islam" />
+  <category term="Lang:in" />
   <content type="text/html">
     <p>
-      <strong>Rating:</strong>
-      Not rated
+      <strong>Tags:</strong>
+      Islam, Lang:in
     </p>
     <p>
-      <strong>Tags:</strong>
-      Lang:en
+      <strong>Publisher:</strong>
+      Mizan
+    </p>
+    <p>
+      <strong>Published:</strong>
+      April 21, 2014
+    </p>
+    <p>
+      <strong>Added:</strong>
+      August 31, 2019
     </p>
   </content>
   <link href="../authors_0/authors_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Haidar Bagir" />
