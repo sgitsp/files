@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Tags</title>
+  <id>Calibre2opds:taglist</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./taglist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Tags" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <entry>
+    <title>Self-Help</title>
+    <id>Calibre2opds:taglist:16</id>
+    <content type="text">Seni Mencintai Diri Sendiri</content>
+    <link href="../tags_0/tags_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Self-Management</title>
+    <id>Calibre2opds:taglist:17</id>
+    <content type="text">Seni Mencintai Diri Sendiri</content>
+    <link href="../tags_0/tags_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Social Issues</title>
+    <id>Calibre2opds:taglist:25</id>
+    <content type="text">Orang Maiyah</content>
+    <link href="../tags_0/tags_25_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Social Science</title>
+    <id>Calibre2opds:taglist:27</id>
+    <content type="text">Orang Maiyah</content>
+    <link href="../tags_0/tags_27_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Topic</title>
+    <id>Calibre2opds:taglist:13</id>
+    <content type="text">Modern Romance</content>
+    <link href="../tags_0/tags_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Toys; Dolls &amp; Puppets</title>
+    <id>Calibre2opds:taglist:21</id>
+    <content type="text">Rahvayana 2: Ada Yang Tiada</content>
+    <link href="../tags_0/tags_21_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Urban</title>
+    <id>Calibre2opds:taglist:24</id>
+    <content type="text">Orang Maiyah</content>
+    <link href="../tags_0/tags_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Women Authors</title>
+    <id>Calibre2opds:taglist:30</id>
+    <content type="text">Madre</content>
+    <link href="../tags_0/tags_30_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
+</feed>

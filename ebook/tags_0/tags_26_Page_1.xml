@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Emotions &amp; Feelings</title>
+  <id>Calibre2opds:taglist:26</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_26_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Emotions &amp; Feelings" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <entry>
+    <title>Orang Maiyah</title>
+    <id>calibre:book:8</id>
+    <updated>2019-09-01T01:44:50Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Orang%20Maiyah%20%288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Orang%20Maiyah%20%288%29/Orang%20Maiyah%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
+    <author>
+      <name>Emha Ainun Nadjib</name>
+      <uri>../authors_0/authors_10_Page_1.xml</uri>
+    </author>
+    <published>2016-01-07T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Urban" />
+    <category term="Juvenile Fiction" />
+    <category term="Social Issues" />
+    <category term="Emotions &amp; Feelings" />
+    <category term="Social Science" />
+    <category term="Popular Culture" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Orang Maiyah adalah orang yang membaca dirinya berulang-ulang, ribuan kali. Di dalam Maiyah tak ada guru dan murid. Semua orang adalah murid, sang penghendak ilmu. Hidup orang Maiyah tidak tergantung kekayaan dan atau kemisk...</summary>
+    <link href="../book_0/book_8.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2e24a65-88f9-4b49-a9b9-568f2eee3d77</dc:identifier>
+        <dc:title>Rahvayana 2: Ada Yang Tiada</dc:title>
+        <dc:creator opf:file-as="Tejo, Sujiwo" opf:role="aut">Sujiwo Tejo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.47.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-13T17:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;&lt;b&gt;&lt;a href="http://repo.purwadi.web.id/ebook"&gt;Sigit Purwadi's Library&lt;/a&gt;&lt;/b&gt; - Sinta berubah. Namanya jadi Janaki. Janaki pun berubah. Namanya jadi Waidehi. Tapi, Rahwana tetap mencintainya. Rahwana tetapmenjunjungnya, menyembahnya.Terhadap titisan Dewi Widowati itu ia tak menyembah nama.Rahwana menyembah Zat melalui caranya sendiri. Persembahannyasecara agama cinta ....Hmmm ....Sebuah nama yang ada bukan karena dinamai. Sebuah nama yang ada juga bukan karena menamai dirinya sendiri. Adakah itu? Ada. Rahwana yakin itu ada. Dan ia sangat mencintainya.[Mizan, Bentang, Sujiwo Tejo, Wayang, Jawa, Rahwana, Shinta, Cinta, Sastra]Spesial Bentang Sujiwo Tejo&lt;/p&gt;</dc:description>
+        <dc:publisher>Bentang Pustaka</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">iKHaxQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786022910848</dc:identifier>
+        <dc:language>ind</dc:language>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>Toys; Dolls &amp; Puppets</dc:subject>
+        <dc:subject>Literary Collections</dc:subject>
+        <dc:subject>Asian</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="{&quot;Sujiwo Tejo&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-09-01T06:45:17.644000+00:00" name="calibre:timestamp"/>
+        <meta content="Rahvayana 2: Ada Yang Tiada" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

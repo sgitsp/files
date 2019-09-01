@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fafdc3c9-d6da-4165-a51b-b5034478d89c</dc:identifier>
+        <dc:title>Dilan: Dia Adalah Dilanku Tahun 1990</dc:title>
+        <dc:creator opf:file-as="Baiq, Pidi" opf:role="aut">Pidi Baiq</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.47.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-14T17:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;&lt;b&gt;&lt;a href="http://repo.purwadi.web.id/ebook"&gt;Sigit Purwadi's Library&lt;/a&gt;&lt;/b&gt; - "Milea, kamu cantik, tapi aku belum mencintaimu. Enggak tahu kalau sore.Tunggu aja." (Dilan 1990)"Milea, jangan pernah bilang ke aku ada yang menyakitimu, nanti, besoknya, orang itu akan hilang." (Dilan 1990)"Cinta sejati adalah kenyamanan, kepercayaan, dan dukungan. Kalau kamu tidak setuju, aku tidak peduli." (Milea 1990)[Mizan, Pidi Baiq, SMA, Roman, Remaja, Bandung, Milea]&lt;/p&gt;</dc:description>
+        <dc:publisher>PastelBooks</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">U_-BBAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786027870413</dc:identifier>
+        <dc:language>ind</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>Humorous Stories</dc:subject>
+        <dc:subject>Love &amp; Romance</dc:subject>
+        <meta content="{&quot;Pidi Baiq&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-09-01T06:50:12.826000+00:00" name="calibre:timestamp"/>
+        <meta content="Dilan: Dia Adalah Dilanku Tahun 1990" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

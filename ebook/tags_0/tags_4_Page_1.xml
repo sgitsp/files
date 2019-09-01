@@ -43,7 +43,7 @@
       <uri>../authors_0/authors_6_Page_1.xml</uri>
     </author>
     <published>2016-01-19T05:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
+    <dcterms:language>in</dcterms:language>
     <dcterms:publisher>Noura Books</dcterms:publisher>
     <category term="Religion" />
     <category term="General" />
@@ -51,7 +51,7 @@
     <category term="Family &amp; Relationships" />
     <category term="Love &amp; Romance" />
     <category term="Islam" />
-    <category term="Lang:en" />
+    <category term="Lang:in" />
     <summary>Sigit Purwadi's Library - Ya Rasulullah, kenapa kau jodohkan aku dengan Bilal? Aku ingin bersuamikan lelaki yang sedang berazan itu. Suaranya bagus sekali, pasti orangnya pun saleh.Ya, itu Bilal.  Itulah sepenggal kisah yang menjadi ilustrasi dalam b...</summary>
     <link href="../book_0/book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>

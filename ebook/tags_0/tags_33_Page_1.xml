@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Lang:in</title>
+  <id>Calibre2opds:taglist:33</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_33_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lang:in" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <entry>
+    <title>Buat Apa Shalat?!</title>
+    <id>calibre:book:2</id>
+    <updated>2019-09-01T00:20:22Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Buat%20Apa%20Shalat_%21%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Buat%20Apa%20Shalat_%21%20%282%29/Buat%20Apa%20Shalat_%21%20-%20Haidar%20Bagir.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="476 KB" />
+    <author>
+      <name>Haidar Bagir</name>
+      <uri>../authors_0/authors_2_Page_1.xml</uri>
+    </author>
+    <published>2006-02-28T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
+    <category term="Religion" />
+    <category term="Rituals &amp; Practice" />
+    <category term="Islam" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - SHALAT, secara harfiah, berarti doa. Dalam konteks ini, yang dimaksud shalat adalah doa yang disampaikan dengan tata cara?syarat dan rukun?yang khas dalam bentuk bacaanbacaan dan gerakan-gerakan tertentu.ÿDalam bahasa syaria...</summary>
+    <link href="../book_0/book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>BUMI MANUSIA</title>
+    <id>calibre:book:5</id>
+    <updated>2019-09-01T01:23:33Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Pramoedya%20Ananta%20Toer/BUMI%20MANUSIA%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Pramoedya%20Ananta%20Toer/BUMI%20MANUSIA%20%285%29/BUMI%20MANUSIA%20-%20Pramoedya%20Ananta%20Toer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Pramoedya Ananta Toer</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <published>2002-09-30T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Hasta Mitra</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Historical" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Buku ini bercerita tentang perjalanan seorang tokoh bernama Minke. Minke adalah salah satu anak pribumi yang sekolah di HBS. Pada masa itu, yang dapat masuk ke sekolah HBS adalah orang-orang keturunan Eropa. Minke adalah seo...</summary>
+    <link href="../book_0/book_5.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dilan: Dia Adalah Dilanku Tahun 1990</title>
+    <id>calibre:book:11</id>
+    <updated>2019-09-01T01:50:14Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan_%20Dia%20Adalah%20Dilanku%20Tahun%201990%20%2811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan_%20Dia%20Adalah%20Dilanku%20Tahun%201990%20%2811%29/Dilan_%20Dia%20Adalah%20Dilanku%20Tahun%20-%20Pidi%20Baiq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Pidi Baiq</name>
+      <uri>../authors_0/authors_13_Page_1.xml</uri>
+    </author>
+    <published>2014-09-14T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>PastelBooks</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Juvenile Fiction" />
+    <category term="Humorous Stories" />
+    <category term="Love &amp; Romance" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - "Milea, kamu cantik, tapi aku belum mencintaimu. Enggak tahu kalau sore.Tunggu aja." (Dilan 1990)"Milea, jangan pernah bilang ke aku ada yang menyakitimu, nanti, besoknya, orang itu akan hilang." (Dilan 1990)"Cinta sejati ad...</summary>
+    <link href="../book_0/book_11.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dilan 2: Dia Adalah Dilanku Tahun 1991</title>
+    <id>calibre:book:12</id>
+    <updated>2019-09-01T01:52:17Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan%202_%20Dia%20Adalah%20Dilanku%20Tahun%2019%20%2812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan%202_%20Dia%20Adalah%20Dilanku%20Tahun%2019%20%2812%29/Dilan%202_%20Dia%20Adalah%20Dilanku%20Tah%20-%20Pidi%20Baiq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
+    <author>
+      <name>Pidi Baiq</name>
+      <uri>../authors_0/authors_13_Page_1.xml</uri>
+    </author>
+    <published>2015-08-05T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>PastelBooks</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Juvenile Fiction" />
+    <category term="Humorous Stories" />
+    <category term="Love &amp; Romance" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - "Jika aku berkata bahwa aku mencintainya, maka itu adalah sebuah pernyataan yang sudah cukup lengkap."  -Milea "Senakal-nakalnya anak geng motor, Lia, mereka shalat pada waktu ujian praktek Agama."  -Dilan  @Viny_JKT48  "Aku...</summary>
+    <link href="../book_0/book_12.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Jodohku Maunya Sih Kamu: Ngaji Bareng Ust. Wijayanto</title>
+    <id>calibre:book:3</id>
+    <updated>2019-09-01T00:52:58Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20Baren%20%283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20Baren%20%283%29/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20-%20Ustadz%20Wijayanto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Ustadz Wijayanto</name>
+      <uri>../authors_0/authors_6_Page_1.xml</uri>
+    </author>
+    <published>2016-01-19T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Noura Books</dcterms:publisher>
+    <category term="Religion" />
+    <category term="General" />
+    <category term="Juvenile Nonfiction" />
+    <category term="Family &amp; Relationships" />
+    <category term="Love &amp; Romance" />
+    <category term="Islam" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Ya Rasulullah, kenapa kau jodohkan aku dengan Bilal? Aku ingin bersuamikan lelaki yang sedang berazan itu. Suaranya bagus sekali, pasti orangnya pun saleh.Ya, itu Bilal.  Itulah sepenggal kisah yang menjadi ilustrasi dalam b...</summary>
+    <link href="../book_0/book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Madre</title>
+    <id>calibre:book:10</id>
+    <updated>2019-09-01T01:48:35Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Dee%20Lestari/Madre%20%2810%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Dee%20Lestari/Madre%20%2810%29/Madre%20-%20Dee%20Lestari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Dee Lestari</name>
+      <uri>../authors_0/authors_12_Page_1.xml</uri>
+    </author>
+    <published>2016-02-25T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
+    <category term="Literary Collections" />
+    <category term="Women Authors" />
+    <category term="Juvenile Fiction" />
+    <category term="Media Tie-In" />
+    <category term="FIksi" />
+    <category term="Lang:in" />
+    <category term="Novel" />
+    <summary>Novel [1]: Sigit Purwadi's Library - "Apa rasanya jika sejarah kita berubah dalam sehari? Darah saya mendadak seperempat Tionghoa, Nenek saya seorang penjual roti, dan dia, bersama kakek yang tidak saya kenal, mewariskan anggota keluarga baru yang ti...</summary>
+    <link href="../book_0/book_10.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Orang Maiyah</title>
+    <id>calibre:book:8</id>
+    <updated>2019-09-01T01:44:50Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Orang%20Maiyah%20%288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Orang%20Maiyah%20%288%29/Orang%20Maiyah%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
+    <author>
+      <name>Emha Ainun Nadjib</name>
+      <uri>../authors_0/authors_10_Page_1.xml</uri>
+    </author>
+    <published>2016-01-07T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Urban" />
+    <category term="Juvenile Fiction" />
+    <category term="Social Issues" />
+    <category term="Emotions &amp; Feelings" />
+    <category term="Social Science" />
+    <category term="Popular Culture" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Orang Maiyah adalah orang yang membaca dirinya berulang-ulang, ribuan kali. Di dalam Maiyah tak ada guru dan murid. Semua orang adalah murid, sang penghendak ilmu. Hidup orang Maiyah tidak tergantung kekayaan dan atau kemisk...</summary>
+    <link href="../book_0/book_8.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Rahvayana 2: Ada Yang Tiada</title>
+    <id>calibre:book:9</id>
+    <updated>2019-09-01T01:45:19Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Sujiwo%20Tejo/Rahvayana%202_%20Ada%20Yang%20Tiada%20%289%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Sujiwo%20Tejo/Rahvayana%202_%20Ada%20Yang%20Tiada%20%289%29/Rahvayana%202_%20Ada%20Yang%20Tiada%20-%20Sujiwo%20Tejo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="36 MB" />
+    <author>
+      <name>Sujiwo Tejo</name>
+      <uri>../authors_0/authors_11_Page_1.xml</uri>
+    </author>
+    <published>2015-02-13T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="Toys; Dolls &amp; Puppets" />
+    <category term="Literary Collections" />
+    <category term="Asian" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Sinta berubah. Namanya jadi Janaki. Janaki pun berubah. Namanya jadi Waidehi. Tapi, Rahwana tetap mencintainya. Rahwana tetapmenjunjungnya, menyembahnya.Terhadap titisan Dewi Widowati itu ia tak menyembah nama.Rahwana menyem...</summary>
+    <link href="../book_0/book_9.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Seni Mencintai Diri Sendiri</title>
+    <id>calibre:book:7</id>
+    <updated>2019-09-01T01:30:33Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Suha%20Hoedi/Seni%20Mencintai%20Diri%20Sendiri%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Suha%20Hoedi/Seni%20Mencintai%20Diri%20Sendiri%20%287%29/Seni%20Mencintai%20Diri%20Sendiri%20-%20Suha%20Hoedi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="2 MB" />
+    <author>
+      <name>Suha Hoedi</name>
+      <uri>../authors_0/authors_9_Page_1.xml</uri>
+    </author>
+    <published>2015-12-31T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>TransMedia</dcterms:publisher>
+    <category term="Self-Help" />
+    <category term="Self-Management" />
+    <category term="General" />
+    <category term="Psychology" />
+    <category term="Personal Growth" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Buku persembahan TransMedia Pustaka ini membahas tip untuk membentuk pribadi yang positif, diawali dengan mengasah kemampuan untuk mencintai diri sendiri. Pembahasan di dalamnya termasuk membenahi pikiran dari penderitaan di...</summary>
+    <link href="../book_0/book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Turned</title>
+    <id>calibre:book:4</id>
+    <updated>2019-09-01T00:05:38Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Morgan%20Rice/Turned%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Morgan%20Rice/Turned%20%284%29/Turned%20-%20Morgan%20Rice.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="274 KB" />
+    <author>
+      <name>Morgan Rice</name>
+      <uri>../authors_0/authors_4_Page_1.xml</uri>
+    </author>
+    <published>2014-11-30T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <category term="Lang:in" />
+    <category term="Vampire Journals" />
+    <summary>Vampire Journals [1]: Sigit Purwadi's Library - "TURNED is a book to rival TWILIGHT and VAMPIRE DIARIES, and one that will have you wanting to keep reading until the very last page! If you are into adventure, love and vampires this book is the one fo...</summary>
+    <link href="../book_0/book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

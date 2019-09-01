@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Madre</title>
+  <id>urn:book:76c62792-9846-4065-9894-9004ddb819c6</id>
+  <updated>2019-09-01T01:48:35Z</updated>
+  <link href="./book_10.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Madre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authors_0/authors_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Dee Lestari" />
+  <link href="http://repo.purwadi.web.id/ebook/Dee%20Lestari/Madre%20%2810%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Dee%20Lestari/Madre%20%2810%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Dee%20Lestari/Madre%20%2810%29/Madre%20-%20Dee%20Lestari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+  <author>
+    <name>Dee Lestari</name>
+    <uri>../authors_0/authors_12_Page_1.xml</uri>
+  </author>
+  <published>2016-02-25T05:00:00Z</published>
+  <dcterms:language>in</dcterms:language>
+  <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
+  <category term="Literary Collections" />
+  <category term="Women Authors" />
+  <category term="Juvenile Fiction" />
+  <category term="Media Tie-In" />
+  <category term="FIksi" />
+  <category term="Lang:in" />
+  <category term="Novel" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 1 in the Novel series
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Literary Collections, Women Authors, Juvenile Fiction, Media Tie-In, FIksi, Lang:in
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Bentang Pustaka
+    </p>
+    <p>
+      <strong>Published:</strong>
+      February 25, 2016
+    </p>
+    <p>
+      <strong>Added:</strong>
+      September 1, 2019
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">
+      <b>
+        <a href="http://repo.purwadi.web.id/ebook">Sigit Purwadi's
+      Library</a>
+      </b>
+       - "Apa rasanya jika sejarah kita berubah dalam
+    sehari? Darah saya mendadak seperempat Tionghoa, Nenek saya
+    seorang penjual roti, dan dia, bersama kakek yang tidak saya
+    kenal, mewariskan anggota keluarga baru yang tidak pernah saya
+    tahu: Madre."Terdiri dari 13 prosa dan karya fiksi, Madre
+    merupakan kumpulan karya Dee selama lima tahun terakhir.
+    Untaian kisah apik ini menyuguhkan berbagai tema: perjuangan
+    sebuah toko roti kuno, dialog antara ibu dan janinnya, dilema
+    antara cinta dan persahabatan, sampai tema seperti reinkarnasi
+    dan kemerdekaan sejati.Lewat sentilan dan sentuhan khas seorang
+    Dee, Madre merupakan etalase bagi kematangannya sebagai salah
+    satu penulis perempuan terbaik di Indonesia.[Mizan, Bentang
+    Pustaka, Dewi Dee Lestari, Madre, Film, Prosa, Sastra,
+    Indonesia]Spesial Bentang Dee Lestari
+    </p>
+  </content>
+  <link href="../authors_0/authors_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Dee Lestari" />
+  <link href="http://www.goodreads.com/book/title/Madre" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Madre" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Madre%20Dee%20Lestari" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Madre&amp;field-author=Dee%20Lestari" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Dee%20Lestari" type="text/html" rel="related" title="Dee Lestari on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Dee%20Lestari" type="text/html" rel="related" title="Dee Lestari on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/LestariDee" type="text/html" rel="related" title="Dee Lestari on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Dee%20Lestari" type="text/html" rel="related" title="Dee Lestari on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Dee%20Lestari" type="text/html" rel="related" title="Dee Lestari on ISFDB" target="_blank" />
+</entry>

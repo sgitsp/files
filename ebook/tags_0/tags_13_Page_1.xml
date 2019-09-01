@@ -11,7 +11,7 @@
   <link href="./tags_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Topic" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
-  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
   <entry>
     <title>Modern Romance</title>
     <id>calibre:book:6</id>

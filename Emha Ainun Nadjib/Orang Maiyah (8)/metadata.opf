@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7929471-6d23-4d7f-b2f3-56df3c994897</dc:identifier>
+        <dc:title>Orang Maiyah</dc:title>
+        <dc:creator opf:file-as="Nadjib, Emha Ainun" opf:role="aut">Emha Ainun Nadjib</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.47.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-07T17:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;&lt;b&gt;&lt;a href="http://repo.purwadi.web.id/ebook"&gt;Sigit Purwadi's Library&lt;/a&gt;&lt;/b&gt; - Orang Maiyah adalah orang yang membaca dirinya berulang-ulang, ribuan kali. Di dalam Maiyah tak ada guru dan murid. Semua orang adalah murid, sang penghendak ilmu. Hidup orang Maiyah tidak tergantung kekayaan dan atau kemiskinan, tetapi tergantung pada proses pembelajaran menggunakan akal dan nuraninya untuk menyutradarai hidup menuju yang pantas dituju.***Orang Maiyah menunjukkan kepada kita bahwa Cak Nun bukanlah satu-satunya tokoh kunci. Cak Nun bukanlah orang suci yang berusaha mencerahkan bumi. Buah pikirannya tertransfer kepada orang-orang Maiyah lainnya, yang kemudian melanjutkannya lagi kepada orang-orang di sekitar mereka. Orang Maiyah adalah orang-orang yang ikhlas dan mau berpikir. Bagi orang Maiyah, tanggal 17 menjadi saat yang paling ditunggu-tunggu. Dengan wajah cerah dan energi melimpah, mereka berkumpul selama lima hingga tujuh jam di suatu tempat, tanpa rasa lelah dan terpaksa. Lalu, apa yang sesungguhnya membuat mereka bertahan? Buku ini merangkum dialog Cak Nun dan tujuh orang Maiyah lainnya dalam menginternalisasi peran forum Maiyah dalam keseharian hidup mereka. [Mizan, Bentang Pustaka, Masyarakat, Rakyat, Hidup, Bangsa, Negara, Kota, Desa, Indonesia]Spesial Bentang Emha&lt;/p&gt;</dc:description>
+        <dc:publisher>Bentang Pustaka</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">9vdUCwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786022911265</dc:identifier>
+        <dc:language>ind</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Urban</dc:subject>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>Social Issues</dc:subject>
+        <dc:subject>Emotions &amp; Feelings</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Popular Culture</dc:subject>
+        <meta content="{&quot;Emha Ainun Nadjib&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-09-01T06:44:49.345000+00:00" name="calibre:timestamp"/>
+        <meta content="Orang Maiyah" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
