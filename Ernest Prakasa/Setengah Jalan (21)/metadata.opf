@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">005f1c36-d91a-440e-9527-db1f5faad165</dc:identifier>
+        <dc:title>Setengah Jalan</dc:title>
+        <dc:creator opf:file-as="Prakasa, Ernest" opf:role="aut">Ernest Prakasa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.47.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-04T17:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;&lt;b&gt;&lt;a href="http://repo.purwadi.web.id/ebook"&gt;Sigit Purwadi's Library&lt;/a&gt;&lt;/b&gt; - Gue mendukung kebebasan berekspresi di YouTube, termasuk bagi orang yang kontroversial kayak Young Lex. Orang sering bilang ke gue, "Tapi Nest, Young Lex itu nggak mendidik!" Kalau digituin, gue cuma jawab, "Sejak kapan mendidik jadi tanggung jawab Young Lex?" Contohnya anak gue, Sky, kelas 1 SD. Misalnya, dia suatu saat gue marahin, "Sky, kamu tuh kenapa bandel banget, sih!?" Lalu dia malah jawab, "Ya, gue sih cuma bisa bilang, O AZA YA KAN ...." Salah siapa? Salah lagunya Young Lex? Ya, salah gue lah sebagai bapaknya!Dari Bab "Fenomena YouTube"Gue pernah baca iklan yang tulisannya begini: "PERNAH DIPUTUSIN PACAR KARENA KURANG PUTIH? PAKAI KRIM KITA SIS!" Buset. Diputusin pacar karena kurang putih. Itu pacar lo suruh pacaran sama bengkoang aja. Dangkal bener jadi orang. Tapi, ya, itu secara umum kalau gue lihat di akun Instagram artis-artis ber-followers ratusan ribu atau bahkan jutaan, salah satu yang paling sering muncul selain iklan pemutih dan pelangsing adalah iklan penyubur. Ini jadi agak membingungkan karena faktanya, pengguna Instagram itu mayoritas anak muda berumur 18 sampai 24 tahun. Tapi, kenapa spam yang paling banyak obat penyubur? Apa iya anak muda umur 18 sampai 24 udah pada ngebet banget punya anak?Dari Bab "Mendekatkan yang Jauh,Menjauhkan yang Dekat"Come on, guys. Yuk, ah. Perlu nunggu Presiden Jokowi memberlakukan "Hari Anti-Bau Ketek Nasional" baru mau bertindak? Mari, wujudkan lingkungan yang lebih menyenangkan. Kenapa gue bilang "lingkungan"? Karena, sering kali orang yang bau badan itu nggak nyadar, meski sekelilingnya udah pada sesak napas. Padahal, kalau mau ditelaah secara lebih ilmiah, jarak dari TKP (Tempat Kejadian Perkara), yaitu ketek pelaku, ke lubang hidungnya sendiri, kan jelas lebih deket dibandingkan dengan jarak dari TKP ke hidung korban, yakni kita-kita ini. Aneh, nggak, sih? Sungguh sebuah misteri Ilahi.Dari Bab "Misteri Bau Badan"[Mizan, Bentang, Bfirst, Comedy, Live, Ernest, Indonesia]&lt;/p&gt;</dc:description>
+        <dc:publisher>Bentang B first</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">4qk4DwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786024260347</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Affirmations</dc:subject>
+        <meta content="{&quot;Ernest Prakasa&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-09-01T07:19:13.293000+00:00" name="calibre:timestamp"/>
+        <meta content="Setengah Jalan" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -13,6 +13,85 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
   <entry>
+    <title>Setengah Jalan [September 1, 2019]</title>
+    <id>calibre:book:21</id>
+    <updated>2019-09-01T02:19:19Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Ernest%20Prakasa/Setengah%20Jalan%20%2821%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Ernest%20Prakasa/Setengah%20Jalan%20%2821%29/Setengah%20Jalan%20-%20Ernest%20Prakasa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
+    <author>
+      <name>Ernest Prakasa</name>
+      <uri>../authors_0/authors_21_Page_1.xml</uri>
+    </author>
+    <published>2017-10-04T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Bentang B first</dcterms:publisher>
+    <category term="Self-Help" />
+    <category term="Affirmations" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - Gue mendukung kebebasan berekspresi di YouTube, termasuk bagi orang yang kontroversial kayak Young Lex. Orang sering bilang ke gue, "Tapi Nest, Young Lex itu nggak mendidik!" Kalau digituin, gue cuma jawab, "Sejak kapan mend...</summary>
+    <link href="../book_0/book_21.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>KonMari™ Mengubah Hidupku [September 1, 2019]</title>
+    <id>calibre:book:20</id>
+    <updated>2019-09-01T02:18:51Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Khoirun%20Nikmah/KonMariTM%20Mengubah%20Hidupku%20%2820%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Khoirun%20Nikmah/KonMariTM%20Mengubah%20Hidupku%20%2820%29/KonMariTM%20Mengubah%20Hidupku%20-%20Khoirun%20Nikmah.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
+    <author>
+      <name>Khoirun Nikmah</name>
+      <uri>../authors_0/authors_20_Page_1.xml</uri>
+    </author>
+    <published>2018-09-27T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
+    <category term="Self-Help" />
+    <category term="Motivational &amp; Inspirational" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - Marie Kondo, seorang konsultan berbenah asal Jepang, memperkenalkan metode merapikan yang ampuh tiada duanya, KonMari. Keampuhan metode ini makin marak dirasakan di Indonesia, tepatnya setelah buku The Life-Changing Magic of...</summary>
+    <link href="../book_0/book_20.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Kisah Tanah Jawa [September 1, 2019]</title>
+    <id>calibre:book:16</id>
+    <updated>2019-09-01T02:17:17Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/%40kisahtanahjawa/Kisah%20Tanah%20Jawa%20%2816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/%40kisahtanahjawa/Kisah%20Tanah%20Jawa%20%2816%29/Kisah%20Tanah%20Jawa%20-%20%40kisahtanahjawa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="219 KB" />
+    <author>
+      <name>@kisahtanahjawa</name>
+      <uri>../authors_0/authors_16_Page_1.xml</uri>
+    </author>
+    <published>2018-12-31T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>GagasMedia</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - “Kenapa mobilnya, Pak?”“Nggak tahu nih, Bu. Biar bapak cek dulu, ya.” Kondisi jalan pukul 7 malam itu sangat sepi, hanya ada mobil tersebut ditemani suara jangkrik. Bapak itu mencoba men-starter mobilnya dengan keadaan kap m...</summary>
+    <link href="../book_0/book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ngopi Bareng Denny Siregar: Tuhan Dalam Secangkir Kopi [September 1, 2019]</title>
+    <id>calibre:book:15</id>
+    <updated>2019-09-01T02:16:58Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Denny%20Siregar/Ngopi%20Bareng%20Denny%20Siregar_%20Tuhan%20Da%20%2815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Denny%20Siregar/Ngopi%20Bareng%20Denny%20Siregar_%20Tuhan%20Da%20%2815%29/Ngopi%20Bareng%20Denny%20Siregar_%20Tuh%20-%20Denny%20Siregar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="752 KB" />
+    <author>
+      <name>Denny Siregar</name>
+      <uri>../authors_0/authors_15_Page_1.xml</uri>
+    </author>
+    <published>2016-06-08T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Noura Books</dcterms:publisher>
+    <category term="Body; Mind &amp; Spirit" />
+    <category term="General" />
+    <category term="Religion" />
+    <category term="Spirituality" />
+    <category term="Tuhan dalam Secangkir Kopi" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - Denny Siregar lewat tulisan-tulisannya mengajarkan bagaimana menyampaikan ide tanpa mendoktrin, menyetujui suatu hal tanpa menjatuhkan hal lain, menolak gagasan tanpa menghina, dan yang terpenting, mengajari tanpa menggurui....</summary>
+    <link href="../book_0/book_15.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Dilan 2: Dia Adalah Dilanku Tahun 1991 [September 1, 2019]</title>
     <id>calibre:book:12</id>
     <updated>2019-09-01T01:52:17Z</updated>

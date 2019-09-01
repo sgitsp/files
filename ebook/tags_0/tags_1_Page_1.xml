@@ -76,6 +76,25 @@
     <link href="../book_0/book_12.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Kisah Tanah Jawa</title>
+    <id>calibre:book:16</id>
+    <updated>2019-09-01T02:17:17Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/%40kisahtanahjawa/Kisah%20Tanah%20Jawa%20%2816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/%40kisahtanahjawa/Kisah%20Tanah%20Jawa%20%2816%29/Kisah%20Tanah%20Jawa%20-%20%40kisahtanahjawa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="219 KB" />
+    <author>
+      <name>@kisahtanahjawa</name>
+      <uri>../authors_0/authors_16_Page_1.xml</uri>
+    </author>
+    <published>2018-12-31T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>GagasMedia</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - “Kenapa mobilnya, Pak?”“Nggak tahu nih, Bu. Biar bapak cek dulu, ya.” Kondisi jalan pukul 7 malam itu sangat sepi, hanya ada mobil tersebut ditemani suara jangkrik. Bapak itu mencoba men-starter mobilnya dengan keadaan kap m...</summary>
+    <link href="../book_0/book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Orang Maiyah</title>
     <id>calibre:book:8</id>
     <updated>2019-09-01T01:44:50Z</updated>
