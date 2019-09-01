@@ -13,11 +13,60 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
   <entry>
+    <title>Seni Mencintai Diri Sendiri [September 1, 2019]</title>
+    <id>calibre:book:7</id>
+    <updated>2019-09-01T01:30:33Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Suha%20Hoedi/Seni%20Mencintai%20Diri%20Sendiri%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Suha%20Hoedi/Seni%20Mencintai%20Diri%20Sendiri%20%287%29/Seni%20Mencintai%20Diri%20Sendiri%20-%20Suha%20Hoedi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="2 MB" />
+    <author>
+      <name>Suha Hoedi</name>
+      <uri>../authors_0/authors_9_Page_1.xml</uri>
+    </author>
+    <published>2015-12-31T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>TransMedia</dcterms:publisher>
+    <category term="Self-Help" />
+    <category term="Self-Management" />
+    <category term="General" />
+    <category term="Psychology" />
+    <category term="Personal Growth" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Buku persembahan TransMedia Pustaka ini membahas tip untuk membentuk pribadi yang positif, diawali dengan mengasah kemampuan untuk mencintai diri sendiri. Pembahasan di dalamnya termasuk membenahi pikiran dari penderitaan di...</summary>
+    <link href="../book_0/book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Modern Romance [September 1, 2019]</title>
+    <id>calibre:book:6</id>
+    <updated>2019-09-01T01:26:44Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Aziz%20Ansari/Modern%20Romance%20%286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Aziz%20Ansari/Modern%20Romance%20%286%29/Modern%20Romance%20-%20Aziz%20Ansari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Aziz Ansari</name>
+      <uri>../authors_0/authors_7_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Eric Klinenberg</name>
+      <uri>../authors_0/authors_8_Page_1.xml</uri>
+    </author>
+    <published>2015-06-15T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin</dcterms:publisher>
+    <category term="Humor" />
+    <category term="Topic" />
+    <category term="Men; Women &amp; Relationships" />
+    <category term="Family &amp; Relationships" />
+    <category term="Love &amp; Romance" />
+    <category term="Marriage &amp; Family" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - The #1 New York Times Bestseller  A hilarious, thoughtful, and in-depth exploration of the pleasures and perils of modern romance from Aziz Ansari, the star of Master of None  and one of this generation’s sharpest comedic vo...</summary>
+    <link href="../book_0/book_6.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>BUMI MANUSIA [September 1, 2019]</title>
     <id>calibre:book:5</id>
-    <updated>2019-09-01T00:55:49Z</updated>
+    <updated>2019-09-01T01:23:33Z</updated>
     <link href="http://repo.purwadi.web.id/ebook/Pramoedya%20Ananta%20Toer/BUMI%20MANUSIA%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Pramoedya%20Ananta%20Toer/BUMI%20MANUSIA%20%285%29/BUMI%20MANUSIA%20-%20Pramoedya%20Ananta%20Toer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="595 KB" />
+    <link href="http://repo.purwadi.web.id/ebook/Pramoedya%20Ananta%20Toer/BUMI%20MANUSIA%20%285%29/BUMI%20MANUSIA%20-%20Pramoedya%20Ananta%20Toer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Pramoedya Ananta Toer</name>
       <uri>../authors_0/authors_5_Page_1.xml</uri>
@@ -28,7 +77,7 @@
     <category term="Fiction" />
     <category term="Historical" />
     <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Buku ini bercerita tentang perjalanan seorang tokoh bernama Minke. Minke adalah salah satu anak pribumi yang sekolah di HBS. Pada masa itu, yang dapat masuk ke sekolah HBS adalah orang-orang keturunan Eropa. Minke adalah seo...</summary>
+    <summary>Sigit Purwadi's Library - Buku ini bercerita tentang perjalanan seorang tokoh bernama Minke. Minke adalah salah satu anak pribumi yang sekolah di HBS. Pada masa itu, yang dapat masuk ke sekolah HBS adalah orang-orang keturunan Eropa. Minke adalah seo...</summary>
     <link href="../book_0/book_5.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>

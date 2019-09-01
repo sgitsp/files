@@ -35,4 +35,26 @@
     <summary>Sigit Purwadi's Library - Ya Rasulullah, kenapa kau jodohkan aku dengan Bilal? Aku ingin bersuamikan lelaki yang sedang berazan itu. Suaranya bagus sekali, pasti orangnya pun saleh.Ya, itu Bilal.  Itulah sepenggal kisah yang menjadi ilustrasi dalam b...</summary>
     <link href="../book_0/book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
+  <entry>
+    <title>Seni Mencintai Diri Sendiri</title>
+    <id>calibre:book:7</id>
+    <updated>2019-09-01T01:30:33Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Suha%20Hoedi/Seni%20Mencintai%20Diri%20Sendiri%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Suha%20Hoedi/Seni%20Mencintai%20Diri%20Sendiri%20%287%29/Seni%20Mencintai%20Diri%20Sendiri%20-%20Suha%20Hoedi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="2 MB" />
+    <author>
+      <name>Suha Hoedi</name>
+      <uri>../authors_0/authors_9_Page_1.xml</uri>
+    </author>
+    <published>2015-12-31T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>TransMedia</dcterms:publisher>
+    <category term="Self-Help" />
+    <category term="Self-Management" />
+    <category term="General" />
+    <category term="Psychology" />
+    <category term="Personal Growth" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Buku persembahan TransMedia Pustaka ini membahas tip untuk membentuk pribadi yang positif, diawali dengan mengasah kemampuan untuk mencintai diri sendiri. Pembahasan di dalamnya termasuk membenahi pikiran dari penderitaan di...</summary>
+    <link href="../book_0/book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
 </feed>

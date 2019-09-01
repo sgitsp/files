@@ -14,7 +14,7 @@
   <entry>
     <title>Family &amp; Relationships</title>
     <id>Calibre2opds:taglist:10</id>
-    <content type="text">1 book</content>
+    <content type="text">2 books</content>
     <link href="../tags_0/tags_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -30,7 +30,7 @@
   <entry>
     <title>General</title>
     <id>Calibre2opds:taglist:8</id>
-    <content type="text">1 book</content>
+    <content type="text">2 books</content>
     <link href="../tags_0/tags_8_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -40,6 +40,14 @@
     <id>Calibre2opds:taglist:5</id>
     <content type="text">BUMI MANUSIA</content>
     <link href="../tags_0/tags_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Humor</title>
+    <id>Calibre2opds:taglist:12</id>
+    <content type="text">Modern Romance</content>
+    <link href="../tags_0/tags_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
@@ -61,25 +69,49 @@
   </entry>
   <entry>
     <title>Lang:en</title>
-    <id>Calibre2opds:taglist:13</id>
-    <content type="text">2 books</content>
-    <link href="../tags_0/tags_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <id>Calibre2opds:taglist:21</id>
+    <content type="text">3 books</content>
+    <link href="../tags_0/tags_21_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
     <title>Lang:in</title>
-    <id>Calibre2opds:taglist:12</id>
-    <content type="text">3 books</content>
-    <link href="../tags_0/tags_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <id>Calibre2opds:taglist:20</id>
+    <content type="text">4 books</content>
+    <link href="../tags_0/tags_20_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
     <title>Love &amp; Romance</title>
     <id>Calibre2opds:taglist:11</id>
-    <content type="text">1 book</content>
+    <content type="text">2 books</content>
     <link href="../tags_0/tags_11_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Marriage &amp; Family</title>
+    <id>Calibre2opds:taglist:15</id>
+    <content type="text">Modern Romance</content>
+    <link href="../tags_0/tags_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Men; Women &amp; Relationships</title>
+    <id>Calibre2opds:taglist:14</id>
+    <content type="text">Modern Romance</content>
+    <link href="../tags_0/tags_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Personal Growth</title>
+    <id>Calibre2opds:taglist:19</id>
+    <content type="text">Seni Mencintai Diri Sendiri</content>
+    <link href="../tags_0/tags_19_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
@@ -88,6 +120,14 @@
     <id>Calibre2opds:taglist:2</id>
     <content type="text">The Prophet</content>
     <link href="../tags_0/tags_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Psychology</title>
+    <id>Calibre2opds:taglist:18</id>
+    <content type="text">Seni Mencintai Diri Sendiri</content>
+    <link href="../tags_0/tags_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
@@ -104,6 +144,30 @@
     <id>Calibre2opds:taglist:7</id>
     <content type="text">Buat Apa Shalat?!</content>
     <link href="../tags_0/tags_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Self-Help</title>
+    <id>Calibre2opds:taglist:16</id>
+    <content type="text">Seni Mencintai Diri Sendiri</content>
+    <link href="../tags_0/tags_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Self-Management</title>
+    <id>Calibre2opds:taglist:17</id>
+    <content type="text">Seni Mencintai Diri Sendiri</content>
+    <link href="../tags_0/tags_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Topic</title>
+    <id>Calibre2opds:taglist:13</id>
+    <content type="text">Modern Romance</content>
+    <link href="../tags_0/tags_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

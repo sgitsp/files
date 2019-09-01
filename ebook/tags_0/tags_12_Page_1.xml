@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Lang:in</title>
+  <title>Humor</title>
   <id>Calibre2opds:taglist:12</id>
   <author>
     <name>David Pierron</name>
@@ -8,64 +8,35 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./tags_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lang:in" />
+  <link href="./tags_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Humor" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
   <entry>
-    <title>Buat Apa Shalat?!</title>
-    <id>calibre:book:2</id>
-    <updated>2019-09-01T00:20:22Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Buat%20Apa%20Shalat_%21%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Buat%20Apa%20Shalat_%21%20%282%29/Buat%20Apa%20Shalat_%21%20-%20Haidar%20Bagir.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="476 KB" />
+    <title>Modern Romance</title>
+    <id>calibre:book:6</id>
+    <updated>2019-09-01T01:26:44Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Aziz%20Ansari/Modern%20Romance%20%286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Aziz%20Ansari/Modern%20Romance%20%286%29/Modern%20Romance%20-%20Aziz%20Ansari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
-      <name>Haidar Bagir</name>
-      <uri>../authors_0/authors_2_Page_1.xml</uri>
+      <name>Aziz Ansari</name>
+      <uri>../authors_0/authors_7_Page_1.xml</uri>
     </author>
-    <published>2006-02-28T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
-    <category term="Religion" />
-    <category term="Rituals &amp; Practice" />
-    <category term="Islam" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - SHALAT, secara harfiah, berarti doa. Dalam konteks ini, yang dimaksud shalat adalah doa yang disampaikan dengan tata cara?syarat dan rukun?yang khas dalam bentuk bacaanbacaan dan gerakan-gerakan tertentu.ÿDalam bahasa syaria...</summary>
-    <link href="../book_0/book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>BUMI MANUSIA</title>
-    <id>calibre:book:5</id>
-    <updated>2019-09-01T00:55:49Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Pramoedya%20Ananta%20Toer/BUMI%20MANUSIA%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Pramoedya%20Ananta%20Toer/BUMI%20MANUSIA%20%285%29/BUMI%20MANUSIA%20-%20Pramoedya%20Ananta%20Toer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="595 KB" />
     <author>
-      <name>Pramoedya Ananta Toer</name>
-      <uri>../authors_0/authors_5_Page_1.xml</uri>
+      <name>Eric Klinenberg</name>
+      <uri>../authors_0/authors_8_Page_1.xml</uri>
     </author>
-    <published>2002-09-30T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Hasta Mitra</dcterms:publisher>
-    <category term="Fiction" />
-    <category term="Historical" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Buku ini bercerita tentang perjalanan seorang tokoh bernama Minke. Minke adalah salah satu anak pribumi yang sekolah di HBS. Pada masa itu, yang dapat masuk ke sekolah HBS adalah orang-orang keturunan Eropa. Minke adalah seo...</summary>
-    <link href="../book_0/book_5.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Turned</title>
-    <id>calibre:book:4</id>
-    <updated>2019-09-01T00:05:38Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Morgan%20Rice/Turned%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Morgan%20Rice/Turned%20%284%29/Turned%20-%20Morgan%20Rice.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="274 KB" />
-    <author>
-      <name>Morgan Rice</name>
-      <uri>../authors_0/authors_4_Page_1.xml</uri>
-    </author>
-    <published>2014-11-30T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <category term="Lang:in" />
-    <category term="Vampire Journals" />
-    <summary>Vampire Journals [1]: Sigit Purwadi's Library - "TURNED is a book to rival TWILIGHT and VAMPIRE DIARIES, and one that will have you wanting to keep reading until the very last page! If you are into adventure, love and vampires this book is the one fo...</summary>
-    <link href="../book_0/book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <published>2015-06-15T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin</dcterms:publisher>
+    <category term="Humor" />
+    <category term="Topic" />
+    <category term="Men; Women &amp; Relationships" />
+    <category term="Family &amp; Relationships" />
+    <category term="Love &amp; Romance" />
+    <category term="Marriage &amp; Family" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - The #1 New York Times Bestseller  A hilarious, thoughtful, and in-depth exploration of the pleasures and perils of modern romance from Aziz Ansari, the star of Master of None  and one of this generation’s sharpest comedic vo...</summary>
+    <link href="../book_0/book_6.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

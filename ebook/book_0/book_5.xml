@@ -2,14 +2,14 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>BUMI MANUSIA</title>
   <id>urn:book:753b8d8b-96e4-48ad-a000-75f9be540e48</id>
-  <updated>2019-09-01T00:55:49Z</updated>
+  <updated>2019-09-01T01:23:33Z</updated>
   <link href="./book_5.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="BUMI MANUSIA" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
   <link href="http://repo.purwadi.web.id/ebook/Pramoedya%20Ananta%20Toer/BUMI%20MANUSIA%20%285%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="http://repo.purwadi.web.id/ebook/Pramoedya%20Ananta%20Toer/BUMI%20MANUSIA%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="http://repo.purwadi.web.id/ebook/Pramoedya%20Ananta%20Toer/BUMI%20MANUSIA%20%285%29/BUMI%20MANUSIA%20-%20Pramoedya%20Ananta%20Toer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="595 KB" />
+  <link href="http://repo.purwadi.web.id/ebook/Pramoedya%20Ananta%20Toer/BUMI%20MANUSIA%20%285%29/BUMI%20MANUSIA%20-%20Pramoedya%20Ananta%20Toer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
   <author>
     <name>Pramoedya Ananta Toer</name>
     <uri>../authors_0/authors_5_Page_1.xml</uri>
@@ -41,40 +41,42 @@
       <strong>Summary</strong>
     </p>
     <p xmlns="" class="description">
-      <b>Sigit Purwadi's Library</b>
-      - Buku ini bercerita tentang
-    perjalanan seorang tokoh bernama Minke. Minke adalah salah satu
-    anak pribumi yang sekolah di HBS. Pada masa itu, yang dapat
-    masuk ke sekolah HBS adalah orang-orang keturunan Eropa. Minke
-    adalah seorang pribumi yang pandai, ia sangat pandai menulis.
-    Tulisannya bisa membuat orang sampai terkagum-kagum dan dimuat
-    di berbagai Koran Belanda pada saat itu. Sebagai seorang
-    pribumi, ia kurang disukai oleh siswa-siswi Eropa lainnya.
-    Minke digambarkan sebagai seorang revolusioner di buku ini. Ia
-    berani melawan ketidakadilan yang terjadi pada bangsanya. Ia
-    juga berani memberontak terhadap kebudayaan Jawa, yang
-    membuatnya selalu di bawah.Selain tokoh Minke, buku ini juga
-    menggambarkan seorang "Nyai" yang bernama Nyai Ontosoroh. Nyai
-    pada saat itu dianggap sebagai perempuan yang tidak memiliki
-    norma kesusilaan karena statusnya sebagai istri simpanan.
-    Statusnya sebagai seorang Nyai telah membuatnya sangat
-    menderita, karena ia tidak memiliki hak asasi manusia yang
-    sepantasnya. Tetapi, yang menariknya adalah Nyai Ontosoroh
-    sadar akan kondisi tersebut sehingga dia berusaha keras dengan
-    terus-menerus belajar, agar dapat diakui sebagai seorang
-    manusia. Nyai Ontosoroh berpendapat, untuk melawan penghinaan,
-    kebodohan, kemiskinan, dan sebagainya hanyalah dengan belajar.
-    Minke juga menjalin asmara dan akhirnya menikah dengan
-    Annelies, anak dari Nyai Ontosoroh dan tuan Mellema.Melalui
-    buku ini, Pram menggambarkan bagaimana keadaan pemerintahan
-    kolonialisme Belanda pada saat itu secara hidup. Pram,
-    menunjukan betapa pentingnya belajar. Dengan belajar, dapat
-    mengubah nasib. Seperti di dalam buku ini, Nyai yang tidak
-    bersekolah, dapat menjadi seorang guru yang hebat bagi siswa
-    HBS dan Minke. Bahkan pengetahuan si nyai itu, yang didapat
-    dari pengalaman, dari buku-buku, dan dari kehidupan
-    sehari-hari, ternyata lebih luas dari guru-guru sekolah
-    HBS.
+      <b>
+        <a href="http://repo.purwadi.web.id/ebook">Sigit Purwadi's
+      Library</a>
+      </b>
+       - Buku ini bercerita tentang perjalanan seorang tokoh
+    bernama Minke. Minke adalah salah satu anak pribumi yang
+    sekolah di HBS. Pada masa itu, yang dapat masuk ke sekolah HBS
+    adalah orang-orang keturunan Eropa. Minke adalah seorang
+    pribumi yang pandai, ia sangat pandai menulis. Tulisannya bisa
+    membuat orang sampai terkagum-kagum dan dimuat di berbagai
+    Koran Belanda pada saat itu. Sebagai seorang pribumi, ia kurang
+    disukai oleh siswa-siswi Eropa lainnya. Minke digambarkan
+    sebagai seorang revolusioner di buku ini. Ia berani melawan
+    ketidakadilan yang terjadi pada bangsanya. Ia juga berani
+    memberontak terhadap kebudayaan Jawa, yang membuatnya selalu di
+    bawah.Selain tokoh Minke, buku ini juga menggambarkan seorang
+    "Nyai" yang bernama Nyai Ontosoroh. Nyai pada saat itu dianggap
+    sebagai perempuan yang tidak memiliki norma kesusilaan karena
+    statusnya sebagai istri simpanan. Statusnya sebagai seorang
+    Nyai telah membuatnya sangat menderita, karena ia tidak
+    memiliki hak asasi manusia yang sepantasnya. Tetapi, yang
+    menariknya adalah Nyai Ontosoroh sadar akan kondisi tersebut
+    sehingga dia berusaha keras dengan terus-menerus belajar, agar
+    dapat diakui sebagai seorang manusia. Nyai Ontosoroh
+    berpendapat, untuk melawan penghinaan, kebodohan, kemiskinan,
+    dan sebagainya hanyalah dengan belajar. Minke juga menjalin
+    asmara dan akhirnya menikah dengan Annelies, anak dari Nyai
+    Ontosoroh dan tuan Mellema.Melalui buku ini, Pram menggambarkan
+    bagaimana keadaan pemerintahan kolonialisme Belanda pada saat
+    itu secara hidup. Pram, menunjukan betapa pentingnya belajar.
+    Dengan belajar, dapat mengubah nasib. Seperti di dalam buku
+    ini, Nyai yang tidak bersekolah, dapat menjadi seorang guru
+    yang hebat bagi siswa HBS dan Minke. Bahkan pengetahuan si nyai
+    itu, yang didapat dari pengalaman, dari buku-buku, dan dari
+    kehidupan sehari-hari, ternyata lebih luas dari guru-guru
+    sekolah HBS.
     </p>
   </content>
   <link href="../authors_0/authors_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Pramoedya Ananta Toer" />

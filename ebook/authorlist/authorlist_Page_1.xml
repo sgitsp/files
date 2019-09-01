@@ -12,6 +12,14 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <entry>
+    <title>Aziz Ansari</title>
+    <id>Calibre2opds:authors:7</id>
+    <content type="text">Modern Romance</content>
+    <link href="../authors_0/authors_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Haidar Bagir</title>
     <id>Calibre2opds:authors:2</id>
     <content type="text">Buat Apa Shalat?!</content>
@@ -24,6 +32,22 @@
     <id>Calibre2opds:authors:1</id>
     <content type="text">The Prophet</content>
     <link href="../authors_0/authors_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Suha Hoedi</title>
+    <id>Calibre2opds:authors:9</id>
+    <content type="text">Seni Mencintai Diri Sendiri</content>
+    <link href="../authors_0/authors_9_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Eric Klinenberg</title>
+    <id>Calibre2opds:authors:8</id>
+    <content type="text">Modern Romance</content>
+    <link href="../authors_0/authors_8_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
