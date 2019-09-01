@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9c80ee0-504b-4a9a-855f-25dcab0adee1</dc:identifier>
+        <dc:title>Buat Apa Shalat?!</dc:title>
+        <dc:creator opf:file-as="Bagir, Haidar" opf:role="aut">Haidar Bagir</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.47.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-28T17:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;&lt;b&gt;&lt;a href="http://repo.purwadi.web.id/ebook"&gt;Sigit Purwadi's Library&lt;/a&gt;&lt;/b&gt; - SHALAT, secara harfiah, berarti doa. Dalam konteks ini, yang dimaksud shalat adalah doa yang disampaikan dengan tata cara?syarat dan rukun?yang khas dalam bentuk bacaanbacaan dan gerakan-gerakan tertentu.ÿDalam bahasa syariah, inilah yang disebut dengan ash-shalawt al-q?imah (shalat-shalat yang didirikan), terdiri atas shalat wajib 5 waktu dan berbagai shalat sunnah. Kata ?shalat? juga memiliki akar kata yang sama dan memiliki hubungan makna dengan kata ?shilah?, yang bermakna ?hubungan?. (Contohnya, ?shilah alrahim? bermakna ?silaturahmi? atau ?hubungan kasih-sayang?.) Dalam kaitannya dengan kata ?shilah? ini, shalat bermakna medium hubungan manusia dengan Allah Swt.ÿDalam sebuah hadis disebutkan bahwa ?shalat adalah mi?rj-nya orang-orang beriman?. Dengan kata lain, sebagaimana Rasulullah bertemu dengan Allah Swt. ketika ber-mi?rj, orang beriman (dapat) bertemu dengan-Nya melalui shalat.[Mizan, Gratis, Free, Islam, Indonesia]&lt;/p&gt;</dc:description>
+        <dc:publisher>Mizan Pustaka</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">DGtlAwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789798394539</dc:identifier>
+        <dc:language>ind</dc:language>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Rituals &amp; Practice</dc:subject>
+        <dc:subject>Islam</dc:subject>
+        <meta content="{&quot;Haidar Bagir&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-31T17:20:20+00:00" name="calibre:timestamp"/>
+        <meta content="Buat Apa Shalat?!" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

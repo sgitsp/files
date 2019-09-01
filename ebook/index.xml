@@ -21,7 +21,7 @@
   <entry>
     <title>Tags</title>
     <id>Calibre2opds:taglist</id>
-    <content type="text">Alphabetical index of the 6 tags</content>
+    <content type="text">Alphabetical index of the 12 tags</content>
     <link href="./taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="./tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

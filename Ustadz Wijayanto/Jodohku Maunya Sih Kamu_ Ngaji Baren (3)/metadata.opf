@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce0ce4be-ccf3-4b19-9960-5037738086d0</dc:identifier>
+        <dc:title>Jodohku Maunya Sih Kamu: Ngaji Bareng Ust. Wijayanto</dc:title>
+        <dc:creator opf:file-as="Wijayanto, Ustadz" opf:role="aut">Ustadz Wijayanto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.47.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-19T17:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;&lt;b&gt;&lt;a href="http://repo.purwadi.web.id/ebook"&gt;Sigit Purwadi's Library&lt;/a&gt;&lt;/b&gt; - Ya Rasulullah, kenapa kau jodohkan aku dengan Bilal? Aku ingin bersuamikan lelaki yang sedang berazan itu. Suaranya bagus sekali, pasti orangnya pun saleh.Ya, itu Bilal.  Itulah sepenggal kisah yang menjadi ilustrasi dalam buku ini. Riwayat yang mencerminkan kenyataan bahwa Allah Swt. sebenarnya tetap memberikan hal terbaik, bahkan ketika hal itu tidak atau kurang kita suka. Dalam buku ini, Ustadz Wijayanto mengangkat berbagai masalah hubungan dan keluarga kemudian menyajikan kiat-kiat solusinya, antara lain: " Jodohku Maunya Sih Kamu " Surga Istri pada Ridha Suami  " Manajemen Anti-CLBK " Seni Bercinta dalam Islam " Kalau Cinta Jangan Pacaran " Uangku Bukan Uangmu " Aku Tidak Mau Pasanganku Seorang "Tikus" " Mantuku, Jangan Kauambil Anakku  " Separuh Jiwaku Pergi.[Mizan, Noura Books, Islam, Belajar, Jodoh, Cinta, Muslim, Muda, Indonesia]&lt;/p&gt;</dc:description>
+        <dc:publisher>Noura Books</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">_mFnCwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786023850259</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Juvenile Nonfiction</dc:subject>
+        <dc:subject>Family &amp; Relationships</dc:subject>
+        <dc:subject>Love &amp; Romance</dc:subject>
+        <dc:subject>Islam</dc:subject>
+        <meta content="{&quot;Ustadz Wijayanto&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-08-31T17:52:56+00:00" name="calibre:timestamp"/>
+        <meta content="Jodohku Maunya Sih Kamu: Ngaji Bareng Ust. Wijayanto" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
