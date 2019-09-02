@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Frederick Sadlier Brereton</title>
+  <id>Calibre2opds:authors:24</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Frederick Sadlier Brereton" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>With the Dyaks of Borneo: A Tale of the Head Hunters</title>
+    <id>calibre:book:34</id>
+    <updated>2019-09-02T05:24:30Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Frederick%20Sadlier%20Brereton/With%20the%20Dyaks%20of%20Borneo_%20A%20Tale%20of%20%2834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Frederick%20Sadlier%20Brereton/With%20the%20Dyaks%20of%20Borneo_%20A%20Tale%20of%20%2834%29/With%20the%20Dyaks%20of%20Borneo_%20A%20Tal%20-%20Frederick%20Sadlier%20Brereton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="965 KB" />
+    <author>
+      <name>Frederick Sadlier Brereton</name>
+      <uri>../authors_0/authors_24_Page_1.xml</uri>
+    </author>
+    <published>2009-08-09T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Cornell University Library</dcterms:publisher>
+    <category term="History" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original...</summary>
+    <link href="../book_0/book_34.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

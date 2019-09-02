@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f5030ae-faef-47c9-8174-15c99677fd3e</dc:identifier>
+        <dc:title>La Tahzan: Jangan Bersedih!</dc:title>
+        <dc:creator opf:file-as="Al-Qarni, ‘aidh" opf:role="aut">Dr. ‘aidh Al-Qarni</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.47.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-24T17:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;&lt;a href="https://repo.purwadi.web.id/ebook"&gt;&lt;b&gt;Sigit Purwadi's Library&lt;/b&gt;&lt;/a&gt; - Sebagai salah satu buku kategori pencerahan hati (an-nafsu al muthma`innah), Lâ Tahzan menawarkan terapi yang lebih dekat dengan al-Qur`an dan Sunah, ketimbang renungan-renungan reflektif semata. Lâ Tahzan menjadi buku terlaris di Timur Tengah karena sejak cetakan pertamanya (th 2001), buku ini telah terjual lebih dari 1 juta eksemplar.  Buku ini telah melambungkan nama penulisnya, Dr. `Aidh al-Qarni, seorang doktor dalam bidang hadis yang hafiz Qur`an, ribuan hadis, dan juga ribuan bait syair Arab kuno hingga modern. Dalam usianya yang masih sangat muda, ia telah menjadi penulis paling produktif di Saudi Arabia saat ini.  Di Indonesia, buku yang Anda pegang ini mendapat sambutan luar biasa dan telah terjual puluhan ribu eksemplar.&lt;/p&gt;</dc:description>
+        <dc:publisher>Qisthi Press</dc:publisher>
+        <dc:identifier opf:scheme="EPUBBUD">http://www.epubbud.com/epubs/9/S/9SJNHMUZ/La_Tahzan_Jgn_Bersedih.epub</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">vrVewAEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789793715056</dc:identifier>
+        <dc:language>ind</dc:language>
+        <dc:subject>Body; Mind &amp; Spirit</dc:subject>
+        <dc:subject>Inspiration &amp; Personal Growth</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Developmental</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Motivational &amp; Inspirational</dc:subject>
+        <meta content="{&quot;Dr. ‘aidh Al-Qarni&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-09-02T10:24:56.236000+00:00" name="calibre:timestamp"/>
+        <meta content="La Tahzan: Jangan Bersedih!" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

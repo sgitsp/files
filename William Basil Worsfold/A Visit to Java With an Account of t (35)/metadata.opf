@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6a16a310-2c2e-43d0-bf18-3049103da82c</dc:identifier>
+        <dc:title>A Visit to Java With an Account of the Founding of Singapore</dc:title>
+        <dc:creator opf:file-as="Worsfold, William Basil" opf:role="aut">William Basil Worsfold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.47.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-15T17:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;a href="https://repo.purwadi.web.id/ebook"&gt;&lt;b&gt;Sigit Purwadi's Library&lt;/b&gt;&lt;/a&gt; - This is a reproduction of a book published before 1923. This book may have occasional imperfections &lt;br&gt;
+such as missing or blurred pages, poor pictures, errant marks, etc. that were either part of the original artifact, &lt;br&gt;
+or were introduced by the scanning process. We believe this work is culturally important, and despite the imperfections, &lt;br&gt;
+have elected to bring it back into print as part of our continuing commitment to the preservation of printed works &lt;br&gt;
+worldwide. We appreciate your understanding of the imperfections in the preservation process, and hope you enjoy this valuable book.   &lt;/p&gt;
+&lt;p&gt;++++  &lt;/p&gt;
+&lt;p&gt;The below data was compiled from various identification fields in the bibliographic record of this title. This data is provided as an additional tool in helping to ensure edition identification:   &lt;/p&gt;
+&lt;p&gt;++++   &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Hansebooks</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B01E5MAQWA</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/ebooks/27152</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781245698146</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">_MlJtAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;William Basil Worsfold&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-09-02T10:24:31.241000+00:00" name="calibre:timestamp"/>
+        <meta content="Visit to Java With an Account of the Founding of Singapore, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

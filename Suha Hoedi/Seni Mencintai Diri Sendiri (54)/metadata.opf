@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b3cae44-fa33-429e-bf57-1c0b6ce6a67b</dc:identifier>
+        <dc:title>Seni Mencintai Diri Sendiri</dc:title>
+        <dc:creator opf:file-as="Hoedi, Suha" opf:role="aut">Suha Hoedi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.47.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-31T17:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;a href="https://repo.purwadi.web.id/ebook"&gt;&lt;b&gt;Sigit Purwadi's Library&lt;/b&gt;&lt;/a&gt; - Buku persembahan TransMedia Pustaka ini membahas tip untuk membentuk pribadi yang positif, diawali dengan mengasah kemampuan untuk mencintai diri sendiri. Pembahasan di dalamnya termasuk membenahi pikiran dari penderitaan di masa lalu dan kecemasan akan masa depan, agar bisa lebih menikmati hidup di masa ini dengan bahagia.&lt;/p&gt;&lt;p class="description"&gt;-TransMedia-&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>TransMedia</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">1560DAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786021036334</dc:identifier>
+        <dc:language>ind</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Self-Management</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <meta content="{&quot;Suha Hoedi&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-09-02T11:09:28.785000+00:00" name="calibre:timestamp"/>
+        <meta content="Seni Mencintai Diri Sendiri" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

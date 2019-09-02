@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Humorous Stories</title>
+  <title>Body; Mind &amp; Spirit</title>
   <id>Calibre2opds:taglist:32</id>
   <author>
     <name>David Pierron</name>
@@ -8,52 +8,54 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./tags_32_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Humorous Stories" />
+  <link href="./tags_32_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Body; Mind &amp; Spirit" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
   <entry>
-    <title>Dilan: Dia Adalah Dilanku Tahun 1990</title>
-    <id>calibre:book:11</id>
-    <updated>2019-09-01T01:50:14Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan_%20Dia%20Adalah%20Dilanku%20Tahun%201990%20%2811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan_%20Dia%20Adalah%20Dilanku%20Tahun%201990%20%2811%29/Dilan_%20Dia%20Adalah%20Dilanku%20Tahun%20-%20Pidi%20Baiq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <title>La Tahzan: Jangan Bersedih!</title>
+    <id>calibre:book:46</id>
+    <updated>2019-09-02T05:24:57Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Dr.%20%27aidh%20Al-Qarni/La%20Tahzan_%20Jangan%20Bersedih%21%20%2846%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Dr.%20%27aidh%20Al-Qarni/La%20Tahzan_%20Jangan%20Bersedih%21%20%2846%29/La%20Tahzan_%20Jangan%20Bersedih%21%20-%20Dr.%20%27aidh%20Al-Qarni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="425 KB" />
     <author>
-      <name>Pidi Baiq</name>
-      <uri>../authors_0/authors_13_Page_1.xml</uri>
+      <name>Dr. ‘aidh Al-Qarni</name>
+      <uri>../authors_0/authors_21_Page_1.xml</uri>
     </author>
-    <published>2014-09-14T05:00:00Z</published>
+    <published>2016-04-24T05:00:00Z</published>
     <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>PastelBooks</dcterms:publisher>
-    <category term="Fiction" />
+    <dcterms:publisher>Qisthi Press</dcterms:publisher>
+    <category term="Body; Mind &amp; Spirit" />
+    <category term="Inspiration &amp; Personal Growth" />
+    <category term="Psychology" />
+    <category term="Developmental" />
     <category term="General" />
-    <category term="Juvenile Fiction" />
-    <category term="Humorous Stories" />
-    <category term="Love &amp; Romance" />
+    <category term="Self-Help" />
+    <category term="Motivational &amp; Inspirational" />
     <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - "Milea, kamu cantik, tapi aku belum mencintaimu. Enggak tahu kalau sore.Tunggu aja." (Dilan 1990)"Milea, jangan pernah bilang ke aku ada yang menyakitimu, nanti, besoknya, orang itu akan hilang." (Dilan 1990)"Cinta sejati ad...</summary>
-    <link href="../book_0/book_11.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Sigit Purwadi's Library - Sebagai salah satu buku kategori pencerahan hati (an-nafsu al muthma`innah), Lâ Tahzan menawarkan terapi yang lebih dekat dengan al-Qur`an dan Sunah, ketimbang renungan-renungan reflektif semata. Lâ Tahzan menjadi buku terla...</summary>
+    <link href="../book_0/book_46.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Dilan 2: Dia Adalah Dilanku Tahun 1991</title>
-    <id>calibre:book:12</id>
-    <updated>2019-09-01T01:52:17Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan%202_%20Dia%20Adalah%20Dilanku%20Tahun%2019%20%2812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan%202_%20Dia%20Adalah%20Dilanku%20Tahun%2019%20%2812%29/Dilan%202_%20Dia%20Adalah%20Dilanku%20Tah%20-%20Pidi%20Baiq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
+    <title>Ngopi Bareng Denny Siregar: Tuhan Dalam Secangkir Kopi</title>
+    <id>calibre:book:32</id>
+    <updated>2019-09-02T05:22:31Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Denny%20Siregar/Ngopi%20Bareng%20Denny%20Siregar_%20Tuhan%20Da%20%2832%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Denny%20Siregar/Ngopi%20Bareng%20Denny%20Siregar_%20Tuhan%20Da%20%2832%29/Ngopi%20Bareng%20Denny%20Siregar_%20Tuh%20-%20Denny%20Siregar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="752 KB" />
     <author>
-      <name>Pidi Baiq</name>
-      <uri>../authors_0/authors_13_Page_1.xml</uri>
+      <name>Denny Siregar</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
     </author>
-    <published>2015-08-05T05:00:00Z</published>
+    <published>2016-06-08T05:00:00Z</published>
     <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>PastelBooks</dcterms:publisher>
-    <category term="Fiction" />
+    <dcterms:publisher>Noura Books</dcterms:publisher>
+    <category term="Body; Mind &amp; Spirit" />
     <category term="General" />
-    <category term="Juvenile Fiction" />
-    <category term="Humorous Stories" />
-    <category term="Love &amp; Romance" />
+    <category term="Religion" />
+    <category term="Spirituality" />
+    <category term="Tuhan dalam Secangkir Kopi" />
     <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - "Jika aku berkata bahwa aku mencintainya, maka itu adalah sebuah pernyataan yang sudah cukup lengkap."  -Milea "Senakal-nakalnya anak geng motor, Lia, mereka shalat pada waktu ujian praktek Agama."  -Dilan  @Viny_JKT48  "Aku...</summary>
-    <link href="../book_0/book_12.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Sigit Purwadi's Library - Denny Siregar lewat tulisan-tulisannya mengajarkan bagaimana menyampaikan ide tanpa mendoktrin, menyetujui suatu hal tanpa menjatuhkan hal lain, menolak gagasan tanpa menghina, dan yang terpenting, mengajari tanpa menggurui....</summary>
+    <link href="../book_0/book_32.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

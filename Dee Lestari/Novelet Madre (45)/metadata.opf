@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4894602d-d215-4ef0-a114-c53b368acb33</dc:identifier>
+        <dc:title>Novelet Madre</dc:title>
+        <dc:creator opf:file-as="Lestari, Dee" opf:role="aut">Dee Lestari</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.47.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-11T17:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;a href="https://repo.purwadi.web.id/ebook"&gt;&lt;b&gt;Sigit Purwadi's Library&lt;/b&gt;&lt;/a&gt; - Apa rasanya jika sejarah kita berubah dalam sehari? Darah saya mendadak seperempat Tionghoa, nenek saya seorang penjual roti, dan dia, bersama kakek yang tidak saya kenal, mewariskan anggota keluarga baru yang tidak pernah saya tahu: Madre.&lt;/p&gt;&lt;p class="description"&gt;[Mizan, Bentang Pustaka, Novelet, Dee, Dewi Lestari, Film]Spesial Bentang Dee Lestari&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bentang Pustaka</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">NE7cCQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786022911036</dc:identifier>
+        <dc:language>ind</dc:language>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>Media Tie-In</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>FIksi</dc:subject>
+        <meta content="{&quot;Dee Lestari&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Novel" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2019-09-02T10:24:53.932000+00:00" name="calibre:timestamp"/>
+        <meta content="Novelet Madre" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

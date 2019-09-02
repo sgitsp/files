@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ab4b48e-c9a1-443c-a9aa-22a37886a3fd</dc:identifier>
+        <dc:title>Dilan 2: Dia Adalah Dilanku Tahun 1991</dc:title>
+        <dc:creator opf:file-as="Baiq, Pidi" opf:role="aut">Pidi Baiq</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.47.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-05T17:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;a href="https://repo.purwadi.web.id/ebook"&gt;&lt;b&gt;Sigit Purwadi's Library&lt;/b&gt;&lt;/a&gt; - "Jika aku berkata bahwa aku mencintainya, maka itu adalah sebuah pernyataan yang sudah cukup lengkap."  -Milea&lt;/p&gt;&lt;p class="description"&gt;"Senakal-nakalnya anak geng motor, Lia, mereka shalat pada waktu ujian praktek Agama."  -Dilan  &lt;/p&gt;&lt;p class="description"&gt;@Viny_JKT48  "Aku suka Dilan-nya Kak Pidi Baiq. Baru beli, tapi sudah aku baca dua kali lho~ Buku yang menyenangkan, jadi ingin kenal Dilan XD." &lt;/p&gt;&lt;p class="description"&gt;@renindydevris "Kukira cinta hanya sebatas kenal, bilang, dan jadi. Tetapi ternyata cinta itu bisa dibuat jadi seni yang amat menarik." &lt;/p&gt;&lt;p class="description"&gt;@yusuf_imam29  "Terima kasih, Dilan. Dirimu telah mengajarkanku tentang banyak hal. Terutama tentang mengistimewakan wanita." &lt;/p&gt;&lt;p class="description"&gt;@IanisJanuar "Selama hampir 27 tahun hidup, baru pertama kali baca novel sampe tamat. Thank You, Dilan." &lt;/p&gt;&lt;p class="description"&gt;@rudijatjahja "Hatur nuhun Surayah Pidi Baiq, sudah merawat selera tawa yang dibalut kisah bahagia dua sejoli Dilan dan Milea." &lt;/p&gt;&lt;p class="description"&gt; @alirohman21 "Bukan hanya novel tentang cinta remaja biasa, tapi juga cara mengungkapkan rasa sayang di luar kebiasaan." &lt;/p&gt;&lt;p class="description"&gt;@saljuapi "The greatest love story the world has ever known." &lt;/p&gt;&lt;p class="description"&gt;@Tedy_Pensil  "Jika buku ini kumpulan rumus Fisika yang akan diujikan maka banyak pelajar yang membakarnya dan mengonsumsi abunya."&lt;/p&gt;&lt;p class="description"&gt;[Mizan, DAR, Dilan, Milea, Bandung, Remaja, SMA, Indonesia]&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>PastelBooks</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">CcFNCgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786027870994</dc:identifier>
+        <dc:language>ind</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>Humorous Stories</dc:subject>
+        <dc:subject>Love &amp; Romance</dc:subject>
+        <meta content="{&quot;Pidi Baiq&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-09-02T10:24:44.981000+00:00" name="calibre:timestamp"/>
+        <meta content="Dilan 2: Dia Adalah Dilanku Tahun 1991" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>William Basil Worsfold</title>
+  <id>Calibre2opds:authors:23</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_23_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="William Basil Worsfold" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>A Visit to Java With an Account of the Founding of Singapore</title>
+    <id>calibre:book:35</id>
+    <updated>2019-09-02T05:24:32Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/William%20Basil%20Worsfold/A%20Visit%20to%20Java%20With%20an%20Account%20of%20t%20%2835%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/William%20Basil%20Worsfold/A%20Visit%20to%20Java%20With%20an%20Account%20of%20t%20%2835%29/A%20Visit%20to%20Java%20With%20an%20Account%20-%20William%20Basil%20Worsfold.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="842 KB" />
+    <author>
+      <name>William Basil Worsfold</name>
+      <uri>../authors_0/authors_23_Page_1.xml</uri>
+    </author>
+    <published>2011-09-15T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Hansebooks</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - This is a reproduction of a book published before 1923. This book may have occasional imperfections such as missing or blurred pages, poor pictures, errant marks, etc. that were either part of the original artifact, or were ...</summary>
+    <link href="../book_0/book_35.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

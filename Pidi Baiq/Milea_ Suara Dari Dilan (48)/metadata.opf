@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5179cfd8-ee54-4d52-99d9-e4e0522b3436</dc:identifier>
+        <dc:title>Milea: Suara Dari Dilan</dc:title>
+        <dc:creator opf:file-as="Baiq, Pidi" opf:role="aut">Pidi Baiq</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.47.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-16T17:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;a href="https://repo.purwadi.web.id/ebook"&gt;&lt;b&gt;Sigit Purwadi's Library&lt;/b&gt;&lt;/a&gt; - "Dilan memberi penggambaran lain dari sebuah penaklukan cinta &amp;amp; bagaimana indahnya cinta sederhana anak zaman dahulu." @refaniris&lt;/p&gt;&lt;p class="description"&gt;"Cuma satu yang kuinginkan, aku ingin cowok seperti Dilan." @_SLovaFC&lt;/p&gt;&lt;p class="description"&gt;"Dilan brengsek! Dia selalu tahu caranya menjadi pusat perhatian, bahkan ketika jadi buku, setiap serinya selalu ditunggu." @Tedy_Pensil&lt;/p&gt;&lt;p class="description"&gt;"Membaca Dilan itu seperti jatuh cinta lagi, lagi, dan lagi.  Ah, indah, deh. Rasanya gak akan pernah bosan membacanya." @agungwyd&lt;/p&gt;&lt;p class="description"&gt;"Bukan cuma sekadar novel, tapi bisa menjadikan yang malas baca jadi mau baca." @cobra_iqq&lt;/p&gt;&lt;p class="description"&gt;"Kisah cintanya gak lebay. Dilan tahu bagaimana memperlakukan wanita. Novelnya keren, bahasanya gak bertele-tele."  @AH_DILAN&lt;/p&gt;&lt;p class="description"&gt;"Terima kasih Dilan telah menginspirasiku lewat ceritamu bersama Milea. Terima kasih Surayah, novelmu seru." @EnciSrifiyani&lt;/p&gt;&lt;p class="description"&gt;"Dari Dilan kita belajar mengistimewakan wanita, romantis yang gak kuno, bahkan menjadi ayah &amp;amp; bunda yang hebat :)" @ginaalna&lt;/p&gt;&lt;p class="description"&gt;"Kurasa Dilan satu-satunya novel yang aku harap ceritanya terus berlanjut, dan tidak ingin ada akhir." @TriaFitriaN41&lt;/p&gt;&lt;p class="description"&gt;[Mizan, Pastel Books, Dilan, Milea, Romance, Remaja, Bandung, 1990, 1991, Novel, Best Seller, Indonesia]&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pastel Books</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">CXkRDQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9786020851563</dc:identifier>
+        <dc:language>ind</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>Love &amp; Romance</dc:subject>
+        <dc:subject>Young Adult Fiction</dc:subject>
+        <dc:subject>Humorous</dc:subject>
+        <meta content="{&quot;Pidi Baiq&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-09-02T10:25:00.247000+00:00" name="calibre:timestamp"/>
+        <meta content="Milea: Suara Dari Dilan" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

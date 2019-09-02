@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Dilan: Dia Adalah Dilanku Tahun 1990</title>
+  <id>urn:book:5c469a77-4b8b-4d9b-8c3f-e5f6cf4a8b58</id>
+  <updated>2019-09-02T06:03:58Z</updated>
+  <link href="./book_52.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Dilan: Dia Adalah Dilanku Tahun 1990" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan_%20Dia%20Adalah%20Dilanku%20Tahun%201990%20%2852%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan_%20Dia%20Adalah%20Dilanku%20Tahun%201990%20%2852%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan_%20Dia%20Adalah%20Dilanku%20Tahun%201990%20%2852%29/Dilan_%20Dia%20Adalah%20Dilanku%20Tahun%20-%20Pidi%20Baiq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+  <author>
+    <name>Pidi Baiq</name>
+    <uri>../authors_0/authors_13_Page_1.xml</uri>
+  </author>
+  <published>2014-09-14T05:00:00Z</published>
+  <dcterms:language>in</dcterms:language>
+  <dcterms:publisher>PastelBooks</dcterms:publisher>
+  <category term="Fiction" />
+  <category term="General" />
+  <category term="Juvenile Fiction" />
+  <category term="Humorous Stories" />
+  <category term="Love &amp; Romance" />
+  <category term="Lang:in" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fiction, General, Juvenile Fiction, Humorous Stories, Love &amp; Romance, Lang:in
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      PastelBooks
+    </p>
+    <p>
+      <strong>Published:</strong>
+      September 14, 2014
+    </p>
+    <p>
+      <strong>Added:</strong>
+      September 2, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      September 2, 2019
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p class="description">
+        <a href="https://repo.purwadi.web.id/ebook">
+          <b>Sigit Purwadi's Library</b>
+        </a>
+         - "Milea, kamu cantik, tapi aku belum mencintaimu.
+      Enggak tahu kalau sore.Tunggu aja." (Dilan 1990)
+      </p>
+      <p class="description">"Milea, jangan pernah bilang ke aku
+      ada yang menyakitimu, nanti, besoknya, orang itu akan
+      hilang." (Dilan 1990)"</p>
+      <p class="description">Cinta sejati adalah kenyamanan,
+      kepercayaan, dan dukungan. Kalau kamu tidak setuju, aku tidak
+      peduli." (Milea 1990)</p>
+      <p class="description">[Mizan, Pidi Baiq, SMA, Roman, Remaja,
+      Bandung, Milea]</p>
+    </div>
+  </content>
+  <link href="../authors_0/authors_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Pidi Baiq" />
+  <link href="http://www.goodreads.com/book/title/Dilan%3A%20Dia%20Adalah%20Dilanku%20Tahun%201990" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Dilan%3A%20Dia%20Adalah%20Dilanku%20Tahun%201990" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Dilan%3A%20Dia%20Adalah%20Dilanku%20Tahun%201990%20Pidi%20Baiq" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Dilan%3A%20Dia%20Adalah%20Dilanku%20Tahun%201990&amp;field-author=Pidi%20Baiq" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Pidi%20Baiq" type="text/html" rel="related" title="Pidi Baiq on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Pidi%20Baiq" type="text/html" rel="related" title="Pidi Baiq on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/BaiqPidi" type="text/html" rel="related" title="Pidi Baiq on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Pidi%20Baiq" type="text/html" rel="related" title="Pidi Baiq on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Pidi%20Baiq" type="text/html" rel="related" title="Pidi Baiq on ISFDB" target="_blank" />
+</entry>

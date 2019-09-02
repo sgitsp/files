@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Kisah Tanah Jawa</title>
+  <id>urn:book:b9cf98f5-b9a5-4ebe-b1d2-386010f7834f</id>
+  <updated>2019-09-02T05:22:22Z</updated>
+  <link href="./book_28.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Kisah Tanah Jawa" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="http://repo.purwadi.web.id/ebook/%40kisahtanahjawa/Kisah%20Tanah%20Jawa%20%2828%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/%40kisahtanahjawa/Kisah%20Tanah%20Jawa%20%2828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/%40kisahtanahjawa/Kisah%20Tanah%20Jawa%20%2828%29/Kisah%20Tanah%20Jawa%20-%20%40kisahtanahjawa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="219 KB" />
+  <author>
+    <name>@kisahtanahjawa</name>
+    <uri>../authors_0/authors_1_Page_1.xml</uri>
+  </author>
+  <published>2018-12-31T05:00:00Z</published>
+  <dcterms:language>in</dcterms:language>
+  <dcterms:publisher>GagasMedia</dcterms:publisher>
+  <category term="Fiction" />
+  <category term="Horror" />
+  <category term="Lang:in" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fiction, Horror, Lang:in
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      GagasMedia
+    </p>
+    <p>
+      <strong>Published:</strong>
+      December 31, 2018
+    </p>
+    <p>
+      <strong>Added:</strong>
+      September 2, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      September 2, 2019
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p class="description">
+        <a href="https://repo.purwadi.web.id/ebook">
+          <b>Sigit Purwadi's Library</b>
+        </a>
+         - “Kenapa mobilnya, Pak?” “Nggak
+      tahu nih, Bu. Biar bapak cek dulu, ya.”
+      </p>
+      <p class="description">Kondisi jalan pukul 7 malam itu sangat
+      sepi, hanya ada mobil tersebut ditemani suara jangkrik. Bapak
+      itu mencoba men-starter mobilnya dengan keadaan kap mobil
+      terbuka.</p>
+      <p class="description">Tiba-tiba dari kejauhan ada bayangan
+      hitam. “Kunaon mobilna, A? Mogok? Seseorang bapak tua
+      muncul entah dari mana.</p>
+      <p class="description">“Iya Pak, mogok. Tapi, anehnya
+      pas saya cek, kondisinya normal.”</p>
+      <p class="description">Bapak tua itu hanya tersenyum,
+      kemudian melakukan semacam doa. “Sok sekarang dinyalain
+      mobilnya.” Lalu, mesin mobil menyala lagi.Peristiwa ini
+      terjadi sekitar tahun 1990-an di sebuah tanjakan daerah
+      Subang, yang dikenal dengan nama Tanjakan Emen.</p>
+      <p class="description">Tanah Jawa menyimpan banyak kisah
+      misteri yang takkan habis diceritakan dalam semalam. Sosok
+      misterius, ritual mistis, dan tempat angker, selalu membuat
+      kita penasaran. Buku Kisah Tanah Jawa mengajak pembaca
+      membuka selubung mitos dan mistis yang selama ini hanya
+      menjadi kasak-kusuk di masyarakat.</p>
+      <p class="description">Buku persembahan penerbit
+      GagasMedia</p>
+    </div>
+  </content>
+  <link href="../authors_0/authors_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by @kisahtanahjawa" />
+  <link href="http://www.goodreads.com/book/title/Kisah%20Tanah%20Jawa" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Kisah%20Tanah%20Jawa" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Kisah%20Tanah%20Jawa%20%40kisahtanahjawa" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Kisah%20Tanah%20Jawa&amp;field-author=%40kisahtanahjawa" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/%40kisahtanahjawa" type="text/html" rel="related" title="@kisahtanahjawa on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/%40kisahtanahjawa" type="text/html" rel="related" title="@kisahtanahjawa on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/%40kisahtanahjawa" type="text/html" rel="related" title="@kisahtanahjawa on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=%40kisahtanahjawa" type="text/html" rel="related" title="@kisahtanahjawa on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?%40kisahtanahjawa" type="text/html" rel="related" title="@kisahtanahjawa on ISFDB" target="_blank" />
+</entry>

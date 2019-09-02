@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Novelet Madre</title>
+  <id>urn:book:4894602d-d215-4ef0-a114-c53b368acb33</id>
+  <updated>2019-09-02T05:24:55Z</updated>
+  <link href="./book_45.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Novelet Madre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authors_0/authors_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Dee Lestari" />
+  <link href="http://repo.purwadi.web.id/ebook/Dee%20Lestari/Novelet%20Madre%20%2845%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Dee%20Lestari/Novelet%20Madre%20%2845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Dee%20Lestari/Novelet%20Madre%20%2845%29/Novelet%20Madre%20-%20Dee%20Lestari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+  <author>
+    <name>Dee Lestari</name>
+    <uri>../authors_0/authors_15_Page_1.xml</uri>
+  </author>
+  <published>2015-06-11T05:00:00Z</published>
+  <dcterms:language>in</dcterms:language>
+  <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
+  <category term="Juvenile Fiction" />
+  <category term="Media Tie-In" />
+  <category term="Fiction" />
+  <category term="Literary" />
+  <category term="General" />
+  <category term="FIksi" />
+  <category term="Lang:in" />
+  <category term="Novel" />
+  <content type="text/html">
+    <p>
+      <strong>Series:</strong>
+      Book 1 in the Novel series
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Juvenile Fiction, Media Tie-In, Fiction, Literary, General, FIksi, Lang:in
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Bentang Pustaka
+    </p>
+    <p>
+      <strong>Published:</strong>
+      June 11, 2015
+    </p>
+    <p>
+      <strong>Added:</strong>
+      September 2, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      September 2, 2019
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p class="description">
+        <a href="https://repo.purwadi.web.id/ebook">
+          <b>Sigit Purwadi's Library</b>
+        </a>
+         - Apa rasanya jika sejarah kita berubah dalam
+      sehari? Darah saya mendadak seperempat Tionghoa, nenek
+      saya seorang penjual roti, dan dia, bersama kakek yang tidak
+      saya kenal, mewariskan anggota keluarga baru yang tidak
+      pernah saya tahu: Madre.
+      </p>
+      <p class="description">[Mizan, Bentang Pustaka, Novelet, Dee,
+      Dewi Lestari, Film]Spesial Bentang Dee Lestari</p>
+    </div>
+  </content>
+  <link href="../authors_0/authors_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Dee Lestari" />
+  <link href="http://www.goodreads.com/book/title/Novelet%20Madre" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Novelet%20Madre" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Novelet%20Madre%20Dee%20Lestari" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Novelet%20Madre&amp;field-author=Dee%20Lestari" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Dee%20Lestari" type="text/html" rel="related" title="Dee Lestari on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Dee%20Lestari" type="text/html" rel="related" title="Dee Lestari on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/LestariDee" type="text/html" rel="related" title="Dee Lestari on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Dee%20Lestari" type="text/html" rel="related" title="Dee Lestari on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Dee%20Lestari" type="text/html" rel="related" title="Dee Lestari on ISFDB" target="_blank" />
+</entry>
