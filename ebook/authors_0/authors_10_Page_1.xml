@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Irshad Manji</title>
+  <title>Eric Klinenberg</title>
   <id>Calibre2opds:authors:10</id>
   <author>
     <name>David Pierron</name>
@@ -8,31 +8,36 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Irshad Manji" />
+  <link href="./authors_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Eric Klinenberg" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
   <entry>
-    <title>Allah, Liberty &amp; Love: The Courage to Reconcile Faith and Freedom</title>
-    <id>calibre:book:38</id>
-    <updated>2019-09-02T05:24:39Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Irshad%20Manji/Allah%2C%20Liberty%20%26%20Love_%20The%20Courage%20t%20%2838%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Irshad%20Manji/Allah%2C%20Liberty%20%26%20Love_%20The%20Courage%20t%20%2838%29/Allah%2C%20Liberty%20%26%20Love_%20The%20Cour%20-%20Irshad%20Manji.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <title>Modern Romance</title>
+    <id>calibre:book:7</id>
+    <updated>2019-09-07T08:36:34Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Aziz%20Ansari/Modern%20Romance%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Aziz%20Ansari/Modern%20Romance%20%287%29/Modern%20Romance%20-%20Aziz%20Ansari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
-      <name>Irshad Manji</name>
+      <name>Aziz Ansari</name>
+      <uri>../authors_0/authors_9_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Eric Klinenberg</name>
       <uri>../authors_0/authors_10_Page_1.xml</uri>
     </author>
-    <published>2011-06-06T05:00:00Z</published>
+    <published>2015-06-15T05:00:00Z</published>
     <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Random House of Canada</dcterms:publisher>
-    <category term="Religion" />
-    <category term="Spirituality" />
-    <category term="Political Science" />
-    <category term="Peace" />
-    <category term="Islam" />
-    <category term="General" />
+    <dcterms:publisher>Penguin</dcterms:publisher>
+    <category term="Humor" />
+    <category term="Topic" />
+    <category term="Men; Women &amp; Relationships" />
+    <category term="Family &amp; Relationships" />
+    <category term="Love &amp; Romance" />
+    <category term="Marriage &amp; Family" />
     <category term="Lang:en" />
-    <summary>Sigit Purwadi's Library - "Irshad Manji is the new voice of reform, not only for Islam, but for all religions." — Deepak ChopraThe New York Times bestselling author to whom Oprah gave her first ever Chutzpah Award, Irshad Manji has written a book tha...</summary>
-    <link href="../book_0/book_38.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Sigit Purwadi's Library - The #1 New York Times Bestseller  A hilarious, thoughtful, and in-depth exploration of the pleasures and perils of modern romance from Aziz Ansari, the star of Master of None  and one of this generation’s sharpest comedic vo...</summary>
+    <link href="../book_0/book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

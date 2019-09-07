@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Human Sexuality</title>
+  <id>Calibre2opds:taglist:H:109</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_109_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Human Sexuality" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with H" />
+  <entry>
+    <title>How to Think More About Sex</title>
+    <id>calibre:book:8</id>
+    <updated>2019-09-07T08:36:37Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Alain%20de%20Botton/How%20to%20Think%20More%20About%20Sex%20%288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Alain%20de%20Botton/How%20to%20Think%20More%20About%20Sex%20%288%29/How%20to%20Think%20More%20About%20Sex%20-%20Alain%20de%20Botton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
+    <author>
+      <name>Alain de Botton</name>
+      <uri>../authors_0/authors_11_Page_1.xml</uri>
+    </author>
+    <published>2012-12-23T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Picador</dcterms:publisher>
+    <category term="Psychology" />
+    <category term="Human Sexuality" />
+    <category term="Social Psychology" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - THE SCHOOL OF LIFE IS DEDICATED TO EXPLORING LIFE'S BIG QUESTIONS IN HIGHLY-PORTABLE PAPERBACKS, FEATURING FRENCH FLAPS AND DECKLE EDGES, THAT THE NEW YORK TIMES CALLS "DAMNABLY CUTE." WE DON'T HAVE ALL THE ANSWERS, BUT WE W...</summary>
+    <link href="../book_0/book_8.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

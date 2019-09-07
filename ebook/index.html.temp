@@ -1,0 +1,29 @@
+================ HEADER ================ 
+
+<title>Sigit Purwadi's Digital Library</title>
+<meta name="description" content="Free ebook solution from academic, popular, and professional publishers." />
+<meta name="keywords" content="Sigit Purwadi, sigit, digital library, ebook, epub, pdf, digital book, digilib, digital repository" />
+<link rel="shortcut icon" href="favicon.ico" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="600" />
+<meta property="og:image" content="https://repo.purwadi.web.id/ebook/sigit-lib.jpg" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-61535015-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-61535015-3');
+</script>
+
+================ FOOTER ================
+
+<small>
+<div class="thanks">
+<br>Sigit Purwadi's Digital Library v.1.2 by <a href="https://medium.com/artcytech" target="_blank" title="Artcytech on Medium">@artcytech</a><br/> Poke me <a href="https://twitter.com/S_Purwadi" title="@S_Purwadi on Twitter" target="_blank">@S_Purwadi</a> for (📖/☕) donation<br/> &copy; 2019 - All rights belong to their respective owners
+</div>
+</small>
+<div id="footer">
+<a class="noeffect" href="http://snippetspace.com">Powered by iWebKit and Calibre</a>
+</div>

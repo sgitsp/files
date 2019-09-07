@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Dee Lestari</title>
+  <title>Charles Duhigg</title>
   <id>Calibre2opds:authors:15</id>
   <author>
     <name>David Pierron</name>
@@ -8,24 +8,25 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Dee Lestari" />
+  <link href="./authors_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Charles Duhigg" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
   <entry>
-    <title>All books by Dee Lestari</title>
-    <id>Calibre2opds:allbooks</id>
-    <content type="text">Alphabetical index of the single book - very useful indeed ;)</content>
-    <link href="../authors_0/authors_15_allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Series: Novel</title>
-    <id>Calibre2opds:authors:15series:1</id>
-    <content type="text">Novelet Madre</content>
-    <link href="../authors_0/authors_15_series_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../series.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
+    <title>The Power of Habit</title>
+    <id>calibre:book:13</id>
+    <updated>2019-09-07T08:36:47Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Charles%20Duhigg/The%20Power%20of%20Habit%20%2813%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Charles%20Duhigg/The%20Power%20of%20Habit%20%2813%29/The%20Power%20of%20Habit%20-%20Charles%20Duhigg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Charles Duhigg</name>
+      <uri>../authors_0/authors_15_Page_1.xml</uri>
+    </author>
+    <published>2012-02-27T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - A young woman walks into a laboratory. Over the past two years, she has transformed almost every aspect of her life. She has quit smoking, run a marathon, and been promoted at work. The patterns inside her brain, neurologist...</summary>
+    <link href="../book_0/book_13.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

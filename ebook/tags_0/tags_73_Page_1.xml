@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Specific Ingredients</title>
+  <id>Calibre2opds:taglist:S:73</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_73_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Specific Ingredients" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with S" />
+  <entry>
+    <title>Salt: The Essential Guide to Cooking With the Most Important Ingredient in Your Kitchen</title>
+    <id>calibre:book:50</id>
+    <updated>2019-09-07T08:38:23Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Leslie%20Bilderback/Salt_%20The%20Essential%20Guide%20to%20Cooking%20%2850%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Leslie%20Bilderback/Salt_%20The%20Essential%20Guide%20to%20Cooking%20%2850%29/Salt_%20The%20Essential%20Guide%20to%20Co%20-%20Leslie%20Bilderback.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="40 MB" />
+    <author>
+      <name>Leslie Bilderback</name>
+      <uri>../authors_0/authors_50_Page_1.xml</uri>
+    </author>
+    <published>2016-09-05T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>St. Martin's Press</dcterms:publisher>
+    <category term="Cooking" />
+    <category term="Specific Ingredients" />
+    <category term="Herbs; Spices; Condiments" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - Salt has been an essential dining element since the invention of the kitchen table. But today, specialty salts come in a vast variety of forms and flavors. Smokey salts, salts infused with clay or charcoal, herby and spicy s...</summary>
+    <link href="../book_0/book_50.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

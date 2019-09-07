@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Self-Esteem &amp; Self-Reliance</title>
+  <id>Calibre2opds:taglist:S:117</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_117_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Self-Esteem &amp; Self-Reliance" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with S" />
+  <entry>
+    <title>Quiet Power: The Secret Strengths of Introverts</title>
+    <id>calibre:book:4</id>
+    <updated>2019-09-07T08:36:26Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Susan%20Cain/Quiet%20Power_%20The%20Secret%20Strengths%20of%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Susan%20Cain/Quiet%20Power_%20The%20Secret%20Strengths%20of%20%284%29/Quiet%20Power_%20The%20Secret%20Strengt%20-%20Susan%20Cain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Susan Cain</name>
+      <uri>../authors_0/authors_4_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Gregory Mone</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Erica Moroz</name>
+      <uri>../authors_0/authors_80_Page_1.xml</uri>
+    </author>
+    <published>2016-05-02T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin</dcterms:publisher>
+    <category term="Juvenile Nonfiction" />
+    <category term="Social Science" />
+    <category term="Psychology" />
+    <category term="Social Topics" />
+    <category term="Self-Esteem &amp; Self-Reliance" />
+    <category term="Emotions &amp; Feelings" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - The monumental bestseller Quiet has been recast in a new edition that empowers introverted kids and teens  Susan Cain sparked a worldwide conversation when she published Quiet: The Power of Introverts in a World That Can’t S...</summary>
+    <link href="../book_0/book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

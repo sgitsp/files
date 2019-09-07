@@ -1,86 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Novelet Madre</title>
-  <id>urn:book:4894602d-d215-4ef0-a114-c53b368acb33</id>
-  <updated>2019-09-02T05:24:55Z</updated>
-  <link href="./book_45.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Novelet Madre" />
+  <title>Pachinko</title>
+  <id>urn:book:1a7c6462-1b2b-425d-b3eb-93168cf05405</id>
+  <updated>2019-09-07T08:38:10Z</updated>
+  <link href="./book_45.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Pachinko" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
-  <link href="../authors_0/authors_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Dee Lestari" />
-  <link href="http://repo.purwadi.web.id/ebook/Dee%20Lestari/Novelet%20Madre%20%2845%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
-  <link href="http://repo.purwadi.web.id/ebook/Dee%20Lestari/Novelet%20Madre%20%2845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="http://repo.purwadi.web.id/ebook/Dee%20Lestari/Novelet%20Madre%20%2845%29/Novelet%20Madre%20-%20Dee%20Lestari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="http://repo.purwadi.web.id/ebook/Min%20Jin%20Lee/Pachinko%20%2845%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Min%20Jin%20Lee/Pachinko%20%2845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Min%20Jin%20Lee/Pachinko%20%2845%29/Pachinko%20-%20Min%20Jin%20Lee.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="650 KB" />
   <author>
-    <name>Dee Lestari</name>
-    <uri>../authors_0/authors_15_Page_1.xml</uri>
+    <name>Min Jin Lee</name>
+    <uri>../authors_0/authors_44_Page_1.xml</uri>
   </author>
-  <published>2015-06-11T05:00:00Z</published>
-  <dcterms:language>in</dcterms:language>
-  <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
-  <category term="Juvenile Fiction" />
-  <category term="Media Tie-In" />
+  <published>2017-02-06T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Grand Central Publishing</dcterms:publisher>
   <category term="Fiction" />
-  <category term="Literary" />
+  <category term="Family Life" />
   <category term="General" />
-  <category term="FIksi" />
-  <category term="Lang:in" />
-  <category term="Novel" />
+  <category term="Romance" />
+  <category term="Historical" />
+  <category term="20th Century" />
+  <category term="Media Tie-In" />
+  <category term="Asian American" />
+  <category term="Lang:en" />
   <content type="text/html">
     <p>
-      <strong>Series:</strong>
-      Book 1 in the Novel series
-    </p>
-    <p>
       <strong>Rating:</strong>
-      Not rated
+      *****
     </p>
     <p>
       <strong>Tags:</strong>
-      Juvenile Fiction, Media Tie-In, Fiction, Literary, General, FIksi, Lang:in
+      Fiction, Family Life, General, Romance, Historical, 20th Century, Media Tie-In, Asian American, Lang:en
     </p>
     <p>
       <strong>Publisher:</strong>
-      Bentang Pustaka
+      Grand Central Publishing
     </p>
     <p>
       <strong>Published:</strong>
-      June 11, 2015
+      February 6, 2017
     </p>
     <p>
       <strong>Added:</strong>
-      September 2, 2019
+      September 5, 2019
     </p>
     <p>
       <strong>Modified:</strong>
-      September 2, 2019
+      September 7, 2019
     </p>
     <p>
       <strong>Summary</strong>
     </p>
     <div xmlns="">
-      <p class="description">
-        <a href="https://repo.purwadi.web.id/ebook">
-          <b>Sigit Purwadi's Library</b>
-        </a>
-         - Apa rasanya jika sejarah kita berubah dalam
-      sehari? Darah saya mendadak seperempat Tionghoa, nenek
-      saya seorang penjual roti, dan dia, bersama kakek yang tidak
-      saya kenal, mewariskan anggota keluarga baru yang tidak
-      pernah saya tahu: Madre.
+      <p>
+        <b>
+          <a href="https://repo.purwadi.web.id/ebook/">Sigit Purwadi's
+      Library</a>
+           -
+        </b>
+         
+        <em>
+          <em>A</em>
+          New York Times
+        </em>
+        Top Ten Book of the Year and
+      National Book Award finalist,
+        <em>Pachinko</em>
+        is an "extraordinary epic" of four
+      generations of a poor Korean immigrant family as they fight
+      to control their destiny in 20th-century Japan (
+        <em>San Francisco Chronicle</em>
+        ).
       </p>
-      <p class="description">[Mizan, Bentang Pustaka, Novelet, Dee,
-      Dewi Lestari, Film]Spesial Bentang Dee Lestari</p>
+      <p>
+        <em>NEW YORK TIMES</em>
+        NOTABLE BOOK OF 2017 * A
+        <em>USA TODAY</em>
+        TOP TEN OF 2017 * JULY PICK FOR THE
+        <em>PBS NEWSHOUR-NEW YORK TIMES</em>
+        BOOK CLUB
+        <em>NOW READ THIS</em>
+        * FINALIST FOR THE 2018 DAYTON
+      LITERARY PEACE PRIZE* WINNER OF THE MEDICI BOOK CLUB
+      PRIZE
+      </p>
+      <p>
+        Roxane Gay's Favorite Book of 2017,
+        <em>Washington Post</em>
+      </p>
+      <p>
+        <em>NEW YORK TIMES</em>
+        BESTSELLER * #1
+        <em>BOSTON GLOBE</em>
+        BESTSELLER *
+        <em>USA TODAY</em>
+        BESTSELLER *
+        <em>WALL STREET JOURNAL</em>
+        BESTSELLER *
+        <em>WASHINGTON POST</em>
+        BESTSELLER**
+      </p>
+      <p>
+        <em>"There could only be a few winners, and a lot of
+        losers. And yet we played on, because we had hope that we
+        might be the lucky ones."</em>
+      </p>
+      <p>In the early 1900s, teenaged Sunja, the adored daughter of
+      a crippled fisherman, falls for a wealthy stranger at the
+      seashore near her home in Korea. He promises her the world,
+      but when she discovers she is pregnant--and that her lover is
+      married--she refuses to be bought. Instead, she accepts an
+      offer of marriage from a gentle, sickly minister passing
+      through on his way to Japan. But her decision to abandon her
+      home, and to reject her son's powerful father, sets off a
+      dramatic saga that will echo down through the
+      generations.</p>
+      <p>Richly told and profoundly moving, Pachinko is a story of
+      love, sacrifice, ambition, and loyalty. From bustling street
+      markets to the halls of Japan's finest universities to the
+      pachinko parlors of the criminal underworld, Lee's complex
+      and passionate characters--strong, stubborn women, devoted
+      sisters and sons, fathers shaken by moral crisis--survive and
+      thrive against the indifferent arc of history.</p>
+      <p>
+        <strong>Includes reading group guide</strong>
+      </p>
+      <p>**</p>
+      <h3>Amazon.com Review</h3>
+      <p>
+        <strong>An Amazon Best Book of February 2017:</strong>
+        Beginning in 1910 during the time of Japanese colonialization
+      and ending many decades later in 1989,
+        <em>Pachinko</em>
+        is the epic saga of a Korean family told
+      over four generations. The family’s story starts with
+      Hoonie, a young Korean man born with physical deformities,
+      but whose destiny comes from his inner strength and kindness.
+      Hoonie’s daughter, rather than bring shame on her
+      family, leaves their homeland for Japan, where her children
+      and grandchildren will be born and raised; yet prejudice
+      against their Korean heritage will prevent them from ever
+      feeling at home. In
+        <em>Pachinko</em>
+        , Min Jin Lee says much about success and
+      suffering, prejudice and tradition, but the novel never bogs
+      down and only becomes richer, like a sauce left simmering
+      hour after hour. Lee’s exceptional story of one family
+      is the story of many of the world’s people. They ask
+      only for the chance to belong somewhere—and to be
+      judged by their hearts and actions rather than by ideas of
+      blood traits and bad seeds.
+        <em>--Seira Wilson, The Amazon Book Review</em>
+      </p>
+      <h3>Review</h3>
+      <p>Narrator Hiroto brings a subtle, down-to-earth realism to
+      the story of Sunja.-- "Library Journal (starred audio
+      review)"</p>
+      <p>
+        <em>Pachinko</em>
+        remains gently affecting as an audio.--
+      "AudioFile"
+      </p>
+      <p>A powerful meditation on what immigrants sacrifice to
+      achieve a home in the world.-- "Junot Diaz, Pulitzer
+      Prize-winning author"</p>
+      <p>A social novel in the Dickensian vein...frequently
+      heartbreaking.-- "USA Today"</p>
+      <p>The novel expertly portrays the rituals and mores specific
+      to ethnic Korean culture even as it also poignantly captures
+      the universally complicated relationships between family
+      members, lovers and friends. The writing is spare and
+      evocative.-- "New York Times"</p>
+      <p>An extraordinary epic, both sturdily constructed and
+      beautiful.-- "San Francisco Chronicle"</p>
+      <p>Combining the detail of a documentary with the empathy of
+      the best fiction, it's a sheer delight.-- "Daily Mail
+      (London)"</p>
+      <p>Stunning...Despite the compelling sweep of time and
+      history, it is the characters and their tumultuous lives that
+      propel the narrative.-- " New York Times Book Review"</p>
+      <p>An exquisite, haunting epic...'moments of shimmering
+      beauty and some glory, too, ' illuminate the
+      narrative...Lee's profound novel...is shaped by impeccable
+      research, meticulous plotting, and empathic perception.--
+      "Booklist (starred review)"</p>
+      <p>A sprawling and immersive historical work... Reckoning
+      with one determined, wounded family's place in history, Lee's
+      novel is an exquisite meditation on the generational nature
+      of truly forging a home.-- "Publishers Weekly" </p>
     </div>
   </content>
-  <link href="../authors_0/authors_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Dee Lestari" />
-  <link href="http://www.goodreads.com/book/title/Novelet%20Madre" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Novelet%20Madre" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
-  <link href="http://www.librarything.com/title/Novelet%20Madre%20Dee%20Lestari" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
-  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Novelet%20Madre&amp;field-author=Dee%20Lestari" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
-  <link href="http://www.goodreads.com/book/author/Dee%20Lestari" type="text/html" rel="related" title="Dee Lestari on Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Dee%20Lestari" type="text/html" rel="related" title="Dee Lestari on Wikipedia" target="_blank" />
-  <link href="http://www.librarything.com/author/LestariDee" type="text/html" rel="related" title="Dee Lestari on LibraryThing" target="_blank" />
-  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Dee%20Lestari" type="text/html" rel="related" title="Dee Lestari on Amazon" target="_blank" />
-  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Dee%20Lestari" type="text/html" rel="related" title="Dee Lestari on ISFDB" target="_blank" />
+  <link href="../authors_0/authors_44_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Min Jin Lee" />
+  <link href="http://www.goodreads.com/book/title/Pachinko" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Pachinko" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Pachinko%20Min%20Jin%20Lee" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Pachinko&amp;field-author=Min%20Jin%20Lee" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Min%20Jin%20Lee" type="text/html" rel="related" title="Min Jin Lee on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Min%20Jin%20Lee" type="text/html" rel="related" title="Min Jin Lee on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/LeeMinJin" type="text/html" rel="related" title="Min Jin Lee on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Min%20Jin%20Lee" type="text/html" rel="related" title="Min Jin Lee on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Min%20Jin%20Lee" type="text/html" rel="related" title="Min Jin Lee on ISFDB" target="_blank" />
 </entry>

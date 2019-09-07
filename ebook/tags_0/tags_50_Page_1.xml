@@ -1,35 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Buddhism</title>
-  <id>Calibre2opds:taglist:50</id>
+  <title>Biography &amp; Autobiography</title>
+  <id>Calibre2opds:taglist:B:50</id>
   <author>
     <name>David Pierron</name>
     <uri>http://calibre2opds.com/</uri>
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./tags_50_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Buddhism" />
+  <link href="./tags_50_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Biography &amp; Autobiography" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with B" />
   <entry>
-    <title>Sedang Tuhan Pun Cemburu (Republish)</title>
-    <id>calibre:book:31</id>
-    <updated>2019-09-02T05:22:28Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Sedang%20Tuhan%20Pun%20Cemburu%20%28Republish%29%20%2831%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Sedang%20Tuhan%20Pun%20Cemburu%20%28Republish%29%20%2831%29/Sedang%20Tuhan%20Pun%20Cemburu%20%28Repub%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <title>The 101 Most Influential People Who Never Lived: How Characters of Fiction, Myth, Legends, Television, and Movies Have Shaped Our Society, Changed Our Behavior, and Set the Course of History</title>
+    <id>calibre:book:34</id>
+    <updated>2019-09-07T08:37:44Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Allan%20Lazar/The%20101%20Most%20Influential%20People%20Who%20%2834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Allan%20Lazar/The%20101%20Most%20Influential%20People%20Who%20%2834%29/The%20101%20Most%20Influential%20People%20-%20Allan%20Lazar.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="1 MB" />
     <author>
-      <name>Emha Ainun Nadjib</name>
-      <uri>../authors_0/authors_4_Page_1.xml</uri>
+      <name>Allan Lazar</name>
+      <uri>../authors_0/authors_73_Page_1.xml</uri>
     </author>
-    <published>2018-06-11T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
-    <category term="Religion" />
-    <category term="Buddhism" />
+    <author>
+      <name>Dan Karlan</name>
+      <uri>../authors_0/authors_74_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Jeremy Salter</name>
+      <uri>../authors_0/authors_36_Page_1.xml</uri>
+    </author>
+    <published>2009-10-12T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harper Collins</dcterms:publisher>
+    <category term="Biography &amp; Autobiography" />
+    <category term="Entertainment &amp; Performing Arts" />
+    <category term="Humor" />
     <category term="General" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Salah satu bakat paling besar dalam diri manusia memang menjadi binatang: makhluk tingkat ketiga sesudah benda dan tetumbuhan. Binatang plus akal adalah kita. Binatang plus akal plus tataran-tataran lain dari spiritualisme a...</summary>
-    <link href="../book_0/book_31.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - From Santa Claus to Buffy the Vampire Slayer, from Uncle Sam to Uncle Tom, here is a compelling, eye-opening, and endlessly entertaining compendium of fictional trendsetters and world-shakers who have helped shape our cultur...</summary>
+    <link href="../book_0/book_34.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mein Kampf</title>
+    <id>calibre:book:36</id>
+    <updated>2019-09-07T09:20:25Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Adolf%20Hitler/Mein%20Kampf%20%2836%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Adolf%20Hitler/Mein%20Kampf%20%2836%29/Mein%20Kampf%20-%20Adolf%20Hitler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="820 KB" />
+    <author>
+      <name>Adolf Hitler</name>
+      <uri>../authors_0/authors_38_Page_1.xml</uri>
+    </author>
+    <published>2006-06-14T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Jaico Publishing House</dcterms:publisher>
+    <category term="History" />
+    <category term="Europe" />
+    <category term="Germany" />
+    <category term="Biography &amp; Autobiography" />
+    <category term="Military" />
+    <category term="Reference" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - For the first time in 65 years, a modern, easy to understand, truly complete and uncensored edition of Mein Kampf has been released which reveals more than any past translation. This hardcover book is also the first translat...</summary>
+    <link href="../book_0/book_36.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Seeking Allah, Finding Jesus: A Devout Muslim Encounters Christianity</title>
+    <id>calibre:book:6</id>
+    <updated>2019-09-07T08:36:32Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Nabeel%20Qureshi/Seeking%20Allah%2C%20Finding%20Jesus_%20A%20Devo%20%286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Nabeel%20Qureshi/Seeking%20Allah%2C%20Finding%20Jesus_%20A%20Devo%20%286%29/Seeking%20Allah%2C%20Finding%20Jesus_%20A%20-%20Nabeel%20Qureshi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="379 KB" />
+    <author>
+      <name>Nabeel Qureshi</name>
+      <uri>../authors_0/authors_78_Page_1.xml</uri>
+    </author>
+    <published>2016-04-18T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Zondervan</dcterms:publisher>
+    <category term="Biography &amp; Autobiography" />
+    <category term="Religious" />
+    <category term="Religion" />
+    <category term="Christian Theology" />
+    <category term="Apologetics" />
+    <category term="Comparative Religion" />
+    <category term="ebook" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - In  Seeking Allah, Finding Jesus, now expanded with bonus content, Nabeel Qureshi describes his dramatic journey from Islam to Christianity, complete with friendships, investigations, and supernatural dreams along the way.Pr...</summary>
+    <link href="../book_0/book_6.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

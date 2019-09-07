@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Flat-Earth Conspiracy</title>
+  <id>urn:book:79fe4ae7-1e07-44f8-bc5d-4e7f29ba0f8f</id>
+  <updated>2019-09-07T08:39:20Z</updated>
+  <link href="./book_72.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Flat-Earth Conspiracy" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="http://repo.purwadi.web.id/ebook/Eric%20Dubay/The%20Flat-Earth%20Conspiracy%20%2872%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Eric%20Dubay/The%20Flat-Earth%20Conspiracy%20%2872%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Eric%20Dubay/The%20Flat-Earth%20Conspiracy%20%2872%29/The%20Flat-Earth%20Conspiracy%20-%20Eric%20Dubay.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="26 MB" />
+  <author>
+    <name>Eric Dubay</name>
+    <uri>../authors_0/authors_65_Page_1.xml</uri>
+  </author>
+  <published>2014-11-08T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>lulu.com</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      lulu.com
+    </p>
+    <p>
+      <strong>Published:</strong>
+      November 8, 2014
+    </p>
+    <p>
+      <strong>Added:</strong>
+      September 5, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      September 7, 2019
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      <a href="https://repo.purwadi.web.id/ebook/">
+        <b>Sigit Purwadi's Library</b>
+      </a>
+       - Wolves in sheep's clothing have pulled the wool
+    over our eyes. For almost 500 years, the masses have been
+    thoroughly deceived by a cosmic fairy-tale of astronomical
+    proportions. We have been taught a falsehood so gigantic and
+    diabolical that it has blinded us from our own experience and
+    common sense, from seeing the world and the universe as they
+    truly are. Through pseudo-science books and programs, mass
+    media and public education, universities and government
+    propaganda, the world has been systematically brain-washed,
+    slowly indoctrinated over centuries into the unquestioning
+    belief of the greatest lie of all time. A multi-generational
+    conspiracy has succeeded, in the minds of the masses, to pick
+    up the fixed Earth, shape it into a ball, spin it in circles,
+    and throw it around the Sun! The greatest cover-up of all time,
+    Nasa and Freemasonry's biggest secret, is that we are living on
+    a plane, not a planet, that Earth is the flat, stationary
+    center of the universe.**
+    </p>
+  </content>
+  <link href="../authors_0/authors_65_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Eric Dubay" />
+  <link href="http://www.goodreads.com/book/title/The%20Flat-Earth%20Conspiracy" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/The%20Flat-Earth%20Conspiracy" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/The%20Flat-Earth%20Conspiracy%20Eric%20Dubay" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Flat-Earth%20Conspiracy&amp;field-author=Eric%20Dubay" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Eric%20Dubay" type="text/html" rel="related" title="Eric Dubay on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Eric%20Dubay" type="text/html" rel="related" title="Eric Dubay on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/DubayEric" type="text/html" rel="related" title="Eric Dubay on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Eric%20Dubay" type="text/html" rel="related" title="Eric Dubay on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Eric%20Dubay" type="text/html" rel="related" title="Eric Dubay on ISFDB" target="_blank" />
+</entry>

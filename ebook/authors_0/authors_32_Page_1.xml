@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Emha Ainun Nadjib</title>
+  <id>Calibre2opds:authors:32</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_32_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Emha Ainun Nadjib" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Anggukan Ritmis Kaki Pak Kiai (Republish)</title>
+    <id>calibre:book:58</id>
+    <updated>2019-09-07T08:38:45Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Anggukan%20Ritmis%20Kaki%20Pak%20Kiai%20%28Repub%20%2858%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Anggukan%20Ritmis%20Kaki%20Pak%20Kiai%20%28Repub%20%2858%29/Anggukan%20Ritmis%20Kaki%20Pak%20Kiai%20%28%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Emha Ainun Nadjib</name>
+      <uri>../authors_0/authors_32_Page_1.xml</uri>
+    </author>
+    <published>2018-02-26T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
+    <category term="Philosophy" />
+    <category term="Religious" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library -  Di sebuah pesantren, ada dua orang kiai yang berdebat tentang hukum kesenian. Salah seorang dari mereka bersikeras bahwa kesenian itu syirik, bahkan haram. Para santri menyaksikan perdebatan itu dengan hati berdebar. Dari k...</summary>
+    <link href="../book_0/book_58.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Markesot Bertutur Lagi</title>
+    <id>calibre:book:54</id>
+    <updated>2019-09-07T08:38:33Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Markesot%20Bertutur%20Lagi%20%2854%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Markesot%20Bertutur%20Lagi%20%2854%29/Markesot%20Bertutur%20Lagi%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Emha Ainun Nadjib</name>
+      <uri>../authors_0/authors_32_Page_1.xml</uri>
+    </author>
+    <published>2012-08-31T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
+    <category term="Literary Collections" />
+    <category term="General" />
+    <category term="Juvenile Nonfiction" />
+    <category term="Social Science" />
+    <category term="Sociology" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Markesot adalah sosok lugu nan cerdas, mbeling, terkadang misterius. Dalam kesehariannya dengan sahabat-sahabatnya, Markembloh, Markasan, Markemon, dan lain-lain yang tergabung dalam Konsorsium Para Mbambung (KPMb), Markesot...</summary>
+    <link href="../book_0/book_54.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Orang Maiyah</title>
+    <id>calibre:book:31</id>
+    <updated>2019-09-07T08:37:36Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Orang%20Maiyah%20%2831%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Orang%20Maiyah%20%2831%29/Orang%20Maiyah%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
+    <author>
+      <name>Emha Ainun Nadjib</name>
+      <uri>../authors_0/authors_32_Page_1.xml</uri>
+    </author>
+    <published>2016-01-07T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Urban" />
+    <category term="Juvenile Fiction" />
+    <category term="Social Issues" />
+    <category term="Emotions &amp; Feelings" />
+    <category term="Social Science" />
+    <category term="Popular Culture" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Orang Maiyah adalah orang yang membaca dirinya berulang-ulang, ribuan kali. Di dalam Maiyah tak ada guru dan murid. Semua orang adalah murid, sang penghendak ilmu. Hidup orang Maiyah tidak tergantung kekayaan dan atau kemisk...</summary>
+    <link href="../book_0/book_31.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sedang Tuhan Pun Cemburu (Republish)</title>
+    <id>calibre:book:38</id>
+    <updated>2019-09-07T08:37:54Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Sedang%20Tuhan%20Pun%20Cemburu%20%28Republish%29%20%2838%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Sedang%20Tuhan%20Pun%20Cemburu%20%28Republish%29%20%2838%29/Sedang%20Tuhan%20Pun%20Cemburu%20%28Repub%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Emha Ainun Nadjib</name>
+      <uri>../authors_0/authors_32_Page_1.xml</uri>
+    </author>
+    <published>2018-06-11T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
+    <category term="Religion" />
+    <category term="Buddhism" />
+    <category term="General" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Salah satu bakat paling besar dalam diri manusia memang menjadi binatang: makhluk tingkat ketiga sesudah benda dan tetumbuhan. Binatang plus akal adalah kita. Binatang plus akal plus tataran-tataran lain dari spiritualisme a...</summary>
+    <link href="../book_0/book_38.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Surat Kepada Kanjeng Nabi</title>
+    <id>calibre:book:42</id>
+    <updated>2019-09-07T08:38:03Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Surat%20Kepada%20Kanjeng%20Nabi%20%2842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Surat%20Kepada%20Kanjeng%20Nabi%20%2842%29/Surat%20Kepada%20Kanjeng%20Nabi%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="956 KB" />
+    <author>
+      <name>Emha Ainun Nadjib</name>
+      <uri>../authors_0/authors_32_Page_1.xml</uri>
+    </author>
+    <published>2015-08-06T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
+    <category term="Literary Collections" />
+    <category term="General" />
+    <category term="Poetry" />
+    <category term="Asian" />
+    <category term="Religion" />
+    <category term="Islam" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Di negeri kami ini, umatmu berjumlah terbanyak dari penduduknya. Di negeri ini, kami punya Muhammadiyah, punya NU, Persis, punya ulama-ulama dan MUI, ICMI, punya bank, punya HMI, PMII, IMM, Anshor, Pemuda Muhammadiyah, IPM, ...</summary>
+    <link href="../book_0/book_42.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,38 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Political Science</title>
-  <id>Calibre2opds:taglist:43</id>
+  <title>Motivational &amp; Inspirational</title>
+  <id>Calibre2opds:taglist:M:43</id>
   <author>
     <name>David Pierron</name>
     <uri>http://calibre2opds.com/</uri>
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./tags_43_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Political Science" />
+  <link href="./tags_43_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Motivational &amp; Inspirational" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
-  <link href="../taglist/taglist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with M" />
   <entry>
-    <title>Allah, Liberty &amp; Love: The Courage to Reconcile Faith and Freedom</title>
-    <id>calibre:book:38</id>
-    <updated>2019-09-02T05:24:39Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Irshad%20Manji/Allah%2C%20Liberty%20%26%20Love_%20The%20Courage%20t%20%2838%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Irshad%20Manji/Allah%2C%20Liberty%20%26%20Love_%20The%20Courage%20t%20%2838%29/Allah%2C%20Liberty%20%26%20Love_%20The%20Cour%20-%20Irshad%20Manji.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <title>KonMari™ Mengubah Hidupku</title>
+    <id>calibre:book:39</id>
+    <updated>2019-09-07T08:37:56Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Khoirun%20Nikmah/KonMariTM%20Mengubah%20Hidupku%20%2839%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Khoirun%20Nikmah/KonMariTM%20Mengubah%20Hidupku%20%2839%29/KonMariTM%20Mengubah%20Hidupku%20-%20Khoirun%20Nikmah.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
     <author>
-      <name>Irshad Manji</name>
-      <uri>../authors_0/authors_10_Page_1.xml</uri>
+      <name>Khoirun Nikmah</name>
+      <uri>../authors_0/authors_40_Page_1.xml</uri>
     </author>
-    <published>2011-06-06T05:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Random House of Canada</dcterms:publisher>
-    <category term="Religion" />
-    <category term="Spirituality" />
-    <category term="Political Science" />
-    <category term="Peace" />
-    <category term="Islam" />
+    <published>2018-09-27T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
+    <category term="Self-Help" />
+    <category term="Motivational &amp; Inspirational" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Marie Kondo, seorang konsultan berbenah asal Jepang, memperkenalkan metode merapikan yang ampuh tiada duanya, KonMari. Keampuhan metode ini makin marak dirasakan di Indonesia, tepatnya setelah buku The Life-Changing Magic of...</summary>
+    <link href="../book_0/book_39.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Tahzan: Jangan Bersedih!</title>
+    <id>calibre:book:71</id>
+    <updated>2019-09-07T08:39:17Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Dr.%20%27aidh%20Al-Qarni/La%20Tahzan_%20Jangan%20Bersedih%21%20%2871%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Dr.%20%27aidh%20Al-Qarni/La%20Tahzan_%20Jangan%20Bersedih%21%20%2871%29/La%20Tahzan_%20Jangan%20Bersedih%21%20-%20Dr.%20%27aidh%20Al-Qarni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="425 KB" />
+    <author>
+      <name>Dr. ‘aidh Al-Qarni</name>
+      <uri>../authors_0/authors_66_Page_1.xml</uri>
+    </author>
+    <published>2016-04-24T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Qisthi Press</dcterms:publisher>
+    <category term="Body; Mind &amp; Spirit" />
+    <category term="Inspiration &amp; Personal Growth" />
+    <category term="Psychology" />
+    <category term="Developmental" />
     <category term="General" />
-    <category term="Lang:en" />
-    <summary>Sigit Purwadi's Library - "Irshad Manji is the new voice of reform, not only for Islam, but for all religions." — Deepak ChopraThe New York Times bestselling author to whom Oprah gave her first ever Chutzpah Award, Irshad Manji has written a book tha...</summary>
-    <link href="../book_0/book_38.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <category term="Self-Help" />
+    <category term="Motivational &amp; Inspirational" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Sebagai salah satu buku kategori pencerahan hati (an-nafsu al muthma`innah), Lâ Tahzan menawarkan terapi yang lebih dekat dengan al-Qur`an dan Sunah, ketimbang renungan-renungan reflektif semata. Lâ Tahzan menjadi buku terla...</summary>
+    <link href="../book_0/book_71.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

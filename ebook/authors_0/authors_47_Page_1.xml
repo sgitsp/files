@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Frederick Temple</title>
+  <id>Calibre2opds:authors:47</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_47_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Frederick Temple" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>The Relations Between Religion and Science Eight Lectures Preached Before the University of Oxford in the Year 1884</title>
+    <id>calibre:book:48</id>
+    <updated>2019-09-07T08:38:17Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Frederick%20Temple/The%20Relations%20Between%20Religion%20and%20S%20%2848%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Frederick%20Temple/The%20Relations%20Between%20Religion%20and%20S%20%2848%29/The%20Relations%20Between%20Religion%20-%20Frederick%20Temple.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="172 KB" />
+    <author>
+      <name>Frederick Temple</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>2006-11-02T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>tredition</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - This book is part of the TREDITION CLASSICS series. The creators of this series are united by passion for literature and driven by the intention of making all public domain books available in printed format again - worldwide...</summary>
+    <link href="../book_0/book_48.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

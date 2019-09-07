@@ -1,34 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Historical</title>
-  <id>Calibre2opds:taglist:49</id>
+  <title>Germany</title>
+  <id>Calibre2opds:taglist:G:49</id>
   <author>
     <name>David Pierron</name>
     <uri>http://calibre2opds.com/</uri>
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./tags_49_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Historical" />
+  <link href="./tags_49_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Germany" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with G" />
   <entry>
-    <title>BUMI MANUSIA</title>
-    <id>calibre:book:33</id>
-    <updated>2019-09-02T05:22:33Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Pramoedya%20Ananta%20Toer/BUMI%20MANUSIA%20%2833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Pramoedya%20Ananta%20Toer/BUMI%20MANUSIA%20%2833%29/BUMI%20MANUSIA%20-%20Pramoedya%20Ananta%20Toer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="595 KB" />
+    <title>Mein Kampf</title>
+    <id>calibre:book:36</id>
+    <updated>2019-09-07T09:20:25Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Adolf%20Hitler/Mein%20Kampf%20%2836%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Adolf%20Hitler/Mein%20Kampf%20%2836%29/Mein%20Kampf%20-%20Adolf%20Hitler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="820 KB" />
     <author>
-      <name>Pramoedya Ananta Toer</name>
-      <uri>../authors_0/authors_6_Page_1.xml</uri>
+      <name>Adolf Hitler</name>
+      <uri>../authors_0/authors_38_Page_1.xml</uri>
     </author>
-    <published>2002-09-30T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Hasta Mitra</dcterms:publisher>
-    <category term="Fiction" />
-    <category term="Historical" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Buku ini bercerita tentang perjalanan seorang tokoh bernama Minke. Minke adalah salah satu anak pribumi yang sekolah di HBS. Pada masa itu, yang dapat masuk ke sekolah HBS adalah orang-orang keturunan Eropa. Minke adalah seo...</summary>
-    <link href="../book_0/book_33.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <published>2006-06-14T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Jaico Publishing House</dcterms:publisher>
+    <category term="History" />
+    <category term="Europe" />
+    <category term="Germany" />
+    <category term="Biography &amp; Autobiography" />
+    <category term="Military" />
+    <category term="Reference" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - For the first time in 65 years, a modern, easy to understand, truly complete and uncensored edition of Mein Kampf has been released which reveals more than any past translation. This hardcover book is also the first translat...</summary>
+    <link href="../book_0/book_36.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

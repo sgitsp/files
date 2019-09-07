@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Tags starting with S</title>
+  <id>Calibre2opds:taglist:S</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./taglist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Tags starting with S" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="./taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <entry>
+    <title>Self-Esteem &amp; Self-Reliance</title>
+    <id>Calibre2opds:taglist:S:117</id>
+    <content type="text">1 book</content>
+    <link href="../tags_1/tags_117_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Self-Help</title>
+    <id>Calibre2opds:taglist:S:7</id>
+    <content type="text">5 books</content>
+    <link href="../tags_0/tags_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Self-Management</title>
+    <id>Calibre2opds:taglist:S:95</id>
+    <content type="text">Seni Mencintai Diri Sendiri</content>
+    <link href="../tags_0/tags_95_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Short Stories (Single Author)</title>
+    <id>Calibre2opds:taglist:S:63</id>
+    <content type="text">Men Without Women: Stories</content>
+    <link href="../tags_0/tags_63_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Social Issues</title>
+    <id>Calibre2opds:taglist:S:97</id>
+    <content type="text">Orang Maiyah</content>
+    <link href="../tags_0/tags_97_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Social Psychology</title>
+    <id>Calibre2opds:taglist:S:110</id>
+    <content type="text">How to Think More About Sex</content>
+    <link href="../tags_1/tags_110_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Social Science</title>
+    <id>Calibre2opds:taglist:S:54</id>
+    <content type="text">5 books</content>
+    <link href="../tags_0/tags_54_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Social Topics</title>
+    <id>Calibre2opds:taglist:S:116</id>
+    <content type="text">1 book</content>
+    <link href="../tags_1/tags_116_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Sociology</title>
+    <id>Calibre2opds:taglist:S:68</id>
+    <content type="text">Markesot Bertutur Lagi</content>
+    <link href="../tags_0/tags_68_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Specific Ingredients</title>
+    <id>Calibre2opds:taglist:S:73</id>
+    <content type="text">1 book</content>
+    <link href="../tags_0/tags_73_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Spirituality</title>
+    <id>Calibre2opds:taglist:S:44</id>
+    <content type="text">2 books</content>
+    <link href="../tags_0/tags_44_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Study Aids</title>
+    <id>Calibre2opds:taglist:S:52</id>
+    <content type="text">1 book</content>
+    <link href="../tags_0/tags_52_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Subjects &amp; Themes</title>
+    <id>Calibre2opds:taglist:S:85</id>
+    <content type="text">The Prophet</content>
+    <link href="../tags_0/tags_85_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Success</title>
+    <id>Calibre2opds:taglist:S:10</id>
+    <content type="text">1 book</content>
+    <link href="../tags_0/tags_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

@@ -1,39 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Developmental</title>
-  <id>Calibre2opds:taglist:35</id>
+  <title>Poetry</title>
+  <id>Calibre2opds:taglist:P:35</id>
   <author>
     <name>David Pierron</name>
     <uri>http://calibre2opds.com/</uri>
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./tags_35_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Developmental" />
+  <link href="./tags_35_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Poetry" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with P" />
   <entry>
-    <title>La Tahzan: Jangan Bersedih!</title>
-    <id>calibre:book:46</id>
-    <updated>2019-09-02T05:24:57Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Dr.%20%27aidh%20Al-Qarni/La%20Tahzan_%20Jangan%20Bersedih%21%20%2846%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Dr.%20%27aidh%20Al-Qarni/La%20Tahzan_%20Jangan%20Bersedih%21%20%2846%29/La%20Tahzan_%20Jangan%20Bersedih%21%20-%20Dr.%20%27aidh%20Al-Qarni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="425 KB" />
+    <title>The Prophet</title>
+    <id>calibre:book:43</id>
+    <updated>2019-09-07T08:38:05Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Kahlil%20Gibran/The%20Prophet%20%2843%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Kahlil%20Gibran/The%20Prophet%20%2843%29/The%20Prophet%20-%20Kahlil%20Gibran.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="150 KB" />
     <author>
-      <name>Dr. ‘aidh Al-Qarni</name>
-      <uri>../authors_0/authors_21_Page_1.xml</uri>
+      <name>Kahlil Gibran</name>
+      <uri>../authors_0/authors_42_Page_1.xml</uri>
     </author>
-    <published>2016-04-24T05:00:00Z</published>
+    <published>1923-09-22T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf</dcterms:publisher>
+    <category term="Religion" />
+    <category term="Inspirational" />
+    <category term="Philosophy" />
+    <category term="Religious" />
+    <category term="Subjects &amp; Themes" />
+    <category term="Inspirational &amp; Religious" />
+    <category term="Fiction" />
+    <category term="Poetry" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - Kahlil Gibran’s masterpiece, The Prophet, is one of the most beloved classics of our time. Published in 1923, it has been translated into more than twenty languages, and the American editions alone have sold more than nine m...</summary>
+    <link href="../book_0/book_43.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Surat Kepada Kanjeng Nabi</title>
+    <id>calibre:book:42</id>
+    <updated>2019-09-07T08:38:03Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Surat%20Kepada%20Kanjeng%20Nabi%20%2842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Surat%20Kepada%20Kanjeng%20Nabi%20%2842%29/Surat%20Kepada%20Kanjeng%20Nabi%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="956 KB" />
+    <author>
+      <name>Emha Ainun Nadjib</name>
+      <uri>../authors_0/authors_32_Page_1.xml</uri>
+    </author>
+    <published>2015-08-06T05:00:00Z</published>
     <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Qisthi Press</dcterms:publisher>
-    <category term="Body; Mind &amp; Spirit" />
-    <category term="Inspiration &amp; Personal Growth" />
-    <category term="Psychology" />
-    <category term="Developmental" />
+    <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
+    <category term="Literary Collections" />
     <category term="General" />
-    <category term="Self-Help" />
-    <category term="Motivational &amp; Inspirational" />
+    <category term="Poetry" />
+    <category term="Asian" />
+    <category term="Religion" />
+    <category term="Islam" />
     <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Sebagai salah satu buku kategori pencerahan hati (an-nafsu al muthma`innah), Lâ Tahzan menawarkan terapi yang lebih dekat dengan al-Qur`an dan Sunah, ketimbang renungan-renungan reflektif semata. Lâ Tahzan menjadi buku terla...</summary>
-    <link href="../book_0/book_46.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Sigit Purwadi's Library - Di negeri kami ini, umatmu berjumlah terbanyak dari penduduknya. Di negeri ini, kami punya Muhammadiyah, punya NU, Persis, punya ulama-ulama dan MUI, ICMI, punya bank, punya HMI, PMII, IMM, Anshor, Pemuda Muhammadiyah, IPM, ...</summary>
+    <link href="../book_0/book_42.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

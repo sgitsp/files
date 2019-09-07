@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Juvenile Nonfiction</title>
+  <id>Calibre2opds:taglist:J:61</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_61_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Juvenile Nonfiction" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with J" />
+  <entry>
+    <title>Jodohku Maunya Sih Kamu: Ngaji Bareng Ust. Wijayanto</title>
+    <id>calibre:book:29</id>
+    <updated>2019-09-07T08:37:30Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20Baren%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20Baren%20%2829%29/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20-%20Ustadz%20Wijayanto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Ustadz Wijayanto</name>
+      <uri>../authors_0/authors_75_Page_1.xml</uri>
+    </author>
+    <published>2016-01-19T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Noura Books</dcterms:publisher>
+    <category term="Religion" />
+    <category term="Islam" />
+    <category term="General" />
+    <category term="Juvenile Nonfiction" />
+    <category term="Family &amp; Relationships" />
+    <category term="Love &amp; Romance" />
+    <category term="Islam Populer" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Ya Rasulullah, kenapa kau jodohkan aku dengan Bilal? Aku ingin bersuamikan lelaki yang sedang berazan itu. Suaranya bagus sekali, pasti orangnya pun saleh.Ya, itu Bilal.  Itulah sepenggal kisah yang menjadi ilustrasi dalam b...</summary>
+    <link href="../book_0/book_29.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Markesot Bertutur Lagi</title>
+    <id>calibre:book:54</id>
+    <updated>2019-09-07T08:38:33Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Markesot%20Bertutur%20Lagi%20%2854%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Markesot%20Bertutur%20Lagi%20%2854%29/Markesot%20Bertutur%20Lagi%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Emha Ainun Nadjib</name>
+      <uri>../authors_0/authors_32_Page_1.xml</uri>
+    </author>
+    <published>2012-08-31T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
+    <category term="Literary Collections" />
+    <category term="General" />
+    <category term="Juvenile Nonfiction" />
+    <category term="Social Science" />
+    <category term="Sociology" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Markesot adalah sosok lugu nan cerdas, mbeling, terkadang misterius. Dalam kesehariannya dengan sahabat-sahabatnya, Markembloh, Markasan, Markemon, dan lain-lain yang tergabung dalam Konsorsium Para Mbambung (KPMb), Markesot...</summary>
+    <link href="../book_0/book_54.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Quiet Power: The Secret Strengths of Introverts</title>
+    <id>calibre:book:4</id>
+    <updated>2019-09-07T08:36:26Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Susan%20Cain/Quiet%20Power_%20The%20Secret%20Strengths%20of%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Susan%20Cain/Quiet%20Power_%20The%20Secret%20Strengths%20of%20%284%29/Quiet%20Power_%20The%20Secret%20Strengt%20-%20Susan%20Cain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Susan Cain</name>
+      <uri>../authors_0/authors_4_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Gregory Mone</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Erica Moroz</name>
+      <uri>../authors_0/authors_80_Page_1.xml</uri>
+    </author>
+    <published>2016-05-02T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin</dcterms:publisher>
+    <category term="Juvenile Nonfiction" />
+    <category term="Social Science" />
+    <category term="Psychology" />
+    <category term="Social Topics" />
+    <category term="Self-Esteem &amp; Self-Reliance" />
+    <category term="Emotions &amp; Feelings" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - The monumental bestseller Quiet has been recast in a new edition that empowers introverted kids and teens  Susan Cain sparked a worldwide conversation when she published Quiet: The Power of Introverts in a World That Can’t S...</summary>
+    <link href="../book_0/book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sejarah Tuhan: Kisah 4.000 Tahun Pencarian Tuhan Dalam Agama-Agama Manusia</title>
+    <id>calibre:book:61</id>
+    <updated>2019-09-07T08:38:53Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Karen%20Armstrong/Sejarah%20Tuhan_%20Kisah%204.000%20Tahun%20Pen%20%2861%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Karen%20Armstrong/Sejarah%20Tuhan_%20Kisah%204.000%20Tahun%20Pen%20%2861%29/Sejarah%20Tuhan_%20Kisah%204.000%20Tahu%20-%20Karen%20Armstrong.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Karen Armstrong</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>2014-10-07T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
+    <category term="Religion" />
+    <category term="Comparative Religion" />
+    <category term="Juvenile Nonfiction" />
+    <category term="General" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Sejarah Tuhan adalah kajian lengkap tentang Tuhan yang paling populer sejak publikasi pertamanya pada dekade terakhir abad ke-20. Ditulis oleh Karen Armstrong, komentator masalah agama terkemuka asal Inggris, buku ini melaca...</summary>
+    <link href="../book_0/book_61.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

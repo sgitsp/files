@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sujiwo Tejo</title>
+  <id>Calibre2opds:authors:19</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_19_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Sujiwo Tejo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Balada Gathak-Gathuk</title>
+    <id>calibre:book:53</id>
+    <updated>2019-09-07T08:38:31Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Sujiwo%20Tejo/Balada%20Gathak-Gathuk%20%2853%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Sujiwo%20Tejo/Balada%20Gathak-Gathuk%20%2853%29/Balada%20Gathak-Gathuk%20-%20Sujiwo%20Tejo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Sujiwo Tejo</name>
+      <uri>../authors_0/authors_19_Page_1.xml</uri>
+    </author>
+    <published>2016-05-01T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
+    <category term="Young Adult Nonfiction" />
+    <category term="Social Science" />
+    <category term="General" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Gathak dan Gathuk kelimpungan. Tanah Air mereka, Giri, telah tumpas diganyang Mataram. Bahkan junjungan mereka pun, Raden Jayengresmi-keturunan Sunan Giri Perapen-pergi entah ke mana.Gathak dan Gathuk galau. Mereka tak tahu ...</summary>
+    <link href="../book_0/book_53.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Rahvayana 2: Ada Yang Tiada</title>
+    <id>calibre:book:17</id>
+    <updated>2019-09-07T08:36:57Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Sujiwo%20Tejo/Rahvayana%202_%20Ada%20Yang%20Tiada%20%2817%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Sujiwo%20Tejo/Rahvayana%202_%20Ada%20Yang%20Tiada%20%2817%29/Rahvayana%202_%20Ada%20Yang%20Tiada%20-%20Sujiwo%20Tejo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="36 MB" />
+    <author>
+      <name>Sujiwo Tejo</name>
+      <uri>../authors_0/authors_19_Page_1.xml</uri>
+    </author>
+    <published>2015-02-13T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
+    <category term="Juvenile Fiction" />
+    <category term="Toys; Dolls &amp; Puppets" />
+    <category term="Literary Collections" />
+    <category term="Asian" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Sinta berubah. Namanya jadi Janaki. Janaki pun berubah. Namanyajadi Waidehi. Tapi, Rahwana tetap mencintainya. Rahwana tetapmenjunjungnya, menyembahnya.Terhadap titisan Dewi Widowati itu ia tak menyembah nama.Rahwana menyemb...</summary>
+    <link href="../book_0/book_17.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

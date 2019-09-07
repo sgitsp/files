@@ -1,28 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Rahvayana 2: Ada Yang Tiada</title>
-  <id>urn:book:ce5cd5f6-80d1-47c4-acdb-c0a7bdd9e204</id>
-  <updated>2019-09-02T05:24:37Z</updated>
-  <link href="./book_37.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Rahvayana 2: Ada Yang Tiada" />
+  <title>Sapiens: Sejarah Ringkas Umat Manusia dari Zaman Batu hingga Perkiraan Kepunahannya</title>
+  <id>urn:book:cbd041ba-5b83-400a-868e-531ce5b3f8e9</id>
+  <updated>2019-09-07T08:37:51Z</updated>
+  <link href="./book_37.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Sapiens: Sejarah Ringkas Umat Manusia dari Zaman Batu hingga Perkiraan Kepunahannya" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
-  <link href="http://repo.purwadi.web.id/ebook/Sujiwo%20Tejo/Rahvayana%202_%20Ada%20Yang%20Tiada%20%2837%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
-  <link href="http://repo.purwadi.web.id/ebook/Sujiwo%20Tejo/Rahvayana%202_%20Ada%20Yang%20Tiada%20%2837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="http://repo.purwadi.web.id/ebook/Sujiwo%20Tejo/Rahvayana%202_%20Ada%20Yang%20Tiada%20%2837%29/Rahvayana%202_%20Ada%20Yang%20Tiada%20-%20Sujiwo%20Tejo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="36 MB" />
+  <link href="http://repo.purwadi.web.id/ebook/Yuval%20Noah%20Harari/Sapiens_%20Sejarah%20Ringkas%20Umat%20Manusi%20%2837%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Yuval%20Noah%20Harari/Sapiens_%20Sejarah%20Ringkas%20Umat%20Manusi%20%2837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Yuval%20Noah%20Harari/Sapiens_%20Sejarah%20Ringkas%20Umat%20Manusi%20%2837%29/Sapiens_%20Sejarah%20Ringkas%20Umat%20M%20-%20Yuval%20Noah%20Harari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
   <author>
-    <name>Sujiwo Tejo</name>
-    <uri>../authors_0/authors_9_Page_1.xml</uri>
+    <name>Yuval Noah Harari</name>
+    <uri>../authors_0/authors_39_Page_1.xml</uri>
   </author>
-  <published>2015-02-13T05:00:00Z</published>
+  <published>2017-06-30T05:00:00Z</published>
   <dcterms:language>in</dcterms:language>
-  <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
-  <category term="Juvenile Fiction" />
-  <category term="Toys; Dolls &amp; Puppets" />
-  <category term="Literary Collections" />
-  <category term="Asian" />
-  <category term="General" />
-  <category term="Fiction" />
+  <dcterms:publisher>Pustaka Alvabet</dcterms:publisher>
   <category term="Lang:in" />
   <content type="text/html">
     <p>
@@ -31,54 +25,69 @@
     </p>
     <p>
       <strong>Tags:</strong>
-      Juvenile Fiction, Toys; Dolls &amp; Puppets, Literary Collections, Asian, General, Fiction, Lang:in
+      Lang:in
     </p>
     <p>
       <strong>Publisher:</strong>
-      Bentang Pustaka
+      Pustaka Alvabet
     </p>
     <p>
       <strong>Published:</strong>
-      February 13, 2015
+      June 30, 2017
     </p>
     <p>
       <strong>Added:</strong>
-      September 2, 2019
+      September 7, 2019
     </p>
     <p>
       <strong>Modified:</strong>
-      September 2, 2019
+      September 7, 2019
     </p>
     <p>
       <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p class="description">
-        <a href="https://repo.purwadi.web.id/ebook">
+        <a href="https://repo.purwadi.web.id/ebook/">
           <b>Sigit Purwadi's Library</b>
         </a>
-         - Sinta berubah. Namanya jadi Janaki. Janaki pun
-      berubah. Namanya jadi Waidehi. Tapi, Rahwana tetap
-      mencintainya. Rahwana tetap menjunjungnya, menyembahnya.
-      Terhadap titisan Dewi Widowati itu ia tak menyembah nama.
-      Rahwana menyembah Zat melalui caranya sendiri. Persembahannya
-      secara agama cinta ....Hmmm ....Sebuah nama yang ada bukan
-      karena dinamai. Sebuah nama yang ada juga bukan karena
-      menamai dirinya sendiri. Adakah itu? Ada. Rahwana yakin itu
-      ada. Dan ia sangat mencintainya.
+         - Planet Bumi telah berusia 4,5 miliar tahun.
+      Namun, hanya dalam waktu singkat, satu spesies di antara
+      banyak spesies lain telah menaklukkannya. Seratus ribu tahun
+      silam, setidaknya ada enam spesies manusia yang menghuni
+      Bumi. Dan hari ini, hanya tinggal satu spesies — Homo
+      sapiens. Itulah KITA!
       </p>
-      <p class="description">[Mizan, Bentang, Sujiwo Tejo, Wayang,
-      Jawa, Rahwana, Shinta, Cinta, Sastra]</p>
+      <p class="description">
+        <br />
+      </p>
+      <p class="description">Apa yang terjadi dengan spesies lain?
+      Dan apa yang mungkin terjadi kelak pada kita? Kita adalah
+      hewan paling maju dan paling merusak yang pernah ada. Apa
+      yang membuat kita cemerlang? Dan apa yang membuat kita
+      mematikan? Buku ini mengeksplorasi siapa diri kita, bagaimana
+      kita sampai di sini, dan ke mana kita kelak pergi.Sapiens
+      adalah kisah menakjubkan tentang sejarah luar biasa umat
+      manusia dari Zaman Batu sampai Zaman Silikon dan perjalanan
+      kita dari kera yang tak penting menjadi penguasa dunia.
+      Dengan kognisi modern yang menggabungkan pendekatan sejarah
+      dan sains, Yuval Noah Hararimereview kembali narasi-narasi
+      yang telah baku, menghubungkan perkembangan masa lalu dengan
+      isu-isukontemporer, dan menelaah kejadian spesifik dalam
+      konteks gagasan yang lebih besar. Dilengkapi 27 foto, 6 peta,
+      dan 25 ilustrasi, buku provokatif dan berani yang kini jadi
+      perbincangan dunia ini mendobrak semua hal yang kita ketahui
+      tentang riwayat umat manusia.</p>
     </div>
   </content>
-  <link href="../authors_0/authors_9_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Sujiwo Tejo" />
-  <link href="http://www.goodreads.com/book/title/Rahvayana%202%3A%20Ada%20Yang%20Tiada" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Rahvayana%202%3A%20Ada%20Yang%20Tiada" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
-  <link href="http://www.librarything.com/title/Rahvayana%202%3A%20Ada%20Yang%20Tiada%20Sujiwo%20Tejo" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
-  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Rahvayana%202%3A%20Ada%20Yang%20Tiada&amp;field-author=Sujiwo%20Tejo" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
-  <link href="http://www.goodreads.com/book/author/Sujiwo%20Tejo" type="text/html" rel="related" title="Sujiwo Tejo on Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Sujiwo%20Tejo" type="text/html" rel="related" title="Sujiwo Tejo on Wikipedia" target="_blank" />
-  <link href="http://www.librarything.com/author/TejoSujiwo" type="text/html" rel="related" title="Sujiwo Tejo on LibraryThing" target="_blank" />
-  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Sujiwo%20Tejo" type="text/html" rel="related" title="Sujiwo Tejo on Amazon" target="_blank" />
-  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Sujiwo%20Tejo" type="text/html" rel="related" title="Sujiwo Tejo on ISFDB" target="_blank" />
+  <link href="../authors_0/authors_39_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Yuval Noah Harari" />
+  <link href="http://www.goodreads.com/book/title/Sapiens%3A%20Sejarah%20Ringkas%20Umat%20Manusia%20dari%20Zaman%20Batu%20hingga%20Perkiraan%20Kepunahannya" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Sapiens%3A%20Sejarah%20Ringkas%20Umat%20Manusia%20dari%20Zaman%20Batu%20hingga%20Perkiraan%20Kepunahannya" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Sapiens%3A%20Sejarah%20Ringkas%20Umat%20Manusia%20dari%20Zaman%20Batu%20hingga%20Perkiraan%20Kepunahannya%20Yuval%20Noah%20Harari" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Sapiens%3A%20Sejarah%20Ringkas%20Umat%20Manusia%20dari%20Zaman%20Batu%20hingga%20Perkiraan%20Kepunahannya&amp;field-author=Yuval%20Noah%20Harari" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Yuval%20Noah%20Harari" type="text/html" rel="related" title="Yuval Noah Harari on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Yuval%20Noah%20Harari" type="text/html" rel="related" title="Yuval Noah Harari on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/HarariYuvalNoah" type="text/html" rel="related" title="Yuval Noah Harari on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Yuval%20Noah%20Harari" type="text/html" rel="related" title="Yuval Noah Harari on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Yuval%20Noah%20Harari" type="text/html" rel="related" title="Yuval Noah Harari on ISFDB" target="_blank" />
 </entry>

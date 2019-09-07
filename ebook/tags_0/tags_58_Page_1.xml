@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Humorous Stories</title>
+  <id>Calibre2opds:taglist:H:58</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_58_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Humorous Stories" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with H" />
+  <entry>
+    <title>Dilan: Dia Adalah Dilanku Tahun 1990</title>
+    <id>calibre:book:41</id>
+    <updated>2019-09-07T08:38:01Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan_%20Dia%20Adalah%20Dilanku%20Tahun%201990%20%2841%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan_%20Dia%20Adalah%20Dilanku%20Tahun%201990%20%2841%29/Dilan_%20Dia%20Adalah%20Dilanku%20Tahun%20-%20Pidi%20Baiq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Pidi Baiq</name>
+      <uri>../authors_0/authors_23_Page_1.xml</uri>
+    </author>
+    <published>2014-09-14T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>PastelBooks</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Juvenile Fiction" />
+    <category term="Humorous Stories" />
+    <category term="Love &amp; Romance" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - "Milea, kamu cantik, tapi aku belum mencintaimu. Enggak tahu kalau sore.Tunggu aja." (Dilan 1990)"Milea, jangan pernah bilang ke aku ada yang menyakitimu, nanti, besoknya, orang itu akan hilang." (Dilan 1990)"Cinta sejati ad...</summary>
+    <link href="../book_0/book_41.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dilan 2: Dia Adalah Dilanku Tahun 1991</title>
+    <id>calibre:book:64</id>
+    <updated>2019-09-07T08:39:00Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan%202_%20Dia%20Adalah%20Dilanku%20Tahun%2019%20%2864%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan%202_%20Dia%20Adalah%20Dilanku%20Tahun%2019%20%2864%29/Dilan%202_%20Dia%20Adalah%20Dilanku%20Tah%20-%20Pidi%20Baiq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
+    <author>
+      <name>Pidi Baiq</name>
+      <uri>../authors_0/authors_23_Page_1.xml</uri>
+    </author>
+    <published>2015-08-05T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>PastelBooks</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Juvenile Fiction" />
+    <category term="Humorous Stories" />
+    <category term="Love &amp; Romance" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - "Jika aku berkata bahwa aku mencintainya, maka itu adalah sebuah pernyataan yang sudah cukup lengkap."  -Milea "Senakal-nakalnya anak geng motor, Lia, mereka shalat pada waktu ujian praktek Agama."  -Dilan  @Viny_JKT48  "Aku...</summary>
+    <link href="../book_0/book_64.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Haruki Murakami</title>
+  <id>Calibre2opds:authors:55</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_55_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Haruki Murakami" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Men Without Women: Stories</title>
+    <id>calibre:book:59</id>
+    <updated>2019-09-07T08:38:48Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Haruki%20Murakami/Men%20Without%20Women_%20Stories%20%2859%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Haruki%20Murakami/Men%20Without%20Women_%20Stories%20%2859%29/Men%20Without%20Women_%20Stories%20-%20Haruki%20Murakami.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="216 KB" />
+    <author>
+      <name>Haruki Murakami</name>
+      <uri>../authors_0/authors_55_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Philip Gabriel</name>
+      <uri>../authors_0/authors_68_Page_1.xml</uri>
+    </author>
+    <published>2017-05-08T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Literary" />
+    <category term="Short Stories (Single Author)" />
+    <category term="Magical Realism" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - “Haruki Mu...</summary>
+    <link href="../book_0/book_59.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Eric Dubay</title>
+  <id>Calibre2opds:authors:65</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_65_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Eric Dubay" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>The Flat-Earth Conspiracy</title>
+    <id>calibre:book:72</id>
+    <updated>2019-09-07T08:39:20Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Eric%20Dubay/The%20Flat-Earth%20Conspiracy%20%2872%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Eric%20Dubay/The%20Flat-Earth%20Conspiracy%20%2872%29/The%20Flat-Earth%20Conspiracy%20-%20Eric%20Dubay.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="26 MB" />
+    <author>
+      <name>Eric Dubay</name>
+      <uri>../authors_0/authors_65_Page_1.xml</uri>
+    </author>
+    <published>2014-11-08T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>lulu.com</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - Wolves in sheep's clothing have pulled the wool over our eyes. For almost 500 years, the masses have been thoroughly deceived by a cosmic fairy-tale of astronomical proportions. We have been taught a falsehood so gigantic an...</summary>
+    <link href="../book_0/book_72.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

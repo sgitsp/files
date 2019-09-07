@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Khoirun Nikmah</title>
+  <title>Denny Siregar</title>
   <id>Calibre2opds:authors:2</id>
   <author>
     <name>David Pierron</name>
@@ -8,27 +8,32 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Khoirun Nikmah" />
+  <link href="./authors_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Denny Siregar" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
   <entry>
-    <title>KonMari™ Mengubah Hidupku</title>
-    <id>calibre:book:29</id>
-    <updated>2019-09-02T05:22:24Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Khoirun%20Nikmah/KonMariTM%20Mengubah%20Hidupku%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Khoirun%20Nikmah/KonMariTM%20Mengubah%20Hidupku%20%2829%29/KonMariTM%20Mengubah%20Hidupku%20-%20Khoirun%20Nikmah.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
+    <title>Ngopi Bareng Denny Siregar: Tuhan Dalam Secangkir Kopi</title>
+    <id>calibre:book:2</id>
+    <updated>2019-09-07T08:36:18Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Denny%20Siregar/Ngopi%20Bareng%20Denny%20Siregar_%20Tuhan%20Da%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Denny%20Siregar/Ngopi%20Bareng%20Denny%20Siregar_%20Tuhan%20Da%20%282%29/Ngopi%20Bareng%20Denny%20Siregar_%20Tuh%20-%20Denny%20Siregar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="752 KB" />
     <author>
-      <name>Khoirun Nikmah</name>
+      <name>Denny Siregar</name>
       <uri>../authors_0/authors_2_Page_1.xml</uri>
     </author>
-    <published>2018-09-27T05:00:00Z</published>
+    <published>2016-06-08T05:00:00Z</published>
     <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
-    <category term="Self-Help" />
-    <category term="Motivational &amp; Inspirational" />
+    <dcterms:publisher>Noura Books</dcterms:publisher>
+    <category term="Body; Mind &amp; Spirit" />
+    <category term="General" />
+    <category term="Religion" />
+    <category term="Spirituality" />
+    <category term="Tuhan dalam Secangkir Kopi" />
     <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Marie Kondo, seorang konsultan berbenah asal Jepang, memperkenalkan metode merapikan yang ampuh tiada duanya, KonMari. Keampuhan metode ini makin marak dirasakan di Indonesia, tepatnya setelah buku The Life-Changing Magic of...</summary>
-    <link href="../book_0/book_29.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Sigit Purwadi's Library - Denny Siregar lewat tulisan-tulisannya mengajarkan bagaimana menyampaikan ide tanpa mendoktrin, menyetujui suatu hal tanpa menjatuhkan hal lain, menolak gagasan tanpa menghina, dan yang terpenting, mengajari tanpa menggurui....</summary>
+    <link href="../book_0/book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

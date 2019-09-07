@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Denny Siregar</title>
+  <title>Gregory Mone</title>
   <id>Calibre2opds:authors:5</id>
   <author>
     <name>David Pierron</name>
@@ -8,30 +8,40 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Denny Siregar" />
+  <link href="./authors_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Gregory Mone" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
   <entry>
-    <title>Ngopi Bareng Denny Siregar: Tuhan Dalam Secangkir Kopi</title>
-    <id>calibre:book:32</id>
-    <updated>2019-09-02T05:22:31Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Denny%20Siregar/Ngopi%20Bareng%20Denny%20Siregar_%20Tuhan%20Da%20%2832%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Denny%20Siregar/Ngopi%20Bareng%20Denny%20Siregar_%20Tuhan%20Da%20%2832%29/Ngopi%20Bareng%20Denny%20Siregar_%20Tuh%20-%20Denny%20Siregar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="752 KB" />
+    <title>Quiet Power: The Secret Strengths of Introverts</title>
+    <id>calibre:book:4</id>
+    <updated>2019-09-07T08:36:26Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Susan%20Cain/Quiet%20Power_%20The%20Secret%20Strengths%20of%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Susan%20Cain/Quiet%20Power_%20The%20Secret%20Strengths%20of%20%284%29/Quiet%20Power_%20The%20Secret%20Strengt%20-%20Susan%20Cain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
-      <name>Denny Siregar</name>
+      <name>Susan Cain</name>
+      <uri>../authors_0/authors_4_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Gregory Mone</name>
       <uri>../authors_0/authors_5_Page_1.xml</uri>
     </author>
-    <published>2016-06-08T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Noura Books</dcterms:publisher>
-    <category term="Body; Mind &amp; Spirit" />
-    <category term="General" />
-    <category term="Religion" />
-    <category term="Spirituality" />
-    <category term="Tuhan dalam Secangkir Kopi" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Denny Siregar lewat tulisan-tulisannya mengajarkan bagaimana menyampaikan ide tanpa mendoktrin, menyetujui suatu hal tanpa menjatuhkan hal lain, menolak gagasan tanpa menghina, dan yang terpenting, mengajari tanpa menggurui....</summary>
-    <link href="../book_0/book_32.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <author>
+      <name>Erica Moroz</name>
+      <uri>../authors_0/authors_80_Page_1.xml</uri>
+    </author>
+    <published>2016-05-02T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin</dcterms:publisher>
+    <category term="Juvenile Nonfiction" />
+    <category term="Social Science" />
+    <category term="Psychology" />
+    <category term="Social Topics" />
+    <category term="Self-Esteem &amp; Self-Reliance" />
+    <category term="Emotions &amp; Feelings" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - The monumental bestseller Quiet has been recast in a new edition that empowers introverted kids and teens  Susan Cain sparked a worldwide conversation when she published Quiet: The Power of Introverts in a World That Can’t S...</summary>
+    <link href="../book_0/book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

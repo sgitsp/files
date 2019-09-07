@@ -1,78 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Buat Apa Shalat?!</title>
-  <id>urn:book:b9c80ee0-504b-4a9a-855f-25dcab0adee1</id>
-  <updated>2019-09-01T00:20:22Z</updated>
-  <link href="./book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Buat Apa Shalat?!" />
+  <title>Ngopi Bareng Denny Siregar: Tuhan Dalam Secangkir Kopi</title>
+  <id>urn:book:3ca1007d-bfe4-481d-b598-57f93f31019d</id>
+  <updated>2019-09-07T08:36:18Z</updated>
+  <link href="./book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Ngopi Bareng Denny Siregar: Tuhan Dalam Secangkir Kopi" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
-  <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Buat%20Apa%20Shalat_%21%20%282%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
-  <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Buat%20Apa%20Shalat_%21%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Buat%20Apa%20Shalat_%21%20%282%29/Buat%20Apa%20Shalat_%21%20-%20Haidar%20Bagir.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="476 KB" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="http://repo.purwadi.web.id/ebook/Denny%20Siregar/Ngopi%20Bareng%20Denny%20Siregar_%20Tuhan%20Da%20%282%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Denny%20Siregar/Ngopi%20Bareng%20Denny%20Siregar_%20Tuhan%20Da%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Denny%20Siregar/Ngopi%20Bareng%20Denny%20Siregar_%20Tuhan%20Da%20%282%29/Ngopi%20Bareng%20Denny%20Siregar_%20Tuh%20-%20Denny%20Siregar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="752 KB" />
   <author>
-    <name>Haidar Bagir</name>
+    <name>Denny Siregar</name>
     <uri>../authors_0/authors_2_Page_1.xml</uri>
   </author>
-  <published>2006-02-28T05:00:00Z</published>
+  <published>2016-06-08T05:00:00Z</published>
   <dcterms:language>in</dcterms:language>
-  <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
+  <dcterms:publisher>Noura Books</dcterms:publisher>
+  <category term="Body; Mind &amp; Spirit" />
+  <category term="General" />
   <category term="Religion" />
-  <category term="Rituals &amp; Practice" />
-  <category term="Islam" />
+  <category term="Spirituality" />
+  <category term="Tuhan dalam Secangkir Kopi" />
   <category term="Lang:in" />
   <content type="text/html">
     <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
       <strong>Tags:</strong>
-      Religion, Rituals &amp; Practice, Islam, Lang:in
+      Body; Mind &amp; Spirit, General, Religion, Spirituality, Tuhan dalam Secangkir Kopi, Lang:in
     </p>
     <p>
       <strong>Publisher:</strong>
-      Mizan Pustaka
+      Noura Books
     </p>
     <p>
       <strong>Published:</strong>
-      February 28, 2006
+      June 8, 2016
     </p>
     <p>
       <strong>Added:</strong>
-      August 31, 2019
+      September 2, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      September 7, 2019
     </p>
     <p>
       <strong>Summary</strong>
     </p>
     <p xmlns="" class="description">
       <b>
-        <a href="http://repo.purwadi.web.id/ebook">Sigit Purwadi's
-      Library</a>
+        <a href="https://repo.purwadi.web.id/ebook/">Sigit Purwadi's
+    Library</a>
+         -
       </b>
-      - SHALAT, secara harfiah, berarti doa. Dalam konteks ini,
-    yang dimaksud shalat adalah doa yang disampaikan dengan tata
-    cara?syarat dan rukun?yang khas dalam bentuk bacaanbacaan dan
-    gerakan-gerakan tertentu.ÿDalam bahasa syariah, inilah
-    yang disebut dengan ash-shalawt al-q?imah
-    (shalat-shalat yang didirikan), terdiri atas shalat wajib 5
-    waktu dan berbagai shalat sunnah. Kata ?shalat? juga memiliki
-    akar kata yang sama dan memiliki hubungan makna dengan kata
-    ?shilah?, yang bermakna ?hubungan?. (Contohnya, ?shilah
-    alrahim? bermakna ?silaturahmi? atau ?hubungan kasih-sayang?.)
-    Dalam kaitannya dengan kata ?shilah? ini, shalat bermakna
-    medium hubungan manusia dengan Allah Swt.ÿDalam sebuah
-    hadis disebutkan bahwa ?shalat adalah mi?rj-nya
-    orang-orang beriman?. Dengan kata lain, sebagaimana Rasulullah
-    bertemu dengan Allah Swt. ketika ber-mi?rj, orang beriman
-    (dapat) bertemu dengan-Nya melalui shalat.[Mizan, Gratis, Free,
-    Islam, Indonesia]
+       Denny Siregar lewat
+    tulisan-tulisannya mengajarkan bagaimana menyampaikan ide tanpa
+    mendoktrin, menyetujui suatu hal tanpa menjatuhkan hal lain,
+    menolak gagasan tanpa menghina, dan yang terpenting, mengajari
+    tanpa menggurui. Dengan menggunakan bahasa yang usil, kreatif,
+    dan kocak, dia mengajak pembaca untuk merenung. Dalam buku
+    ini, Bang Denny -begitu dia biasa dipanggil- dengan ditemani
+    secangkir kopi yang menjadi ciri khas setiap tulisannya,
+    mengajak kita merenung tentang Tuhan dan agama. Dia
+    memaparkannya dengan gaya yang nakal dan berbeda namun tetap
+    ringan dan mudah dipahami, membuat pembacanya manggut-manggut
+    bahkan tersenyum sendiri. [Mizan, Noura Books, Nourabooks,
+    Agama, Islam, Indonesia]
     </p>
   </content>
-  <link href="../authors_0/authors_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Haidar Bagir" />
-  <link href="http://www.goodreads.com/book/title/Buat%20Apa%20Shalat%3F%21" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Buat%20Apa%20Shalat%3F%21" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
-  <link href="http://www.librarything.com/title/Buat%20Apa%20Shalat%3F%21%20Haidar%20Bagir" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
-  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Buat%20Apa%20Shalat%3F%21&amp;field-author=Haidar%20Bagir" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
-  <link href="http://www.goodreads.com/book/author/Haidar%20Bagir" type="text/html" rel="related" title="Haidar Bagir on Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Haidar%20Bagir" type="text/html" rel="related" title="Haidar Bagir on Wikipedia" target="_blank" />
-  <link href="http://www.librarything.com/author/BagirHaidar" type="text/html" rel="related" title="Haidar Bagir on LibraryThing" target="_blank" />
-  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Haidar%20Bagir" type="text/html" rel="related" title="Haidar Bagir on Amazon" target="_blank" />
-  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Haidar%20Bagir" type="text/html" rel="related" title="Haidar Bagir on ISFDB" target="_blank" />
+  <link href="../authors_0/authors_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Denny Siregar" />
+  <link href="http://www.goodreads.com/book/title/Ngopi%20Bareng%20Denny%20Siregar%3A%20Tuhan%20Dalam%20Secangkir%20Kopi" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Ngopi%20Bareng%20Denny%20Siregar%3A%20Tuhan%20Dalam%20Secangkir%20Kopi" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Ngopi%20Bareng%20Denny%20Siregar%3A%20Tuhan%20Dalam%20Secangkir%20Kopi%20Denny%20Siregar" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Ngopi%20Bareng%20Denny%20Siregar%3A%20Tuhan%20Dalam%20Secangkir%20Kopi&amp;field-author=Denny%20Siregar" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Denny%20Siregar" type="text/html" rel="related" title="Denny Siregar on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Denny%20Siregar" type="text/html" rel="related" title="Denny Siregar on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/SiregarDenny" type="text/html" rel="related" title="Denny Siregar on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Denny%20Siregar" type="text/html" rel="related" title="Denny Siregar on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Denny%20Siregar" type="text/html" rel="related" title="Denny Siregar on ISFDB" target="_blank" />
 </entry>

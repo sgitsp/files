@@ -1,136 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Turned</title>
-  <id>urn:book:5fd4e730-6f35-4136-8afa-827e0e41329c</id>
-  <updated>2019-09-01T00:05:38Z</updated>
-  <link href="./book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Turned" />
+  <title>Quiet Power: The Secret Strengths of Introverts</title>
+  <id>urn:book:3b8554b5-40d1-448e-8e2c-762f7f4a56e9</id>
+  <updated>2019-09-07T08:36:26Z</updated>
+  <link href="./book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Quiet Power: The Secret Strengths of Introverts" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
-  <link href="../authors_0/authors_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Morgan Rice" />
-  <link href="http://repo.purwadi.web.id/ebook/Morgan%20Rice/Turned%20%284%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
-  <link href="http://repo.purwadi.web.id/ebook/Morgan%20Rice/Turned%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="http://repo.purwadi.web.id/ebook/Morgan%20Rice/Turned%20%284%29/Turned%20-%20Morgan%20Rice.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="274 KB" />
+  <link href="http://repo.purwadi.web.id/ebook/Susan%20Cain/Quiet%20Power_%20The%20Secret%20Strengths%20of%20%284%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Susan%20Cain/Quiet%20Power_%20The%20Secret%20Strengths%20of%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Susan%20Cain/Quiet%20Power_%20The%20Secret%20Strengths%20of%20%284%29/Quiet%20Power_%20The%20Secret%20Strengt%20-%20Susan%20Cain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
   <author>
-    <name>Morgan Rice</name>
+    <name>Susan Cain</name>
     <uri>../authors_0/authors_4_Page_1.xml</uri>
   </author>
-  <published>2014-11-30T05:00:00Z</published>
-  <dcterms:language>in</dcterms:language>
-  <category term="Lang:in" />
-  <category term="Vampire Journals" />
+  <author>
+    <name>Gregory Mone</name>
+    <uri>../authors_0/authors_5_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Erica Moroz</name>
+    <uri>../authors_0/authors_80_Page_1.xml</uri>
+  </author>
+  <published>2016-05-02T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Penguin</dcterms:publisher>
+  <category term="Juvenile Nonfiction" />
+  <category term="Social Science" />
+  <category term="Psychology" />
+  <category term="Social Topics" />
+  <category term="Self-Esteem &amp; Self-Reliance" />
+  <category term="Emotions &amp; Feelings" />
+  <category term="Lang:en" />
   <content type="text/html">
     <p>
-      <strong>Series:</strong>
-      Book 1 in the Vampire Journals series
+      <strong>Rating:</strong>
+      Not rated
     </p>
     <p>
       <strong>Tags:</strong>
-      Lang:in
+      Juvenile Nonfiction, Social Science, Psychology, Social Topics, Self-Esteem &amp; Self-Reliance, Emotions &amp; Feelings, Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Penguin
     </p>
     <p>
       <strong>Published:</strong>
-      November 30, 2014
+      May 2, 2016
     </p>
     <p>
       <strong>Added:</strong>
-      September 1, 2019
+      September 5, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      September 7, 2019
     </p>
     <p>
       <strong>Summary</strong>
     </p>
-    <div xmlns="">
-      <p>
-        <b>
-          <a href="http://repo.purwadi.web.id/ebook">Sigit Purwadi's
-        Library</a>
-        </b>
-         - "TURNED is a book to rival TWILIGHT and VAMPIRE
-      DIARIES, and one that will have you wanting to keep reading
-      until the very last page! If you are into adventure, love and
-      vampires this book is the one for you!"
-        <br />
-        --Vampirebooksite.com
-      </p>
-      <p>The #1 bestseller, with over 600 five star reviews on
-      Amazon!</p>
-      <p>TURNED is book #1 in the #1 Bestselling series THE VAMPIRE
-      JOURNALS, which includes eleven books (and counting).</p>
-      <p>In TURNED (Book #1 of the Vampire Journals), 18 year old
-      Caitlin Paine finds herself uprooted from her nice suburb and
-      forced to attend a dangerous New York City high school when
-      her Mom moves again. The one ray of light in her new
-      surroundings is Jonah, a new classmate who takes an instant
-      liking to her.</p>
-      <p>But before their romance can blossom, Caitlin suddenly
-      finds herself changing. She is overcome by a superhuman
-      strength, a sensitivity to light, a desire to feed--by
-      feelings she does not understand. She seeks answers to
-      what’s happening to her, and her cravings lead her to
-      the wrong place at the wrong time. Her eyes are opened to a
-      hidden world, right beneath her feet, thriving underground in
-      New York City. She finds herself caught between two dangerous
-      covens, right in the middle of a vampire war.</p>
-      <p>It is at this moment that Caitlin meets Caleb, a
-      mysterious and powerful vampire who rescues her from the dark
-      forces. He needs her to help lead him to the legendary lost
-      artifact. And she needs him for answers, and for protection.
-      Together, they will need to answer one crucial question: who
-      was her real father?</p>
-      <p>But Caitlin finds herself caught between two men as
-      something else arises between them: a forbidden love. A love
-      between the races that will risk both of their lives, and
-      will force them to decide whether to risk it all for each
-      other…</p>
-      <p>
-        "TURNED is an ideal story for young readers. Morgan Rice
-      did a good job spinning an interesting twist on what could
-      have been a typical vampire tale. Refreshing and unique,
-      TURNED has the classic elements found in many Young Adult
-      paranormal stories. Book #1 of the Vampire Journals Series
-      focuses around one girl…one extraordinary
-      girl!...TURNED is easy to read but extremely
-      fast-paced....Recommended for anyone who likes to read soft
-      paranormal romances. Rated PG."
-        <br />
-        --The Romance Reviews
-      </p>
-      <p>
-        “TURNED grabbed my attention from the beginning and
-      did not let go….This story is an amazing adventure that
-      is fast paced and action packed from the very beginning.
-      There is not a dull moment to be found. Morgan Rice did an
-      awesome job bringing the reader into the story. She also made
-      it easy to root for Caitlin and want desperately to her
-      succeed in finding her truth….I will be looking forward
-      to the second book in the series.”
-        <br />
-        --Paranormal Romance Guild
-      </p>
-      <p>
-        “TURNED is a likable, easy, dark read that you can
-      read in between other books, as it is
-      short….You’re sure to be entertained!“
-        <br />
-        --books-forlife.blogspot.com
-      </p>
-      <p>All 11 books in the VAMPIRE JOURNALS are also available
-      for sale. Morgan Rice's dystopian series is also available,
-      beginning with ARENA ONE (Book #1 of the Survival Trilogy), a
-      free download. Also available for free are A QUEST OF HEROES
-      and RISE OF THE DRAGONS, two series starters from Morgan
-      Rice's #1 Bestselling epic fantasy series THE SORCERER'S RING
-      and KINGS AND SORCERERS!**</p>
-    </div>
+    <p xmlns="" class="description">
+      <b>
+        <a href="https://repo.purwadi.web.id/ebook/">Sigit Purwadi's
+    Library</a>
+         -
+      </b>
+       The monumental bestseller Quiet has
+    been recast in a new edition that empowers introverted kids and
+    teens  Susan Cain sparked a worldwide conversation when
+    she published Quiet: The Power of Introverts in a World That
+    Can’t Stop Talking. With her inspiring book, she
+    permanently changed the way we see introverts and the way
+    introverts see themselves. The original book focused on the
+    workplace, and Susan realized that a version for and about kids
+    was also badly needed. This book is all about kids'
+    world—school, extracurriculars, family life, and
+    friendship. You’ll read about actual kids who have
+    tackled the challenges of not being extroverted and who have
+    made a mark in their own quiet way. You’ll hear Susan
+    Cain’s own story, and you’ll be able to make use of
+    the tips at the end of each chapter. There’s even a guide
+    at the end of the book for parents and teachers. This
+    insightful, accessible, and empowering book, illustrated with
+    amusing comic-style art, will be eye-opening to extroverts and
+    introverts alike.
+    </p>
   </content>
-  <link href="../authors_0/authors_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Morgan Rice" />
-  <link href="http://www.goodreads.com/book/title/Turned" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Turned" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
-  <link href="http://www.librarything.com/title/Turned%20Morgan%20Rice" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
-  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Turned&amp;field-author=Morgan%20Rice" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
-  <link href="http://www.goodreads.com/book/author/Morgan%20Rice" type="text/html" rel="related" title="Morgan Rice on Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Morgan%20Rice" type="text/html" rel="related" title="Morgan Rice on Wikipedia" target="_blank" />
-  <link href="http://www.librarything.com/author/RiceMorgan" type="text/html" rel="related" title="Morgan Rice on LibraryThing" target="_blank" />
-  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Morgan%20Rice" type="text/html" rel="related" title="Morgan Rice on Amazon" target="_blank" />
-  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Morgan%20Rice" type="text/html" rel="related" title="Morgan Rice on ISFDB" target="_blank" />
+  <link href="../authors_0/authors_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Susan Cain" />
+  <link href="../authors_0/authors_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Gregory Mone" />
+  <link href="../authors_0/authors_80_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Erica Moroz" />
+  <link href="http://www.goodreads.com/book/title/Quiet%20Power%3A%20The%20Secret%20Strengths%20of%20Introverts" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Quiet%20Power%3A%20The%20Secret%20Strengths%20of%20Introverts" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Quiet%20Power%3A%20The%20Secret%20Strengths%20of%20Introverts%20Susan%20Cain" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Quiet%20Power%3A%20The%20Secret%20Strengths%20of%20Introverts&amp;field-author=Susan%20Cain" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Susan%20Cain" type="text/html" rel="related" title="Susan Cain on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Susan%20Cain" type="text/html" rel="related" title="Susan Cain on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/CainSusan" type="text/html" rel="related" title="Susan Cain on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Susan%20Cain" type="text/html" rel="related" title="Susan Cain on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Susan%20Cain" type="text/html" rel="related" title="Susan Cain on ISFDB" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Gregory%20Mone" type="text/html" rel="related" title="Gregory Mone on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Gregory%20Mone" type="text/html" rel="related" title="Gregory Mone on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/MoneGregory" type="text/html" rel="related" title="Gregory Mone on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Gregory%20Mone" type="text/html" rel="related" title="Gregory Mone on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Gregory%20Mone" type="text/html" rel="related" title="Gregory Mone on ISFDB" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Erica%20Moroz" type="text/html" rel="related" title="Erica Moroz on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Erica%20Moroz" type="text/html" rel="related" title="Erica Moroz on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/MorozErica" type="text/html" rel="related" title="Erica Moroz on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Erica%20Moroz" type="text/html" rel="related" title="Erica Moroz on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Erica%20Moroz" type="text/html" rel="related" title="Erica Moroz on ISFDB" target="_blank" />
 </entry>

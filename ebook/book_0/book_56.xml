@@ -1,89 +1,222 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Asbunayah</title>
-  <id>urn:book:6f2fffff-c1be-4f5b-89e1-890ffed8c07e</id>
-  <updated>2019-09-02T06:18:34Z</updated>
-  <link href="./book_56.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Asbunayah" />
+  <title>Homo Deus: A Brief History of Tomorrow</title>
+  <id>urn:book:8b865d9b-0959-4e76-95b7-8f7fd1e004e7</id>
+  <updated>2019-09-07T08:38:39Z</updated>
+  <link href="./book_56.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Homo Deus: A Brief History of Tomorrow" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
-  <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Asbunayah%20%2856%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
-  <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Asbunayah%20%2856%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Asbunayah%20%2856%29/Asbunayah%20-%20Pidi%20Baiq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="7 MB" />
+  <link href="http://repo.purwadi.web.id/ebook/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorr%20%2856%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorr%20%2856%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorr%20%2856%29/Homo%20Deus_%20A%20Brief%20History%20of%20T%20-%20Yuval%20Noah%20Harari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="53 MB" />
   <author>
-    <name>Pidi Baiq</name>
-    <uri>../authors_0/authors_13_Page_1.xml</uri>
+    <name>Yuval Noah Harari</name>
+    <uri>../authors_0/authors_39_Page_1.xml</uri>
   </author>
-  <published>2017-10-05T05:00:00Z</published>
-  <dcterms:language>in</dcterms:language>
-  <dcterms:publisher>The Panasdalam Publishing</dcterms:publisher>
-  <category term="Young Adult Fiction" />
-  <category term="Humorous" />
-  <category term="General" />
-  <category term="Lang:in" />
+  <published>2016-09-07T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Vintage Digital</dcterms:publisher>
+  <category term="Lang:en" />
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Not rated
+      ****
     </p>
     <p>
       <strong>Tags:</strong>
-      Young Adult Fiction, Humorous, General, Lang:in
+      Lang:en
     </p>
     <p>
       <strong>Publisher:</strong>
-      The Panasdalam Publishing
+      Vintage Digital
     </p>
     <p>
       <strong>Published:</strong>
-      October 5, 2017
+      September 7, 2016
     </p>
     <p>
       <strong>Added:</strong>
-      September 2, 2019
+      September 7, 2019
     </p>
     <p>
       <strong>Modified:</strong>
-      September 2, 2019
+      September 7, 2019
     </p>
     <p>
       <strong>Summary</strong>
     </p>
     <div xmlns="">
-      <p class="description">
-        <a href="https://repo.purwadi.web.id/ebook">
-          <b>Sigit Purwadi's Library</b>
-        </a>
-         - "Bukan Tuhan yang harus kau cari, tetapi jawaban
-      mengapa kamu bodoh mencari yang sudah bersamamu." "Kalau
-      Kehidupan ini Palsu, mengapa uangnya harus asli? Saya hanya
-      butuh penjelasan." Jika doa bukan sebuah Permintaan,
-      setidaknya itu adalah sebuah Pengakuan atas kelemahan diri
-      manusia di hadapan-Nya." "Di sekolah, mendapat pelajaran
-      dulu, baru ujian. Kalau di Kehidupan ujian dulu, baru
-      mendapat pelajaran." "Mengapa istri harus bisa masak? Ini kan
-      Rumah Tangga, bukan Rumah Makan?" "Aku Mencintaimu, biarlah
-      ini urusanku. Bagaimana kamu kepadaku, terserah, itu
-      urusanmu." "Guk guk guk!" -Si Kucing, Anjing Herder Pidi Baiq
-      "Rock on, Bad Boy" D. Bumelyte, Teman Rusia Pidi Baiq "Bukan
-      Tuhan yang harus kau cari, tetpi jawaban mengapa kamu bodoh
-      mencari yang sudah bersamamu." "Kalau Kehidupan ini Palsu,
-      mengapa uangnya harus asli? Saya hanya butuh penjelasan."
-      Jika doa bukan sebuah Permintaan, setidaknya itu adalah
-      sebuah Pengaku
+      <p>
+        <b>
+          <a href="https://repo.purwadi.web.id/ebook/">Sigit Purwadi's
+      Library</a>
+           -
+        </b>
+         
+        <strong>THE MILLION COPY BESTSELLER</strong>
+        <strong>
+          <em>Sapiens</em>
+          shows us where we came from.
+          <em>Homo Deus</em>
+          shows us where we’re
+      going.
+        </strong>
+        Yuval Noah Harari envisions a near future in
+      which we face a new set of challenges.
+        <em>Homo Deus</em>
+        explores the projects, dreams and
+      nightmares that will shape the twenty-first century and
+      beyond – from overcoming death to creating artificial
+      life.It asks the fundamental questions: how can we protect
+      this fragile world from our own destructive power? And what
+      does our future hold?
+        <strong>
+          '
+          <em>Homo Deus</em>
+          will shock you. It will entertain you. It
+      will make you think in ways you had not thought before’
+      Daniel Kahneman
+        </strong>
+        **
       </p>
-      <p class="description">[Mizan, The Panas Dalam Publishing,
-      Islam, Religion, Humor, Indonesia]</p>
+      <h3>Amazon.com Review</h3>
+      <p>
+        <strong>An Amazon Best Book of February 2017:</strong>
+        Those
+      who read and loved Yuval Noah Harari’s
+        <em>Sapiens</em>
+        have been eagerly anticipating his new book
+        <em>Homo Deus</em>
+        . While
+        <em>Sapiens</em>
+        looked back at our evolutionary development,
+      this new book examines where we might be headed (
+        <em>Homo Deus</em>
+        is subtitled “A Brief History of
+      Tomorrow”). Predicting the future isn’t as easy
+      as deconstructing the past, and Harari openly admits the
+      challenge—but even if he’s completely wrong in
+      his predictions, and most of us doubt he is,
+        <em>Homo Deus</em>
+        is the kind of provocative,
+      food-for-thought read that drew so many of us to his work in
+      the first place. According to Harari, our future could be
+      very different from our present—dark, technocratic, and
+      automated—but reading about our possible fates,
+      presented in Harari’s clear-eyed and illuminating
+      style, sure is fascinating.
+        <em>--Chris Schluep, The Amazon Book Review</em>
+      </p>
+      <h3>Review</h3>
+      <p>
+        <strong>
+          Praise for
+          <em>Sapiens: A Brief History of Humankind</em>
+          :
+        </strong>
+        <br />
+        "Here is a simple reason why
+        <em>Sapiens</em>
+        has
+        <strong>risen explosively to the ranks of an international
+      bestseller</strong>
+        . It tackles the biggest questions of
+      history and of the modern world, and it is written in
+      unforgettably vivid language." -- Jared Diamond, Pulitzer
+      Prize-winning author of
+        <em>
+          Guns, Germs, and Steel
+          <br />
+        </em>
+        <br />
+        <strong>Praise for</strong>
+        *
+        <strong>Homo Deus:</strong>
+        <br />
+        <em>“</em>
+        Homo Deus
+        <em>will shock you. It will entertain you. Above all, it will
+      make you think in ways you had not thought
+      before.”</em>
+        –
+        <em>Daniel Kahneman, author of </em>
+        Thinking, Fast and
+      Slow*
+      </p>
+      <p>
+        “Israeli Professor Harari is one of today’s
+      most exciting and provocative thinkers. His innovative new
+      book blends science, history and philosophy to explore the
+      future of humanity in the face of artificial intelligence and
+      examine whether our species will be rendered completely
+      redundant.” –
+        <em>
+          Cambridge Network
+          <br />
+        </em>
+        <br />
+        “Spellbinding. . . . This is a very intelligent
+      book, full of sharp insights and mordant wit. . . . Its real
+      power comes from the sense of a distinctive consciousness
+      behind it. It is a quirky and cool book, with a sliver of ice
+      at its heart. . .  It is hard to imagine anyone could
+      read this book without getting an occasional, vertiginous
+      thrill. –
+        <em>The Guardian</em>
+      </p>
+      <p>
+        <strong>“</strong>
+        It’s a chilling prospect, but
+      the AI we’ve created could transform human nature,
+      argues this spellbinding new book by the author of 
+        <em>Sapiens</em>
+        .” –
+        <em>The Guardian</em>
+      </p>
+      <p>
+        “Nominally a historian, Harari is in fact an
+      intellectual magpie who has plucked theories and data from
+      many disciplines — including philosophy, theology,
+      computer science and biology — to produce a brilliantly
+      original, thought-provoking and important study of where
+      mankind is heading.” –
+        <em>Evening Standard</em>
+      </p>
+      <p>
+        “Harari’s work is . . . an unsettling
+      meditation on the future. He’s opened a portal for us
+      to contemplate on what kind of relationships we are forming
+      with our data-crunching machines and whether
+      ‘right’ must be determined by empirical evidence
+      or good old ‘gut instinct.’” –
+        <em>
+          The Hindu
+          <br />
+        </em>
+        <br />
+        “[Harari’s] propositions are
+      well-developed, drawing upon a combination of science,
+      philosophy and history. While the book offers a rather
+      pessimistic and even nihilistic view of man’s future,
+      it is written with wit and style and makes compelling
+      reading.” –
+        <em>iNews</em>
+        <br />
+        <em>
+          <br />
+        </em>
+      </p>
     </div>
   </content>
-  <link href="../authors_0/authors_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Pidi Baiq" />
-  <link href="http://www.goodreads.com/book/title/Asbunayah" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Asbunayah" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
-  <link href="http://www.librarything.com/title/Asbunayah%20Pidi%20Baiq" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
-  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Asbunayah&amp;field-author=Pidi%20Baiq" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
-  <link href="http://www.goodreads.com/book/author/Pidi%20Baiq" type="text/html" rel="related" title="Pidi Baiq on Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Pidi%20Baiq" type="text/html" rel="related" title="Pidi Baiq on Wikipedia" target="_blank" />
-  <link href="http://www.librarything.com/author/BaiqPidi" type="text/html" rel="related" title="Pidi Baiq on LibraryThing" target="_blank" />
-  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Pidi%20Baiq" type="text/html" rel="related" title="Pidi Baiq on Amazon" target="_blank" />
-  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Pidi%20Baiq" type="text/html" rel="related" title="Pidi Baiq on ISFDB" target="_blank" />
+  <link href="../authors_0/authors_39_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Yuval Noah Harari" />
+  <link href="http://www.goodreads.com/book/title/Homo%20Deus%3A%20A%20Brief%20History%20of%20Tomorrow" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Homo%20Deus%3A%20A%20Brief%20History%20of%20Tomorrow" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Homo%20Deus%3A%20A%20Brief%20History%20of%20Tomorrow%20Yuval%20Noah%20Harari" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Homo%20Deus%3A%20A%20Brief%20History%20of%20Tomorrow&amp;field-author=Yuval%20Noah%20Harari" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Yuval%20Noah%20Harari" type="text/html" rel="related" title="Yuval Noah Harari on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Yuval%20Noah%20Harari" type="text/html" rel="related" title="Yuval Noah Harari on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/HarariYuvalNoah" type="text/html" rel="related" title="Yuval Noah Harari on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Yuval%20Noah%20Harari" type="text/html" rel="related" title="Yuval Noah Harari on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Yuval%20Noah%20Harari" type="text/html" rel="related" title="Yuval Noah Harari on ISFDB" target="_blank" />
 </entry>

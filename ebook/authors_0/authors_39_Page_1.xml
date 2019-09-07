@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Yuval Noah Harari</title>
+  <id>Calibre2opds:authors:39</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_39_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Yuval Noah Harari" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Homo Deus: A Brief History of Tomorrow</title>
+    <id>calibre:book:56</id>
+    <updated>2019-09-07T08:38:39Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorr%20%2856%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorr%20%2856%29/Homo%20Deus_%20A%20Brief%20History%20of%20T%20-%20Yuval%20Noah%20Harari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="53 MB" />
+    <author>
+      <name>Yuval Noah Harari</name>
+      <uri>../authors_0/authors_39_Page_1.xml</uri>
+    </author>
+    <published>2016-09-07T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Vintage Digital</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - THE MILLION COPY BESTSELLER  Sapiens shows us where we came from. Homo Deus shows us where we’re going.Yuval Noah Harari envisions a near future in which we face a new set of challenges. Homo Deus explores the projects, drea...</summary>
+    <link href="../book_0/book_56.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sapiens: Sejarah Ringkas Umat Manusia dari Zaman Batu hingga Perkiraan Kepunahannya</title>
+    <id>calibre:book:37</id>
+    <updated>2019-09-07T08:37:51Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Yuval%20Noah%20Harari/Sapiens_%20Sejarah%20Ringkas%20Umat%20Manusi%20%2837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Yuval%20Noah%20Harari/Sapiens_%20Sejarah%20Ringkas%20Umat%20Manusi%20%2837%29/Sapiens_%20Sejarah%20Ringkas%20Umat%20M%20-%20Yuval%20Noah%20Harari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
+    <author>
+      <name>Yuval Noah Harari</name>
+      <uri>../authors_0/authors_39_Page_1.xml</uri>
+    </author>
+    <published>2017-06-30T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Pustaka Alvabet</dcterms:publisher>
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Planet Bumi telah berusia 4,5 miliar tahun. Namun, hanya dalam waktu  singkat, satu spesies di antara banyak spesies lain telah menaklukkannya.  Seratus ribu tahun silam, setidaknya ada enam spesies manusia yang  menghuni Bu...</summary>
+    <link href="../book_0/book_37.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

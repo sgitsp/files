@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Authors</title>
+  <id>Calibre2opds:authorlist</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Authors" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 3)" />
+  <entry>
+    <title>Eric Klinenberg</title>
+    <id>Calibre2opds:authors:10</id>
+    <content type="text">Modern Romance</content>
+    <link href="../authors_0/authors_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Marie Kondō</title>
+    <id>Calibre2opds:authors:72</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_72_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Allan Lazar</title>
+    <id>Calibre2opds:authors:73</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_73_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Min Jin Lee</title>
+    <id>Calibre2opds:authors:44</id>
+    <content type="text">Pachinko</content>
+    <link href="../authors_0/authors_44_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Dee Lestari</title>
+    <id>Calibre2opds:authors:45</id>
+    <content type="text">Novelet Madre</content>
+    <link href="../authors_0/authors_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Irshad Manji</title>
+    <id>Calibre2opds:authors:62</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_62_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Elizabeth Matsui</title>
+    <id>Calibre2opds:authors:49</id>
+    <content type="text">The Art of Data Science</content>
+    <link href="../authors_0/authors_49_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Achdiat K. Mihardja</title>
+    <id>Calibre2opds:authors:77</id>
+    <content type="text">Atheis</content>
+    <link href="../authors_0/authors_77_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Gregory Mone</title>
+    <id>Calibre2opds:authors:5</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Erica Moroz</title>
+    <id>Calibre2opds:authors:80</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_80_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Syekh Imam Abu Muhammad</title>
+    <id>Calibre2opds:authors:53</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_53_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Haruki Murakami</title>
+    <id>Calibre2opds:authors:55</id>
+    <content type="text">Men Without Women: Stories</content>
+    <link href="../authors_0/authors_55_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Emha Ainun Nadjib</title>
+    <id>Calibre2opds:authors:32</id>
+    <content type="text">5 books</content>
+    <link href="../authors_0/authors_32_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Friedrich Nietzsche</title>
+    <id>Calibre2opds:authors:57</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_57_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Khoirun Nikmah</title>
+    <id>Calibre2opds:authors:40</id>
+    <content type="text">KonMari™ Mengubah Hidupku</content>
+    <link href="../authors_0/authors_40_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Roger Peng</title>
+    <id>Calibre2opds:authors:71</id>
+    <content type="text">The Art of Data Science</content>
+    <link href="../authors_0/authors_71_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Don Piper</title>
+    <id>Calibre2opds:authors:14</id>
+    <content type="text">90 Minutes in Heaven</content>
+    <link href="../authors_0/authors_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ernest Prakasa</title>
+    <id>Calibre2opds:authors:59</id>
+    <content type="text">Setengah Jalan</content>
+    <link href="../authors_0/authors_59_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Y. Sri Purwaningsih</title>
+    <id>Calibre2opds:authors:61</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_61_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Nabeel Qureshi</title>
+    <id>Calibre2opds:authors:78</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_78_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Karin C. Ryding</title>
+    <id>Calibre2opds:authors:41</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_41_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jeremy Salter</title>
+    <id>Calibre2opds:authors:36</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_36_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Peter Sander</title>
+    <id>Calibre2opds:authors:16</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>George Santayana</title>
+    <id>Calibre2opds:authors:18</id>
+    <content type="text">The Life of Reason</content>
+    <link href="../authors_0/authors_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Simon Schama</title>
+    <id>Calibre2opds:authors:22</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_22_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 3)" />
+</feed>

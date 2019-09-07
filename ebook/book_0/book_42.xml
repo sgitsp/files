@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Jodohku Maunya Sih Kamu: Ngaji Bareng Ust. Wijayanto</title>
-  <id>urn:book:5b49447a-44d6-4d47-bcc9-c51e1bb99bc4</id>
-  <updated>2019-09-02T05:24:49Z</updated>
-  <link href="./book_42.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Jodohku Maunya Sih Kamu: Ngaji Bareng Ust. Wijayanto" />
+  <title>Surat Kepada Kanjeng Nabi</title>
+  <id>urn:book:4e35d575-500e-41d6-b997-e0070f3be185</id>
+  <updated>2019-09-07T08:38:03Z</updated>
+  <link href="./book_42.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Surat Kepada Kanjeng Nabi" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
-  <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20Baren%20%2842%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
-  <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20Baren%20%2842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20Baren%20%2842%29/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20-%20Ustadz%20Wijayanto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Surat%20Kepada%20Kanjeng%20Nabi%20%2842%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Surat%20Kepada%20Kanjeng%20Nabi%20%2842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Surat%20Kepada%20Kanjeng%20Nabi%20%2842%29/Surat%20Kepada%20Kanjeng%20Nabi%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="956 KB" />
   <author>
-    <name>Ustadz Wijayanto</name>
-    <uri>../authors_0/authors_22_Page_1.xml</uri>
+    <name>Emha Ainun Nadjib</name>
+    <uri>../authors_0/authors_32_Page_1.xml</uri>
   </author>
-  <published>2016-01-19T05:00:00Z</published>
+  <published>2015-08-06T05:00:00Z</published>
   <dcterms:language>in</dcterms:language>
-  <dcterms:publisher>Noura Books</dcterms:publisher>
+  <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
+  <category term="Literary Collections" />
+  <category term="General" />
+  <category term="Poetry" />
+  <category term="Asian" />
   <category term="Religion" />
   <category term="Islam" />
-  <category term="General" />
-  <category term="Juvenile Nonfiction" />
-  <category term="Family &amp; Relationships" />
-  <category term="Love &amp; Romance" />
-  <category term="Islam Populer" />
   <category term="Lang:in" />
   <content type="text/html">
     <p>
@@ -32,15 +32,15 @@
     </p>
     <p>
       <strong>Tags:</strong>
-      Religion, Islam, General, Juvenile Nonfiction, Family &amp; Relationships, Love &amp; Romance, Islam Populer, Lang:in
+      Literary Collections, General, Poetry, Asian, Religion, Islam, Lang:in
     </p>
     <p>
       <strong>Publisher:</strong>
-      Noura Books
+      Mizan Pustaka
     </p>
     <p>
       <strong>Published:</strong>
-      January 19, 2016
+      August 6, 2015
     </p>
     <p>
       <strong>Added:</strong>
@@ -48,43 +48,43 @@
     </p>
     <p>
       <strong>Modified:</strong>
-      September 2, 2019
+      September 7, 2019
     </p>
     <p>
       <strong>Summary</strong>
     </p>
-    <div xmlns="">
-      <p class="description">
-        <a href="https://repo.purwadi.web.id/ebook">
-          <b>Sigit Purwadi's Library</b>
-        </a>
-         - Ya Rasulullah, kenapa kau jodohkan aku dengan
-      Bilal? Aku ingin bersuamikan lelaki yang sedang berazan itu.
-      Suaranya bagus sekali, pasti orangnya pun saleh. Ya, itu
-      Bilal. Itulah sepenggal kisah yang menjadi ilustrasi dalam
-      buku ini. Riwayat yang mencerminkan kenyataan bahwa Allah
-      Swt. sebenarnya tetap memberikan hal terbaik, bahkan ketika
-      hal itu tidak atau kurang kita suka. Dalam buku ini,
-      Ustadz Wijayanto mengangkat berbagai masalah hubungan dan
-      keluarga kemudian menyajikan kiat-kiat solusinya, antara
-      lain: " Jodohku Maunya Sih Kamu " Surga Istri pada Ridha
-      Suami " Manajemen Anti-CLBK " Seni Bercinta dalam Islam "
-      Kalau Cinta Jangan Pacaran " Uangku Bukan Uangmu " Aku Tidak
-      Mau Pasanganku Seorang "Tikus" " Mantuku, Jangan Kauambil
-      Anakku " Separuh Jiwaku Pergi.
-      </p>
-      <p class="description">[Mizan, Noura Books, Islam, Belajar,
-      Jodoh, Cinta, Muslim, Muda, Indonesia]</p>
-    </div>
+    <p xmlns="" class="description">
+      <b>
+        <a href="https://repo.purwadi.web.id/ebook/">Sigit Purwadi's
+    Library</a>
+         -
+      </b>
+       Di negeri kami ini, umatmu
+    berjumlah terbanyak dari penduduknya. Di negeri ini, kami punya
+    Muhammadiyah, punya NU, Persis, punya ulama-ulama dan MUI,
+    ICMI, punya bank, punya HMI, PMII, IMM, Anshor, Pemuda
+    Muhammadiyah, IPM, PII, pesantren-pesantren, sekolah-sekolah,
+    kelompok-kelompok studi Islam intensif, yayasan-yayasan,
+    mubalig-mubalig, budayawan, seniman, cendekiawan, dan apa saja.
+    Yang tak kami punya hanyalah kesediaan, keberanian, dan
+    kerelaan yang sungguh-sungguh untuk mengikuti jejakmu.
+    ***Demikian tulis Kiai Mbeling-"julukan" budayawan Emha Ainun
+    Nadjib-dalam "surat"-nya kepada Kanjeng Nabi Muhammad Saw.
+    Sudah sampai di manakah langkah kita dalam meneladani kiprah
+    Nabi Suci Saw.?"Dalam diri Emha terwakili suatu sensibilitas
+    pemuda. Yaitu pemuda yang kritis, suka protes, tapi sekaligus
+    religius." -Kuntowijoyo[Mizan, Emha Ainun Nadjib, Kronik,
+    Islam, Indonesia]
+    </p>
   </content>
-  <link href="../authors_0/authors_22_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Ustadz Wijayanto" />
-  <link href="http://www.goodreads.com/book/title/Jodohku%20Maunya%20Sih%20Kamu%3A%20Ngaji%20Bareng%20Ust.%20Wijayanto" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Jodohku%20Maunya%20Sih%20Kamu%3A%20Ngaji%20Bareng%20Ust.%20Wijayanto" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
-  <link href="http://www.librarything.com/title/Jodohku%20Maunya%20Sih%20Kamu%3A%20Ngaji%20Bareng%20Ust.%20Wijayanto%20Ustadz%20Wijayanto" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
-  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Jodohku%20Maunya%20Sih%20Kamu%3A%20Ngaji%20Bareng%20Ust.%20Wijayanto&amp;field-author=Ustadz%20Wijayanto" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
-  <link href="http://www.goodreads.com/book/author/Ustadz%20Wijayanto" type="text/html" rel="related" title="Ustadz Wijayanto on Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Ustadz%20Wijayanto" type="text/html" rel="related" title="Ustadz Wijayanto on Wikipedia" target="_blank" />
-  <link href="http://www.librarything.com/author/WijayantoUstadz" type="text/html" rel="related" title="Ustadz Wijayanto on LibraryThing" target="_blank" />
-  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Ustadz%20Wijayanto" type="text/html" rel="related" title="Ustadz Wijayanto on Amazon" target="_blank" />
-  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Ustadz%20Wijayanto" type="text/html" rel="related" title="Ustadz Wijayanto on ISFDB" target="_blank" />
+  <link href="../authors_0/authors_32_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Emha Ainun Nadjib" />
+  <link href="http://www.goodreads.com/book/title/Surat%20Kepada%20Kanjeng%20Nabi" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Surat%20Kepada%20Kanjeng%20Nabi" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Surat%20Kepada%20Kanjeng%20Nabi%20Emha%20Ainun%20Nadjib" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Surat%20Kepada%20Kanjeng%20Nabi&amp;field-author=Emha%20Ainun%20Nadjib" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Emha%20Ainun%20Nadjib" type="text/html" rel="related" title="Emha Ainun Nadjib on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Emha%20Ainun%20Nadjib" type="text/html" rel="related" title="Emha Ainun Nadjib on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/NadjibEmhaAinun" type="text/html" rel="related" title="Emha Ainun Nadjib on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Emha%20Ainun%20Nadjib" type="text/html" rel="related" title="Emha Ainun Nadjib on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Emha%20Ainun%20Nadjib" type="text/html" rel="related" title="Emha Ainun Nadjib on ISFDB" target="_blank" />
 </entry>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Eric Klinenberg</title>
+  <title>George Santayana</title>
   <id>Calibre2opds:authors:18</id>
   <author>
     <name>David Pierron</name>
@@ -8,35 +8,25 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./authors_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Eric Klinenberg" />
+  <link href="./authors_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="George Santayana" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
   <entry>
-    <title>Modern Romance</title>
-    <id>calibre:book:49</id>
-    <updated>2019-09-02T05:25:04Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Aziz%20Ansari/Modern%20Romance%20%2849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Aziz%20Ansari/Modern%20Romance%20%2849%29/Modern%20Romance%20-%20Aziz%20Ansari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <title>The Life of Reason</title>
+    <id>calibre:book:16</id>
+    <updated>2019-09-07T08:36:54Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/George%20Santayana/The%20Life%20of%20Reason%20%2816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/George%20Santayana/The%20Life%20of%20Reason%20%2816%29/The%20Life%20of%20Reason%20-%20George%20Santayana.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="858 KB" />
     <author>
-      <name>Aziz Ansari</name>
-      <uri>../authors_0/authors_17_Page_1.xml</uri>
-    </author>
-    <author>
-      <name>Eric Klinenberg</name>
+      <name>George Santayana</name>
       <uri>../authors_0/authors_18_Page_1.xml</uri>
     </author>
-    <published>2015-06-15T05:00:00Z</published>
+    <published>2005-02-13T05:00:00Z</published>
     <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Penguin</dcterms:publisher>
-    <category term="Humor" />
-    <category term="Topic" />
-    <category term="Men; Women &amp; Relationships" />
-    <category term="Family &amp; Relationships" />
-    <category term="Love &amp; Romance" />
-    <category term="Marriage &amp; Family" />
     <category term="Lang:en" />
-    <summary>Sigit Purwadi's Library - The #1 New York Times Bestseller  A hilarious, thoughtful, and in-depth exploration of the pleasures and perils of modern romance from Aziz Ansari, the star of Master of None  and one of this generation’s sharpest comedic vo...</summary>
-    <link href="../book_0/book_49.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Sigit Purwadi's Library - Comparing the lived world with the ideal world, noted American philosophical naturalist, poet, and literary critic George Santayana (1863-1952) seeks in this influential compilation of his earlier works to outline the ancien...</summary>
+    <link href="../book_0/book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

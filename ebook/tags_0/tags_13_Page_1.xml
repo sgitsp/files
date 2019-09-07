@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Social Science</title>
-  <id>Calibre2opds:taglist:13</id>
+  <title>Islam Populer</title>
+  <id>Calibre2opds:taglist:I:13</id>
   <author>
     <name>David Pierron</name>
     <uri>http://calibre2opds.com/</uri>
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./tags_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Social Science" />
+  <link href="./tags_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Islam Populer" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
-  <link href="../taglist/taglist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with I" />
   <entry>
-    <title>Markesot Bertutur Lagi</title>
-    <id>calibre:book:47</id>
-    <updated>2019-09-02T05:24:59Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Markesot%20Bertutur%20Lagi%20%2847%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Markesot%20Bertutur%20Lagi%20%2847%29/Markesot%20Bertutur%20Lagi%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <title>Jodohku Maunya Sih Kamu: Ngaji Bareng Ust. Wijayanto</title>
+    <id>calibre:book:29</id>
+    <updated>2019-09-07T08:37:30Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20Baren%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20Baren%20%2829%29/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20-%20Ustadz%20Wijayanto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
-      <name>Emha Ainun Nadjib</name>
-      <uri>../authors_0/authors_4_Page_1.xml</uri>
+      <name>Ustadz Wijayanto</name>
+      <uri>../authors_0/authors_75_Page_1.xml</uri>
     </author>
-    <published>2012-08-31T05:00:00Z</published>
+    <published>2016-01-19T05:00:00Z</published>
     <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
-    <category term="Literary Collections" />
+    <dcterms:publisher>Noura Books</dcterms:publisher>
+    <category term="Religion" />
+    <category term="Islam" />
     <category term="General" />
     <category term="Juvenile Nonfiction" />
-    <category term="Social Science" />
-    <category term="Sociology" />
+    <category term="Family &amp; Relationships" />
+    <category term="Love &amp; Romance" />
+    <category term="Islam Populer" />
     <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Markesot adalah sosok lugu nan cerdas, mbeling, terkadang misterius. Dalam kesehariannya dengan sahabat-sahabatnya, Markembloh, Markasan, Markemon, dan lain-lain yang tergabung dalam Konsorsium Para Mbambung (KPMb), Markesot...</summary>
-    <link href="../book_0/book_47.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Sigit Purwadi's Library - Ya Rasulullah, kenapa kau jodohkan aku dengan Bilal? Aku ingin bersuamikan lelaki yang sedang berazan itu. Suaranya bagus sekali, pasti orangnya pun saleh.Ya, itu Bilal.  Itulah sepenggal kisah yang menjadi ilustrasi dalam b...</summary>
+    <link href="../book_0/book_29.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Orang Maiyah</title>
-    <id>calibre:book:50</id>
-    <updated>2019-09-02T05:25:06Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Orang%20Maiyah%20%2850%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Orang%20Maiyah%20%2850%29/Orang%20Maiyah%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
+    <title>Kalau Cinta Jangan Pacaran - Ngaji Bareng Ust. Wijayanto (Snackbook)</title>
+    <id>calibre:book:18</id>
+    <updated>2019-09-07T08:37:00Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Kalau%20Cinta%20Jangan%20Pacaran%20-%20Ngaji%20B%20%2818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Kalau%20Cinta%20Jangan%20Pacaran%20-%20Ngaji%20B%20%2818%29/Kalau%20Cinta%20Jangan%20Pacaran%20-%20Ng%20-%20Ustadz%20Wijayanto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
-      <name>Emha Ainun Nadjib</name>
-      <uri>../authors_0/authors_4_Page_1.xml</uri>
+      <name>Ustadz Wijayanto</name>
+      <uri>../authors_0/authors_75_Page_1.xml</uri>
     </author>
-    <published>2016-01-07T05:00:00Z</published>
+    <published>2016-10-12T05:00:00Z</published>
     <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
-    <category term="Fiction" />
-    <category term="Urban" />
-    <category term="Juvenile Fiction" />
-    <category term="Social Issues" />
-    <category term="Emotions &amp; Feelings" />
-    <category term="Social Science" />
-    <category term="Popular Culture" />
+    <dcterms:publisher>Noura e-Lite</dcterms:publisher>
+    <category term="Religion" />
+    <category term="Islam" />
+    <category term="Rituals &amp; Practice" />
+    <category term="Islam Populer" />
     <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Orang Maiyah adalah orang yang membaca dirinya berulang-ulang, ribuan kali. Di dalam Maiyah tak ada guru dan murid. Semua orang adalah murid, sang penghendak ilmu. Hidup orang Maiyah tidak tergantung kekayaan dan atau kemisk...</summary>
-    <link href="../book_0/book_50.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Sigit Purwadi's Library - Cinta adalah suatu perasaan yang lumrah dirasakan oleh siapa pun. Karena itu, wajar pula bila muncul ungkapan bahwa semua orang berhak untuk jatuh cinta. Namun masalahnya, tidak semua cinta yang datang merupakan cinta yang b...</summary>
+    <link href="../book_0/book_18.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Psikologi Kematian (Edisi Terbaru Gabungan)</title>
-    <id>calibre:book:51</id>
-    <updated>2019-09-02T05:25:08Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Komaruddin%20Hidayat/Psikologi%20Kematian%20%28Edisi%20Terbaru%20Ga%20%2851%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Komaruddin%20Hidayat/Psikologi%20Kematian%20%28Edisi%20Terbaru%20Ga%20%2851%29/Psikologi%20Kematian%20%28Edisi%20Terba%20-%20Komaruddin%20Hidayat.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <id>calibre:book:66</id>
+    <updated>2019-09-07T08:39:06Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Komaruddin%20Hidayat/Psikologi%20Kematian%20%28Edisi%20Terbaru%20Ga%20%2866%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Komaruddin%20Hidayat/Psikologi%20Kematian%20%28Edisi%20Terbaru%20Ga%20%2866%29/Psikologi%20Kematian%20%28Edisi%20Terba%20-%20Komaruddin%20Hidayat.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Komaruddin Hidayat</name>
-      <uri>../authors_0/authors_20_Page_1.xml</uri>
+      <uri>../authors_0/authors_67_Page_1.xml</uri>
     </author>
     <published>2016-01-15T05:00:00Z</published>
     <dcterms:language>in</dcterms:language>
@@ -78,7 +78,7 @@
     <category term="Islamic Studies" />
     <category term="Islam Populer" />
     <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Memandang kematian sebagai peristiwa yang mengerikan dan menakutkan adalah pilihan yang justru menyakitkan.Kematian, sebagaimana juga kehidupan, adalah anugerah Tuhan. Setiap saat kita berjalan menuju pintu kematian. Kita me...</summary>
-    <link href="../book_0/book_51.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Sigit Purwadi's Library - Memandang kematian sebagai peristiwa yang mengerikan dan menakutkan adalah pilihan yang justru menyakitkan. Kematian, sebagaimana juga kehidupan, adalah anugerah Tuhan.Setiap saat kita berjalan menuju pintu kematian. Kita me...</summary>
+    <link href="../book_0/book_66.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

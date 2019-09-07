@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Lang:in</title>
+  <id>Calibre2opds:taglist:L:119</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_119_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lang:in" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with L" />
+  <link href="./tags_119_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lang:in" />
+  <entry>
+    <title>Sejarah Tuhan: Kisah 4.000 Tahun Pencarian Tuhan Dalam Agama-Agama Manusia</title>
+    <id>calibre:book:61</id>
+    <updated>2019-09-07T08:38:53Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Karen%20Armstrong/Sejarah%20Tuhan_%20Kisah%204.000%20Tahun%20Pen%20%2861%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Karen%20Armstrong/Sejarah%20Tuhan_%20Kisah%204.000%20Tahun%20Pen%20%2861%29/Sejarah%20Tuhan_%20Kisah%204.000%20Tahu%20-%20Karen%20Armstrong.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Karen Armstrong</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>2014-10-07T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
+    <category term="Religion" />
+    <category term="Comparative Religion" />
+    <category term="Juvenile Nonfiction" />
+    <category term="General" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Sejarah Tuhan adalah kajian lengkap tentang Tuhan yang paling populer sejak publikasi pertamanya pada dekade terakhir abad ke-20. Ditulis oleh Karen Armstrong, komentator masalah agama terkemuka asal Inggris, buku ini melaca...</summary>
+    <link href="../book_0/book_61.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Seni Mencintai Diri Sendiri</title>
+    <id>calibre:book:32</id>
+    <updated>2019-09-07T08:37:39Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Suha%20Hoedi/Seni%20Mencintai%20Diri%20Sendiri%20%2832%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Suha%20Hoedi/Seni%20Mencintai%20Diri%20Sendiri%20%2832%29/Seni%20Mencintai%20Diri%20Sendiri%20-%20Suha%20Hoedi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="2 MB" />
+    <author>
+      <name>Suha Hoedi</name>
+      <uri>../authors_0/authors_33_Page_1.xml</uri>
+    </author>
+    <published>2015-12-31T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>TransMedia</dcterms:publisher>
+    <category term="Self-Help" />
+    <category term="Self-Management" />
+    <category term="General" />
+    <category term="Psychology" />
+    <category term="Personal Growth" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Buku persembahan TransMedia Pustaka ini membahas tip untuk membentuk pribadi yang positif, diawali dengan mengasah kemampuan untuk mencintai diri sendiri. Pembahasan di dalamnya termasuk membenahi pikiran dari penderitaan di...</summary>
+    <link href="../book_0/book_32.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Setengah Jalan</title>
+    <id>calibre:book:65</id>
+    <updated>2019-09-07T08:39:03Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Ernest%20Prakasa/Setengah%20Jalan%20%2865%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Ernest%20Prakasa/Setengah%20Jalan%20%2865%29/Setengah%20Jalan%20-%20Ernest%20Prakasa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
+    <author>
+      <name>Ernest Prakasa</name>
+      <uri>../authors_0/authors_59_Page_1.xml</uri>
+    </author>
+    <published>2017-10-04T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Bentang B first</dcterms:publisher>
+    <category term="Self-Help" />
+    <category term="Affirmations" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Gue mendukung kebebasan berekspresi di YouTube, termasuk bagi orang yang kontroversial kayak Young Lex. Orang sering bilang ke gue, "Tapi Nest, Young Lex itu nggak mendidik!" Kalau digituin, gue cuma jawab, "Sejak kapan mend...</summary>
+    <link href="../book_0/book_65.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Spiritualitas Tanpa Tuhan</title>
+    <id>calibre:book:10</id>
+    <updated>2019-09-07T08:36:41Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Andre%20Comte-Sponville/Spiritualitas%20Tanpa%20Tuhan%20%2810%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Andre%20Comte-Sponville/Spiritualitas%20Tanpa%20Tuhan%20%2810%29/Spiritualitas%20Tanpa%20Tuhan%20-%20Andre%20Comte-Sponville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1017 KB" />
+    <author>
+      <name>André Comte-Sponville</name>
+      <uri>../authors_0/authors_13_Page_1.xml</uri>
+    </author>
+    <published>2007-12-02T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Pustaka Alvabet</dcterms:publisher>
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Bisakah kita hidup tanpa agama? Dapatkah  kita beretika tanpa Tuhan? Atau, adakah sesuatu yang disebut  “spiritualitas ateis”? Dalam buku ini, filsuf terkemuka Prancis André  Comte-Sponville menjawab pertanyaan itu dengan me...</summary>
+    <link href="../book_0/book_10.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Surat Kepada Kanjeng Nabi</title>
+    <id>calibre:book:42</id>
+    <updated>2019-09-07T08:38:03Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Surat%20Kepada%20Kanjeng%20Nabi%20%2842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Surat%20Kepada%20Kanjeng%20Nabi%20%2842%29/Surat%20Kepada%20Kanjeng%20Nabi%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="956 KB" />
+    <author>
+      <name>Emha Ainun Nadjib</name>
+      <uri>../authors_0/authors_32_Page_1.xml</uri>
+    </author>
+    <published>2015-08-06T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
+    <category term="Literary Collections" />
+    <category term="General" />
+    <category term="Poetry" />
+    <category term="Asian" />
+    <category term="Religion" />
+    <category term="Islam" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Di negeri kami ini, umatmu berjumlah terbanyak dari penduduknya. Di negeri ini, kami punya Muhammadiyah, punya NU, Persis, punya ulama-ulama dan MUI, ICMI, punya bank, punya HMI, PMII, IMM, Anshor, Pemuda Muhammadiyah, IPM, ...</summary>
+    <link href="../book_0/book_42.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>TOEFL ASYIK: (Chapter 1: LISTENING COMPREHENSION)</title>
+    <id>calibre:book:67</id>
+    <updated>2019-09-07T08:39:08Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Y.%20Sri%20Purwaningsih/TOEFL%20ASYIK_%20%28Chapter%201_%20LISTENING%20C%20%2867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Y.%20Sri%20Purwaningsih/TOEFL%20ASYIK_%20%28Chapter%201_%20LISTENING%20C%20%2867%29/TOEFL%20ASYIK_%20%28Chapter%201_%20LISTEN%20-%20Y.%20Sri%20Purwaningsih.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="3 MB" />
+    <author>
+      <name>Y. Sri Purwaningsih</name>
+      <uri>../authors_0/authors_61_Page_1.xml</uri>
+    </author>
+    <published>2016-11-30T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>IndonesiaTera</dcterms:publisher>
+    <category term="Study Aids" />
+    <category term="TOEFL (Test of English as a Foreign Language) &amp; IELTS (International English Language Testing System)" />
+    <category term="General" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Test TOEFL saat ini sudah digunakan sebagai salah satu syarat bagi siswa SMA atau sederajat yang akan melanjutkan ke jenjang Perguruan Tinggi. Nah, biasanya buku TOEFL dikemas dengan bahasa yang serius dan kemasan yang tebal...</summary>
+    <link href="../book_0/book_67.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../tags_1/tags_119_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
+</feed>

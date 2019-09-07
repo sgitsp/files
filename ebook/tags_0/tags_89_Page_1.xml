@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Arabic</title>
+  <id>Calibre2opds:taglist:A:89</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_89_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Arabic" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with A" />
+  <entry>
+    <title>A Reference Grammar of Modern Standard Arabic</title>
+    <id>calibre:book:40</id>
+    <updated>2019-09-07T08:37:58Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Karin%20C.%20Ryding/A%20Reference%20Grammar%20of%20Modern%20Standa%20%2840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Karin%20C.%20Ryding/A%20Reference%20Grammar%20of%20Modern%20Standa%20%2840%29/A%20Reference%20Grammar%20of%20Modern%20S%20-%20Karin%20C.%20Ryding.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="5 MB" />
+    <author>
+      <name>Karin C. Ryding</name>
+      <uri>../authors_0/authors_41_Page_1.xml</uri>
+    </author>
+    <published>2005-08-24T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Cambridge University Press</dcterms:publisher>
+    <category term="Foreign Language Study" />
+    <category term="Arabic" />
+    <category term="Language Arts &amp; Disciplines" />
+    <category term="Linguistics" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - A Reference Grammar of Modern Standard Arabic is a comprehensive handbook on the structure of Arabic. Keeping technical terminology to a minimum, it provides a detailed yet accessible overview of Arabic in which the essentia...</summary>
+    <link href="../book_0/book_40.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

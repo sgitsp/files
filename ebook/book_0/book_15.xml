@@ -1,75 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Ngopi Bareng Denny Siregar: Tuhan Dalam Secangkir Kopi</title>
-  <id>urn:book:842771a4-09d9-4bfb-98c7-058df7fd0387</id>
-  <updated>2019-09-01T02:16:58Z</updated>
-  <link href="./book_15.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Ngopi Bareng Denny Siregar: Tuhan Dalam Secangkir Kopi" />
+  <title>Mengikat Makna Selamanya</title>
+  <id>urn:book:249ea111-5b31-47ae-afc4-a447ed0323f7</id>
+  <updated>2019-09-07T08:36:52Z</updated>
+  <link href="./book_15.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Mengikat Makna Selamanya" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
-  <link href="http://repo.purwadi.web.id/ebook/Denny%20Siregar/Ngopi%20Bareng%20Denny%20Siregar_%20Tuhan%20Da%20%2815%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
-  <link href="http://repo.purwadi.web.id/ebook/Denny%20Siregar/Ngopi%20Bareng%20Denny%20Siregar_%20Tuhan%20Da%20%2815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="http://repo.purwadi.web.id/ebook/Denny%20Siregar/Ngopi%20Bareng%20Denny%20Siregar_%20Tuhan%20Da%20%2815%29/Ngopi%20Bareng%20Denny%20Siregar_%20Tuh%20-%20Denny%20Siregar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="752 KB" />
+  <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Mengikat%20Makna%20Selamanya%20%2815%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Mengikat%20Makna%20Selamanya%20%2815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Mengikat%20Makna%20Selamanya%20%2815%29/Mengikat%20Makna%20Selamanya%20-%20Haidar%20Bagir.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="874 KB" />
   <author>
-    <name>Denny Siregar</name>
-    <uri>../authors_0/authors_15_Page_1.xml</uri>
+    <name>Haidar Bagir</name>
+    <uri>../authors_0/authors_46_Page_1.xml</uri>
   </author>
-  <published>2016-06-08T05:00:00Z</published>
-  <dcterms:language>en</dcterms:language>
-  <dcterms:publisher>Noura Books</dcterms:publisher>
-  <category term="Body; Mind &amp; Spirit" />
+  <author>
+    <name>Dkk.</name>
+    <uri>../authors_0/authors_76_Page_1.xml</uri>
+  </author>
+  <published>2018-07-10T05:00:00Z</published>
+  <dcterms:language>in</dcterms:language>
+  <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
+  <category term="Education" />
+  <category term="Counseling" />
   <category term="General" />
-  <category term="Religion" />
-  <category term="Spirituality" />
-  <category term="Tuhan dalam Secangkir Kopi" />
-  <category term="Lang:en" />
+  <category term="Lang:in" />
   <content type="text/html">
     <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
       <strong>Tags:</strong>
-      Body; Mind &amp; Spirit, General, Religion, Spirituality, Tuhan dalam Secangkir Kopi, Lang:en
+      Education, Counseling, General, Lang:in
     </p>
     <p>
       <strong>Publisher:</strong>
-      Noura Books
+      Mizan Pustaka
     </p>
     <p>
       <strong>Published:</strong>
-      June 8, 2016
+      July 10, 2018
     </p>
     <p>
       <strong>Added:</strong>
-      September 1, 2019
+      September 2, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      September 7, 2019
     </p>
     <p>
       <strong>Summary</strong>
     </p>
     <p xmlns="" class="description">
       <b>
-        <a href="http://repo.purwadi.web.id/ebook">Sigit Purwadi's
-      Library</a>
+        <a href="https://repo.purwadi.web.id/ebook/">Sigit Purwadi's
+    Library</a>
+         -
       </b>
-       - Denny Siregar lewat tulisan-tulisannya mengajarkan
-    bagaimana menyampaikan ide tanpa mendoktrin, menyetujui suatu
-    hal tanpa menjatuhkan hal lain, menolak gagasan tanpa menghina,
-    dan yang terpenting, mengajari tanpa menggurui. Dengan
-    menggunakan bahasa yang usil, kreatif, dan kocak, dia mengajak
-    pembaca untuk merenung. Dalam buku ini, Bang Denny -begitu
-    dia biasa dipanggil- dengan ditemani secangkir kopi yang
-    menjadi ciri khas setiap tulisannya, mengajak kita merenung
-    tentang Tuhan dan agama. Dia memaparkannya dengan gaya yang
-    nakal dan berbeda namun tetap ringan dan mudah dipahami,
-    membuat pembacanya manggut-manggut bahkan tersenyum sendiri.
-    [Mizan, Noura Books, Nourabooks, Agama, Islam, Indonesia]
+       Hernowo tak hanya bicara tentang
+    keterampilan baca-tulis; lebih dari itu, dia terutama bicara
+    tentang sebuah kehidupan yang bermakna.—Riris K.
+    Toha-Sarumpaet, Guru Besar Fakultas Ilmu Pengetahuan Budaya,
+    Universitas Indonesia*Mas Her tidak “hanya”
+    berteori. Dia menularkan “virus”-nya ke berbagai
+    pihak, memberi daya gugah yang luar biasa, dan juga membuat
+    terperangah banyak orang yang sehari-harinya
+    menulis!—Herry Mohammad, Redaktur Pelaksana Majalah B
+    erita Mingguan GATRA*Hernowo layak dikategorikan sebagai man of
+    letters—paling berjasa dalam meyakinkan khalayak bahwa
+    mengikat makna (menulis) memang jalan paling ampuh buat merebut
+    kebahagiaan.—Sumardianta, Guru Sosiologi SMA Kolese de
+    Britto Yogyakarta*Bagi Hernowo, teks atau tepatnya membaca teks
+    adalah bagian hakiki dari kehidupan. Karena itu baginya,
+    seperti kehidupan itu sendiri kaya dalam pelbagai aspeknya,
+    teks juga amat kaya dalam pelbagai seginya
+    ....—Sindhunata, Pemimpin Redaksi Majalah Basis**Betapa
+    produktif dan kreatifnya Mas Hernowo. Usia tidak menghalanginya
+    untuk terus menulis buku.—Ratna Megawangi, Pendiri
+    Indonesia Heritage Foundation (Model Pendidikan Holistik
+    Berbasis Karakter)*Sisi kirinya adalah gudang ilmu pengetahuan
+    yang setiap hari bertambah, sementara sisi kanannya adalah
+    lapangan sepakbola yang riuh sepanjang waktu. Hernowo menulis
+    seperti mengunyah permen; makin lama makin asyik.—Taufiq
+    Pasiak, Ahli Optimalisasi Otak dan penulis buku best-seller,
+    Revolusi IQ/EQ/SQ*Karya kreatif-provokatif Mas Hernowo, semakin
+    memperkuat dasar-dasar pedagogi dan sarat makna.—A. Malik
+    Fadjar, Mantan Menteri Pendidikan Nasional RI dan Rektor
+    Universitas Muhammadiyah Malang** Termuat dalam Mengikat Makna
+    Update: Membaca dan Menulis yang Memberdayakan (Kaifa, 2009)**
+    Termuat dalam Main-Main dengan Teks (Kaifa, 2004)
     </p>
   </content>
-  <link href="../authors_0/authors_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Denny Siregar" />
-  <link href="http://www.goodreads.com/book/title/Ngopi%20Bareng%20Denny%20Siregar%3A%20Tuhan%20Dalam%20Secangkir%20Kopi" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Ngopi%20Bareng%20Denny%20Siregar%3A%20Tuhan%20Dalam%20Secangkir%20Kopi" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
-  <link href="http://www.librarything.com/title/Ngopi%20Bareng%20Denny%20Siregar%3A%20Tuhan%20Dalam%20Secangkir%20Kopi%20Denny%20Siregar" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
-  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Ngopi%20Bareng%20Denny%20Siregar%3A%20Tuhan%20Dalam%20Secangkir%20Kopi&amp;field-author=Denny%20Siregar" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
-  <link href="http://www.goodreads.com/book/author/Denny%20Siregar" type="text/html" rel="related" title="Denny Siregar on Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Denny%20Siregar" type="text/html" rel="related" title="Denny Siregar on Wikipedia" target="_blank" />
-  <link href="http://www.librarything.com/author/SiregarDenny" type="text/html" rel="related" title="Denny Siregar on LibraryThing" target="_blank" />
-  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Denny%20Siregar" type="text/html" rel="related" title="Denny Siregar on Amazon" target="_blank" />
-  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Denny%20Siregar" type="text/html" rel="related" title="Denny Siregar on ISFDB" target="_blank" />
+  <link href="../authors_0/authors_46_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Haidar Bagir" />
+  <link href="../authors_0/authors_76_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Dkk." />
+  <link href="http://www.goodreads.com/book/title/Mengikat%20Makna%20Selamanya" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Mengikat%20Makna%20Selamanya" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Mengikat%20Makna%20Selamanya%20Haidar%20Bagir" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Mengikat%20Makna%20Selamanya&amp;field-author=Haidar%20Bagir" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Haidar%20Bagir" type="text/html" rel="related" title="Haidar Bagir on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Haidar%20Bagir" type="text/html" rel="related" title="Haidar Bagir on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/BagirHaidar" type="text/html" rel="related" title="Haidar Bagir on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Haidar%20Bagir" type="text/html" rel="related" title="Haidar Bagir on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Haidar%20Bagir" type="text/html" rel="related" title="Haidar Bagir on ISFDB" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Dkk." type="text/html" rel="related" title="Dkk. on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Dkk." type="text/html" rel="related" title="Dkk. on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/Dkk." type="text/html" rel="related" title="Dkk. on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Dkk." type="text/html" rel="related" title="Dkk. on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Dkk." type="text/html" rel="related" title="Dkk. on ISFDB" target="_blank" />
 </entry>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Elizabeth Matsui</title>
+  <id>Calibre2opds:authors:49</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_49_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Elizabeth Matsui" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>The Art of Data Science</title>
+    <id>calibre:book:49</id>
+    <updated>2019-09-07T08:38:20Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Roger%20Peng/The%20Art%20of%20Data%20Science%20%2849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Roger%20Peng/The%20Art%20of%20Data%20Science%20%2849%29/The%20Art%20of%20Data%20Science%20-%20Roger%20Peng.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
+    <author>
+      <name>Roger Peng</name>
+      <uri>../authors_0/authors_71_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Elizabeth Matsui</name>
+      <uri>../authors_0/authors_49_Page_1.xml</uri>
+    </author>
+    <published>2016-06-07T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>lulu.com</dcterms:publisher>
+    <category term="Business &amp; Economics" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - This book describes, simply and in general terms, the process of analyzing data. The authors have extensive experience both managing data analysts and conducting their own data analyses, and have carefully observed what prod...</summary>
+    <link href="../book_0/book_49.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

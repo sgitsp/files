@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Economics</title>
+  <id>Calibre2opds:taglist:E:106</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_106_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Economics" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with E" />
+  <entry>
+    <title>101 Things Everyone Should Know About Economics</title>
+    <id>calibre:book:14</id>
+    <updated>2019-09-07T08:36:50Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Peter%20Sander/101%20Things%20Everyone%20Should%20Know%20Abou%20%2814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Peter%20Sander/101%20Things%20Everyone%20Should%20Know%20Abou%20%2814%29/101%20Things%20Everyone%20Should%20Know%20-%20Peter%20Sander.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="821 KB" />
+    <author>
+      <name>Peter Sander</name>
+      <uri>../authors_0/authors_16_Page_1.xml</uri>
+    </author>
+    <published>2013-12-02T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Simon and Schuster</dcterms:publisher>
+    <category term="Business &amp; Economics" />
+    <category term="Economics" />
+    <category term="General" />
+    <category term="Comparative" />
+    <category term="Accounting" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - Economics, demystified!From the collapse of housing prices to the thousand-point drops in the stock market, the past five years have been full of economic crises. These changes not only affect the overall market--they can al...</summary>
+    <link href="../book_0/book_14.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

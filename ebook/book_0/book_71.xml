@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La Tahzan: Jangan Bersedih!</title>
+  <id>urn:book:12ccfc36-3ed3-44f8-a409-1af2e8de8739</id>
+  <updated>2019-09-07T08:39:17Z</updated>
+  <link href="./book_71.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La Tahzan: Jangan Bersedih!" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="http://repo.purwadi.web.id/ebook/Dr.%20%27aidh%20Al-Qarni/La%20Tahzan_%20Jangan%20Bersedih%21%20%2871%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Dr.%20%27aidh%20Al-Qarni/La%20Tahzan_%20Jangan%20Bersedih%21%20%2871%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Dr.%20%27aidh%20Al-Qarni/La%20Tahzan_%20Jangan%20Bersedih%21%20%2871%29/La%20Tahzan_%20Jangan%20Bersedih%21%20-%20Dr.%20%27aidh%20Al-Qarni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="425 KB" />
+  <author>
+    <name>Dr. ‘aidh Al-Qarni</name>
+    <uri>../authors_0/authors_66_Page_1.xml</uri>
+  </author>
+  <published>2016-04-24T05:00:00Z</published>
+  <dcterms:language>in</dcterms:language>
+  <dcterms:publisher>Qisthi Press</dcterms:publisher>
+  <category term="Body; Mind &amp; Spirit" />
+  <category term="Inspiration &amp; Personal Growth" />
+  <category term="Psychology" />
+  <category term="Developmental" />
+  <category term="General" />
+  <category term="Self-Help" />
+  <category term="Motivational &amp; Inspirational" />
+  <category term="Lang:in" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Body; Mind &amp; Spirit, Inspiration &amp; Personal Growth, Psychology, Developmental, General, Self-Help, Motivational &amp; Inspirational, Lang:in
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Qisthi Press
+    </p>
+    <p>
+      <strong>Published:</strong>
+      April 24, 2016
+    </p>
+    <p>
+      <strong>Added:</strong>
+      September 2, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      September 7, 2019
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">
+      <a href="https://repo.purwadi.web.id/ebook/">
+        <b>Sigit Purwadi's Library</b>
+      </a>
+       - Sebagai salah satu buku kategori pencerahan hati
+    (an-nafsu al muthma`innah), Lâ Tahzan menawarkan terapi
+    yang lebih dekat dengan al-Qur`an dan Sunah, ketimbang
+    renungan-renungan reflektif semata. Lâ Tahzan menjadi buku
+    terlaris di Timur Tengah karena sejak cetakan pertamanya (th
+    2001), buku ini telah terjual lebih dari 1 juta eksemplar. Buku
+    ini telah melambungkan nama penulisnya, Dr. `Aidh al-Qarni,
+    seorang doktor dalam bidang hadis yang hafiz Qur`an, ribuan
+    hadis, dan juga ribuan bait syair Arab kuno hingga modern.
+    Dalam usianya yang masih sangat muda, ia telah menjadi penulis
+    paling produktif di Saudi Arabia saat ini. Di Indonesia, buku
+    yang Anda pegang ini mendapat sambutan luar biasa dan telah
+    terjual puluhan ribu eksemplar.
+    </p>
+  </content>
+  <link href="../authors_0/authors_66_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Dr. ‘aidh Al-Qarni" />
+  <link href="http://www.goodreads.com/book/title/La%20Tahzan%3A%20Jangan%20Bersedih%21" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/La%20Tahzan%3A%20Jangan%20Bersedih%21" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/La%20Tahzan%3A%20Jangan%20Bersedih%21%20Dr.%20%E2%80%98aidh%20Al-Qarni" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=La%20Tahzan%3A%20Jangan%20Bersedih%21&amp;field-author=Dr.%20%E2%80%98aidh%20Al-Qarni" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Dr.%20%E2%80%98aidh%20Al-Qarni" type="text/html" rel="related" title="Dr. ‘aidh Al-Qarni on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Dr.%20%E2%80%98aidh%20Al-Qarni" type="text/html" rel="related" title="Dr. ‘aidh Al-Qarni on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/Al-Qarni%E2%80%98aidh" type="text/html" rel="related" title="Dr. ‘aidh Al-Qarni on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Dr.%20%E2%80%98aidh%20Al-Qarni" type="text/html" rel="related" title="Dr. ‘aidh Al-Qarni on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Dr.%20%E2%80%98aidh%20Al-Qarni" type="text/html" rel="related" title="Dr. ‘aidh Al-Qarni on ISFDB" target="_blank" />
+</entry>

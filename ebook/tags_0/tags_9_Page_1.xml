@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>FIksi</title>
-  <id>Calibre2opds:taglist:9</id>
+  <title>Creative Ability</title>
+  <id>Calibre2opds:taglist:C:9</id>
   <author>
     <name>David Pierron</name>
     <uri>http://calibre2opds.com/</uri>
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./tags_9_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="FIksi" />
+  <link href="./tags_9_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Creative Ability" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with C" />
   <entry>
-    <title>Novelet Madre</title>
-    <id>calibre:book:45</id>
-    <updated>2019-09-02T05:24:55Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Dee%20Lestari/Novelet%20Madre%20%2845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Dee%20Lestari/Novelet%20Madre%20%2845%29/Novelet%20Madre%20-%20Dee%20Lestari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <title>Quiet: The Power of Introverts in a World That Can't Stop Talking</title>
+    <id>calibre:book:11</id>
+    <updated>2019-09-07T08:36:43Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Susan%20Cain/Quiet_%20The%20Power%20of%20Introverts%20in%20a%20%2811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Susan%20Cain/Quiet_%20The%20Power%20of%20Introverts%20in%20a%20%2811%29/Quiet_%20The%20Power%20of%20Introverts%20-%20Susan%20Cain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
-      <name>Dee Lestari</name>
-      <uri>../authors_0/authors_15_Page_1.xml</uri>
+      <name>Susan Cain</name>
+      <uri>../authors_0/authors_4_Page_1.xml</uri>
     </author>
-    <published>2015-06-11T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
-    <category term="Juvenile Fiction" />
-    <category term="Media Tie-In" />
-    <category term="Fiction" />
-    <category term="Literary" />
-    <category term="General" />
-    <category term="FIksi" />
-    <category term="Lang:in" />
-    <category term="Novel" />
-    <summary>Novel [1]: Sigit Purwadi's Library - Apa rasanya jika sejarah kita berubah dalam sehari? Darah saya mendadak seperempat Tionghoa, nenek saya seorang penjual roti, dan dia, bersama kakek yang tidak saya kenal, mewariskan anggota keluarga baru yang tid...</summary>
-    <link href="../book_0/book_45.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <published>2012-01-24T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Broadway</dcterms:publisher>
+    <category term="Psychology" />
+    <category term="Self-Help" />
+    <category term="Personal Growth" />
+    <category term="Creative Ability" />
+    <category term="Success" />
+    <category term="Personality" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - At least one-third of the people we know are introverts. They are the ones who prefer listening to speaking, reading to partying; who innovate and create but dislike self-promotion; who favor working on their own over brains...</summary>
+    <link href="../book_0/book_11.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

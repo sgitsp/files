@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Syekh Imam Abu Muhammad</title>
+  <id>Calibre2opds:authors:53</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_53_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Syekh Imam Abu Muhammad" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Kitab Seks &amp; Rumah Tangga dalam Islam</title>
+    <id>calibre:book:55</id>
+    <updated>2019-09-07T08:38:36Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Syekh%20Imam%20Abu%20Muhammad/Kitab%20Seks%20%26%20Rumah%20Tangga%20dalam%20Isla%20%2855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Syekh%20Imam%20Abu%20Muhammad/Kitab%20Seks%20%26%20Rumah%20Tangga%20dalam%20Isla%20%2855%29/Kitab%20Seks%20%26%20Rumah%20Tangga%20dalam%20-%20Syekh%20Imam%20Abu%20Muhammad.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="1 MB" />
+    <author>
+      <name>Syekh Imam Abu Muhammad</name>
+      <uri>../authors_0/authors_53_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Kaurama Buana Antara</dcterms:publisher>
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Dalam kitab ini memuat 20 pasal tentang beberapa hadist dan nasehat dalam mebina Rumah Tangga yaitu mulai dari keutamaan menikah, memilih seorang calon istri, masalah tata krama dalam berhubungan intim (sex) dengan seorang i...</summary>
+    <link href="../book_0/book_55.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

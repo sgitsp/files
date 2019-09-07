@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Y. Sri Purwaningsih</title>
+  <id>Calibre2opds:authors:61</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_61_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Y. Sri Purwaningsih" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>TOEFL ASYIK: (Chapter 1: LISTENING COMPREHENSION)</title>
+    <id>calibre:book:67</id>
+    <updated>2019-09-07T08:39:08Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Y.%20Sri%20Purwaningsih/TOEFL%20ASYIK_%20%28Chapter%201_%20LISTENING%20C%20%2867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Y.%20Sri%20Purwaningsih/TOEFL%20ASYIK_%20%28Chapter%201_%20LISTENING%20C%20%2867%29/TOEFL%20ASYIK_%20%28Chapter%201_%20LISTEN%20-%20Y.%20Sri%20Purwaningsih.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="3 MB" />
+    <author>
+      <name>Y. Sri Purwaningsih</name>
+      <uri>../authors_0/authors_61_Page_1.xml</uri>
+    </author>
+    <published>2016-11-30T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>IndonesiaTera</dcterms:publisher>
+    <category term="Study Aids" />
+    <category term="TOEFL (Test of English as a Foreign Language) &amp; IELTS (International English Language Testing System)" />
+    <category term="General" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Test TOEFL saat ini sudah digunakan sebagai salah satu syarat bagi siswa SMA atau sederajat yang akan melanjutkan ke jenjang Perguruan Tinggi. Nah, biasanya buku TOEFL dikemas dengan bahasa yang serius dan kemasan yang tebal...</summary>
+    <link href="../book_0/book_67.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

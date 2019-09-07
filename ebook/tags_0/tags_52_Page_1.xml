@@ -1,37 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Self-Management</title>
-  <id>Calibre2opds:taglist:52</id>
+  <title>Study Aids</title>
+  <id>Calibre2opds:taglist:S:52</id>
   <author>
     <name>David Pierron</name>
     <uri>http://calibre2opds.com/</uri>
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./tags_52_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Self-Management" />
+  <link href="./tags_52_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Study Aids" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
-  <link href="../taglist/taglist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with S" />
   <entry>
-    <title>Seni Mencintai Diri Sendiri</title>
-    <id>calibre:book:54</id>
-    <updated>2019-09-02T06:09:30Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Suha%20Hoedi/Seni%20Mencintai%20Diri%20Sendiri%20%2854%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Suha%20Hoedi/Seni%20Mencintai%20Diri%20Sendiri%20%2854%29/Seni%20Mencintai%20Diri%20Sendiri%20-%20Suha%20Hoedi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="2 MB" />
+    <title>TOEFL ASYIK: (Chapter 1: LISTENING COMPREHENSION)</title>
+    <id>calibre:book:67</id>
+    <updated>2019-09-07T08:39:08Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Y.%20Sri%20Purwaningsih/TOEFL%20ASYIK_%20%28Chapter%201_%20LISTENING%20C%20%2867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Y.%20Sri%20Purwaningsih/TOEFL%20ASYIK_%20%28Chapter%201_%20LISTENING%20C%20%2867%29/TOEFL%20ASYIK_%20%28Chapter%201_%20LISTEN%20-%20Y.%20Sri%20Purwaningsih.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="3 MB" />
     <author>
-      <name>Suha Hoedi</name>
-      <uri>../authors_0/authors_26_Page_1.xml</uri>
+      <name>Y. Sri Purwaningsih</name>
+      <uri>../authors_0/authors_61_Page_1.xml</uri>
     </author>
-    <published>2015-12-31T05:00:00Z</published>
+    <published>2016-11-30T05:00:00Z</published>
     <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>TransMedia</dcterms:publisher>
-    <category term="Self-Help" />
-    <category term="Self-Management" />
+    <dcterms:publisher>IndonesiaTera</dcterms:publisher>
+    <category term="Study Aids" />
+    <category term="TOEFL (Test of English as a Foreign Language) &amp; IELTS (International English Language Testing System)" />
     <category term="General" />
-    <category term="Psychology" />
-    <category term="Personal Growth" />
     <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Buku persembahan TransMedia Pustaka ini membahas tip untuk membentuk pribadi yang positif, diawali dengan mengasah kemampuan untuk mencintai diri sendiri. Pembahasan di dalamnya termasuk membenahi pikiran dari penderitaan di...</summary>
-    <link href="../book_0/book_54.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Sigit Purwadi's Library - Test TOEFL saat ini sudah digunakan sebagai salah satu syarat bagi siswa SMA atau sederajat yang akan melanjutkan ke jenjang Perguruan Tinggi. Nah, biasanya buku TOEFL dikemas dengan bahasa yang serius dan kemasan yang tebal...</summary>
+    <link href="../book_0/book_67.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

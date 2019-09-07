@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Dan Karlan</title>
+  <id>Calibre2opds:authors:74</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_74_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Dan Karlan" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>The 101 Most Influential People Who Never Lived: How Characters of Fiction, Myth, Legends, Television, and Movies Have Shaped Our Society, Changed Our Behavior, and Set the Course of History</title>
+    <id>calibre:book:34</id>
+    <updated>2019-09-07T08:37:44Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Allan%20Lazar/The%20101%20Most%20Influential%20People%20Who%20%2834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Allan%20Lazar/The%20101%20Most%20Influential%20People%20Who%20%2834%29/The%20101%20Most%20Influential%20People%20-%20Allan%20Lazar.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="1 MB" />
+    <author>
+      <name>Allan Lazar</name>
+      <uri>../authors_0/authors_73_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Dan Karlan</name>
+      <uri>../authors_0/authors_74_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Jeremy Salter</name>
+      <uri>../authors_0/authors_36_Page_1.xml</uri>
+    </author>
+    <published>2009-10-12T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harper Collins</dcterms:publisher>
+    <category term="Biography &amp; Autobiography" />
+    <category term="Entertainment &amp; Performing Arts" />
+    <category term="Humor" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - From Santa Claus to Buffy the Vampire Slayer, from Uncle Sam to Uncle Tom, here is a compelling, eye-opening, and endlessly entertaining compendium of fictional trendsetters and world-shakers who have helped shape our cultur...</summary>
+    <link href="../book_0/book_34.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

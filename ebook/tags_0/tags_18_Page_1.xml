@@ -1,39 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Social Issues</title>
-  <id>Calibre2opds:taglist:18</id>
+  <title>Essays</title>
+  <id>Calibre2opds:taglist:E:18</id>
   <author>
     <name>David Pierron</name>
     <uri>http://calibre2opds.com/</uri>
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./tags_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Social Issues" />
+  <link href="./tags_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Essays" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
-  <link href="../taglist/taglist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with E" />
   <entry>
-    <title>Orang Maiyah</title>
-    <id>calibre:book:50</id>
-    <updated>2019-09-02T05:25:06Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Orang%20Maiyah%20%2850%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Orang%20Maiyah%20%2850%29/Orang%20Maiyah%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
+    <title>Friedrich Nietzsche, Collection</title>
+    <id>calibre:book:62</id>
+    <updated>2019-09-07T08:38:56Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Friedrich%20Nietzsche/Friedrich%20Nietzsche%2C%20Collection%20%2862%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Friedrich%20Nietzsche/Friedrich%20Nietzsche%2C%20Collection%20%2862%29/Friedrich%20Nietzsche%2C%20Collection%20-%20Friedrich%20Nietzsche.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
-      <name>Emha Ainun Nadjib</name>
-      <uri>../authors_0/authors_4_Page_1.xml</uri>
+      <name>Friedrich Nietzsche</name>
+      <uri>../authors_0/authors_57_Page_1.xml</uri>
     </author>
-    <published>2016-01-07T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
-    <category term="Fiction" />
-    <category term="Urban" />
-    <category term="Juvenile Fiction" />
-    <category term="Social Issues" />
-    <category term="Emotions &amp; Feelings" />
-    <category term="Social Science" />
-    <category term="Popular Culture" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Orang Maiyah adalah orang yang membaca dirinya berulang-ulang, ribuan kali. Di dalam Maiyah tak ada guru dan murid. Semua orang adalah murid, sang penghendak ilmu. Hidup orang Maiyah tidak tergantung kekayaan dan atau kemisk...</summary>
-    <link href="../book_0/book_50.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <published>2014-06-28T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Createspace Independent Pub</dcterms:publisher>
+    <category term="Essays" />
+    <category term="Philosophy" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - Friedrich Wilhelm Nietzsche (1844 – 1900) was a German philologist, philosopher, cultural critic, poet and composer. He wrote several critical texts on religion, morality, contemporary culture, philosophy and science, displa...</summary>
+    <link href="../book_0/book_62.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

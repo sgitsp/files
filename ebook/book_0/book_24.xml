@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Mein Kampf Volume 2: The National Socialist Movement (1926)</title>
+  <id>urn:book:f48acdc5-4666-4657-93c8-2c87ca4d4fca</id>
+  <updated>2019-09-07T08:37:17Z</updated>
+  <link href="./book_24.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Mein Kampf Volume 2: The National Socialist Movement (1926)" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="http://repo.purwadi.web.id/ebook/Adolf%20Hitler/Mein%20Kampf%20Volume%202_%20The%20National%20So%20%2824%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Adolf%20Hitler/Mein%20Kampf%20Volume%202_%20The%20National%20So%20%2824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Adolf%20Hitler/Mein%20Kampf%20Volume%202_%20The%20National%20So%20%2824%29/Mein%20Kampf%20Volume%202_%20The%20Nation%20-%20Adolf%20Hitler.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="8 MB" />
+  <author>
+    <name>Adolf Hitler</name>
+    <uri>../authors_0/authors_38_Page_1.xml</uri>
+  </author>
+  <published>2015-12-30T05:00:00Z</published>
+  <dcterms:language>in</dcterms:language>
+  <dcterms:publisher>CreateSpace Independent Publishing Platform</dcterms:publisher>
+  <category term="Lang:in" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:in
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      CreateSpace Independent Publishing Platform
+    </p>
+    <p>
+      <strong>Published:</strong>
+      December 30, 2015
+    </p>
+    <p>
+      <strong>Added:</strong>
+      September 7, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      September 7, 2019
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">
+      <b>
+        <a href="https://repo.purwadi.web.id/ebook/">Sigit Purwadi's
+    Library</a>
+         -
+      </b>
+       Illustrated English translation
+    edition of Mein Kampf (pronounced [mine kampf], "My Struggle")
+    Volume 2 is an autobiographical manifesto by the National
+    Socialist leader Adolf Hitler, in which he outlines his
+    political ideology and future plans for Germany. Volume 1 of
+    Mein Kampf was published in 1925 and Volume 2 in 1926. The book
+    was edited by Hitler's deputy Rudolf Hess. Hitler began
+    dictating the book to Hess while imprisoned for what he
+    considered to be "political crimes" following his failed Putsch
+    in Munich in November 1923. Although Hitler received many
+    visitors initially, he soon devoted himself entirely to the
+    book. As he continued, Hitler realized that it would have to be
+    a two-volume work, with the first volume scheduled for release
+    in early 1925.
+    </p>
+  </content>
+  <link href="../authors_0/authors_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Adolf Hitler" />
+  <link href="http://www.goodreads.com/book/title/Mein%20Kampf%20Volume%202%3A%20The%20National%20Socialist%20Movement%20%281926%29" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Mein%20Kampf%20Volume%202%3A%20The%20National%20Socialist%20Movement%20%281926%29" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Mein%20Kampf%20Volume%202%3A%20The%20National%20Socialist%20Movement%20%281926%29%20Adolf%20Hitler" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Mein%20Kampf%20Volume%202%3A%20The%20National%20Socialist%20Movement%20%281926%29&amp;field-author=Adolf%20Hitler" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Adolf%20Hitler" type="text/html" rel="related" title="Adolf Hitler on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Adolf%20Hitler" type="text/html" rel="related" title="Adolf Hitler on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/HITLERADOLF" type="text/html" rel="related" title="Adolf Hitler on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Adolf%20Hitler" type="text/html" rel="related" title="Adolf Hitler on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Adolf%20Hitler" type="text/html" rel="related" title="Adolf Hitler on ISFDB" target="_blank" />
+</entry>

@@ -1,56 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Rituals &amp; Practice</title>
-  <id>Calibre2opds:taglist:40</id>
+  <title>Inspiration &amp; Personal Growth</title>
+  <id>Calibre2opds:taglist:I:40</id>
   <author>
     <name>David Pierron</name>
     <uri>http://calibre2opds.com/</uri>
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./tags_40_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Rituals &amp; Practice" />
+  <link href="./tags_40_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Inspiration &amp; Personal Growth" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
-  <link href="../taglist/taglist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with I" />
   <entry>
-    <title>Buat Apa Shalat?!</title>
-    <id>calibre:book:40</id>
-    <updated>2019-09-02T05:24:44Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Buat%20Apa%20Shalat_%21%20%2840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Buat%20Apa%20Shalat_%21%20%2840%29/Buat%20Apa%20Shalat_%21%20-%20Haidar%20Bagir.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="476 KB" />
+    <title>La Tahzan: Jangan Bersedih!</title>
+    <id>calibre:book:71</id>
+    <updated>2019-09-07T08:39:17Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Dr.%20%27aidh%20Al-Qarni/La%20Tahzan_%20Jangan%20Bersedih%21%20%2871%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Dr.%20%27aidh%20Al-Qarni/La%20Tahzan_%20Jangan%20Bersedih%21%20%2871%29/La%20Tahzan_%20Jangan%20Bersedih%21%20-%20Dr.%20%27aidh%20Al-Qarni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="425 KB" />
     <author>
-      <name>Haidar Bagir</name>
-      <uri>../authors_0/authors_12_Page_1.xml</uri>
+      <name>Dr. ‘aidh Al-Qarni</name>
+      <uri>../authors_0/authors_66_Page_1.xml</uri>
     </author>
-    <published>2006-02-28T05:00:00Z</published>
+    <published>2016-04-24T05:00:00Z</published>
     <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
-    <category term="Religion" />
-    <category term="Islam" />
-    <category term="Rituals &amp; Practice" />
+    <dcterms:publisher>Qisthi Press</dcterms:publisher>
+    <category term="Body; Mind &amp; Spirit" />
+    <category term="Inspiration &amp; Personal Growth" />
+    <category term="Psychology" />
+    <category term="Developmental" />
+    <category term="General" />
+    <category term="Self-Help" />
+    <category term="Motivational &amp; Inspirational" />
     <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - SHALAT, secara harfiah, berarti doa. Dalam konteks ini, yang dimaksud shalat adalah doa yang disampaikan dengan tata cara (syarat dan rukun) yang khas dalam bentuk bacaan-bacaan dan gerakan-gerakan tertentu.Dalam bahasa syar...</summary>
-    <link href="../book_0/book_40.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Kalau Cinta Jangan Pacaran - Ngaji Bareng Ust. Wijayanto (Snackbook)</title>
-    <id>calibre:book:44</id>
-    <updated>2019-09-02T05:24:53Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Kalau%20Cinta%20Jangan%20Pacaran%20-%20Ngaji%20B%20%2844%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Kalau%20Cinta%20Jangan%20Pacaran%20-%20Ngaji%20B%20%2844%29/Kalau%20Cinta%20Jangan%20Pacaran%20-%20Ng%20-%20Ustadz%20Wijayanto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Ustadz Wijayanto</name>
-      <uri>../authors_0/authors_22_Page_1.xml</uri>
-    </author>
-    <published>2016-10-12T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Noura e-Lite</dcterms:publisher>
-    <category term="Religion" />
-    <category term="Islam" />
-    <category term="Rituals &amp; Practice" />
-    <category term="Islam Populer" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Cinta adalah suatu perasaan yang lumrah dirasakan oleh siapa pun. Karena itu, wajar pula bila muncul ungkapan bahwa semua orang berhak untuk jatuh cinta. Namun masalahnya, tidak semua cinta yang datang merupakan cinta yang b...</summary>
-    <link href="../book_0/book_44.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Sigit Purwadi's Library - Sebagai salah satu buku kategori pencerahan hati (an-nafsu al muthma`innah), Lâ Tahzan menawarkan terapi yang lebih dekat dengan al-Qur`an dan Sunah, ketimbang renungan-renungan reflektif semata. Lâ Tahzan menjadi buku terla...</summary>
+    <link href="../book_0/book_71.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

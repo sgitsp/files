@@ -11,15 +11,35 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../allbooks/allbooks_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 3)" />
+  <entry>
+    <title>Muhammad: A Prophet for Our Time</title>
+    <id>calibre:book:27</id>
+    <updated>2019-09-07T08:37:25Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Karen%20Armstrong/Muhammad_%20A%20Prophet%20for%20Our%20Time%20%2827%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Karen%20Armstrong/Muhammad_%20A%20Prophet%20for%20Our%20Time%20%2827%29/Muhammad_%20A%20Prophet%20for%20Our%20Tim%20-%20Karen%20Armstrong.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="728 KB" />
+    <author>
+      <name>Karen Armstrong</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>2014-05-05T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Mizan</dcterms:publisher>
+    <category term="Agama" />
+    <category term="Lang:in" />
+    <category term="Agama" />
+    <summary>Agama [1]: Sigit Purwadi's Library - The Man Who Inspired the World's Fastest-Growing Religion Muhammad presents a fascinating portrait of the founder of a religion that continues to change the course of world history. Muhammad's story is more releva...</summary>
+    <link href="../book_0/book_27.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
   <entry>
     <title>Novelet Madre</title>
-    <id>calibre:book:45</id>
-    <updated>2019-09-02T05:24:55Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Dee%20Lestari/Novelet%20Madre%20%2845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Dee%20Lestari/Novelet%20Madre%20%2845%29/Novelet%20Madre%20-%20Dee%20Lestari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <id>calibre:book:46</id>
+    <updated>2019-09-07T08:38:12Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Dee%20Lestari/Novelet%20Madre%20%2846%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Dee%20Lestari/Novelet%20Madre%20%2846%29/Novelet%20Madre%20-%20Dee%20Lestari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Dee Lestari</name>
-      <uri>../authors_0/authors_15_Page_1.xml</uri>
+      <uri>../authors_0/authors_45_Page_1.xml</uri>
     </author>
     <published>2015-06-11T05:00:00Z</published>
     <dcterms:language>in</dcterms:language>
@@ -32,18 +52,87 @@
     <category term="FIksi" />
     <category term="Lang:in" />
     <category term="Novel" />
-    <summary>Novel [1]: Sigit Purwadi's Library - Apa rasanya jika sejarah kita berubah dalam sehari? Darah saya mendadak seperempat Tionghoa, nenek saya seorang penjual roti, dan dia, bersama kakek yang tidak saya kenal, mewariskan anggota keluarga baru yang tid...</summary>
-    <link href="../book_0/book_45.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Novel [1]: Sigit Purwadi's Library - Apa rasanya jika sejarah kita berubah dalam sehari? Darah saya mendadak seperempat Tionghoa, nenek saya seorang penjual roti, dan dia, bersama kakek yang tidak saya kenal, mewariskan anggota keluarga baru yang tid...</summary>
+    <link href="../book_0/book_46.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The 101 Most Influential People Who Never Lived: How Characters of Fiction, Myth, Legends, Television, and Movies Have Shaped Our Society, Changed Our Behavior, and Set the Course of History</title>
+    <id>calibre:book:34</id>
+    <updated>2019-09-07T08:37:44Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Allan%20Lazar/The%20101%20Most%20Influential%20People%20Who%20%2834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Allan%20Lazar/The%20101%20Most%20Influential%20People%20Who%20%2834%29/The%20101%20Most%20Influential%20People%20-%20Allan%20Lazar.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="1 MB" />
+    <author>
+      <name>Allan Lazar</name>
+      <uri>../authors_0/authors_73_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Dan Karlan</name>
+      <uri>../authors_0/authors_74_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Jeremy Salter</name>
+      <uri>../authors_0/authors_36_Page_1.xml</uri>
+    </author>
+    <published>2009-10-12T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harper Collins</dcterms:publisher>
+    <category term="Biography &amp; Autobiography" />
+    <category term="Entertainment &amp; Performing Arts" />
+    <category term="Humor" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - From Santa Claus to Buffy the Vampire Slayer, from Uncle Sam to Uncle Tom, here is a compelling, eye-opening, and endlessly entertaining compendium of fictional trendsetters and world-shakers who have helped shape our cultur...</summary>
+    <link href="../book_0/book_34.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>101 Things Everyone Should Know About Economics</title>
+    <id>calibre:book:14</id>
+    <updated>2019-09-07T08:36:50Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Peter%20Sander/101%20Things%20Everyone%20Should%20Know%20Abou%20%2814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Peter%20Sander/101%20Things%20Everyone%20Should%20Know%20Abou%20%2814%29/101%20Things%20Everyone%20Should%20Know%20-%20Peter%20Sander.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="821 KB" />
+    <author>
+      <name>Peter Sander</name>
+      <uri>../authors_0/authors_16_Page_1.xml</uri>
+    </author>
+    <published>2013-12-02T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Simon and Schuster</dcterms:publisher>
+    <category term="Business &amp; Economics" />
+    <category term="Economics" />
+    <category term="General" />
+    <category term="Comparative" />
+    <category term="Accounting" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - Economics, demystified!From the collapse of housing prices to the thousand-point drops in the stock market, the past five years have been full of economic crises. These changes not only affect the overall market--they can al...</summary>
+    <link href="../book_0/book_14.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>90 Minutes in Heaven</title>
+    <id>calibre:book:12</id>
+    <updated>2019-09-07T08:36:45Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Don%20Piper/90%20Minutes%20in%20Heaven%20%2812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Don%20Piper/90%20Minutes%20in%20Heaven%20%2812%29/90%20Minutes%20in%20Heaven%20-%20Don%20Piper.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Don Piper</name>
+      <uri>../authors_0/authors_14_Page_1.xml</uri>
+    </author>
+    <published>2009-08-31T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Revell</dcterms:publisher>
+    <category term="BIO018000" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - As he is driving home from a minister's conference, Baptist minister Don Piper collides with a semi-truck that crosses into his lane. He is pronounced dead at the scene. For the next 90 minutes, Piper experiences heaven wher...</summary>
+    <link href="../book_0/book_12.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Allah, Liberty &amp; Love: The Courage to Reconcile Faith and Freedom</title>
-    <id>calibre:book:38</id>
-    <updated>2019-09-02T05:24:39Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Irshad%20Manji/Allah%2C%20Liberty%20%26%20Love_%20The%20Courage%20t%20%2838%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Irshad%20Manji/Allah%2C%20Liberty%20%26%20Love_%20The%20Courage%20t%20%2838%29/Allah%2C%20Liberty%20%26%20Love_%20The%20Cour%20-%20Irshad%20Manji.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <id>calibre:book:69</id>
+    <updated>2019-09-07T08:39:13Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Irshad%20Manji/Allah%2C%20Liberty%20%26%20Love_%20The%20Courage%20t%20%2869%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Irshad%20Manji/Allah%2C%20Liberty%20%26%20Love_%20The%20Courage%20t%20%2869%29/Allah%2C%20Liberty%20%26%20Love_%20The%20Cour%20-%20Irshad%20Manji.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
     <author>
       <name>Irshad Manji</name>
-      <uri>../authors_0/authors_10_Page_1.xml</uri>
+      <uri>../authors_0/authors_62_Page_1.xml</uri>
     </author>
     <published>2011-06-06T05:00:00Z</published>
     <dcterms:language>en</dcterms:language>
@@ -56,17 +145,79 @@
     <category term="General" />
     <category term="Lang:en" />
     <summary>Sigit Purwadi's Library - "Irshad Manji is the new voice of reform, not only for Islam, but for all religions." — Deepak ChopraThe New York Times bestselling author to whom Oprah gave her first ever Chutzpah Award, Irshad Manji has written a book tha...</summary>
-    <link href="../book_0/book_38.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <link href="../book_0/book_69.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Anggukan Ritmis Kaki Pak Kiai (Republish)</title>
+    <id>calibre:book:58</id>
+    <updated>2019-09-07T08:38:45Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Anggukan%20Ritmis%20Kaki%20Pak%20Kiai%20%28Repub%20%2858%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Anggukan%20Ritmis%20Kaki%20Pak%20Kiai%20%28Repub%20%2858%29/Anggukan%20Ritmis%20Kaki%20Pak%20Kiai%20%28%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Emha Ainun Nadjib</name>
+      <uri>../authors_0/authors_32_Page_1.xml</uri>
+    </author>
+    <published>2018-02-26T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
+    <category term="Philosophy" />
+    <category term="Religious" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library -  Di sebuah pesantren, ada dua orang kiai yang berdebat tentang hukum kesenian. Salah seorang dari mereka bersikeras bahwa kesenian itu syirik, bahkan haram. Para santri menyaksikan perdebatan itu dengan hati berdebar. Dari k...</summary>
+    <link href="../book_0/book_58.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Art of Data Science</title>
+    <id>calibre:book:49</id>
+    <updated>2019-09-07T08:38:20Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Roger%20Peng/The%20Art%20of%20Data%20Science%20%2849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Roger%20Peng/The%20Art%20of%20Data%20Science%20%2849%29/The%20Art%20of%20Data%20Science%20-%20Roger%20Peng.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
+    <author>
+      <name>Roger Peng</name>
+      <uri>../authors_0/authors_71_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Elizabeth Matsui</name>
+      <uri>../authors_0/authors_49_Page_1.xml</uri>
+    </author>
+    <published>2016-06-07T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>lulu.com</dcterms:publisher>
+    <category term="Business &amp; Economics" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - This book describes, simply and in general terms, the process of analyzing data. The authors have extensive experience both managing data analysts and conducting their own data analyses, and have carefully observed what prod...</summary>
+    <link href="../book_0/book_49.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Art of War</title>
+    <id>calibre:book:28</id>
+    <updated>2019-09-07T08:37:28Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Sun%20Tzu/The%20Art%20of%20War%20%2828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Sun%20Tzu/The%20Art%20of%20War%20%2828%29/The%20Art%20of%20War%20-%20Sun%20Tzu.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="444 KB" />
+    <author>
+      <name>Sun Tzu</name>
+      <uri>../authors_0/authors_30_Page_1.xml</uri>
+    </author>
+    <published>2008-09-14T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <category term="Non-Fiction" />
+    <category term="Human Science" />
+    <category term="Philosophy" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - The Art of War is a Chinese military treatise that was written during the 6th century BC by Sun Tzu. Composed of 13 chapters, each of which is devoted to one aspect of warfare, it has long been praised as the definitive work...</summary>
+    <link href="../book_0/book_28.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Asbunayah</title>
-    <id>calibre:book:56</id>
-    <updated>2019-09-02T06:18:34Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Asbunayah%20%2856%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Asbunayah%20%2856%29/Asbunayah%20-%20Pidi%20Baiq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="7 MB" />
+    <id>calibre:book:57</id>
+    <updated>2019-09-07T08:38:43Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Asbunayah%20%2857%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Asbunayah%20%2857%29/Asbunayah%20-%20Pidi%20Baiq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="7 MB" />
     <author>
       <name>Pidi Baiq</name>
-      <uri>../authors_0/authors_13_Page_1.xml</uri>
+      <uri>../authors_0/authors_23_Page_1.xml</uri>
     </author>
     <published>2017-10-05T05:00:00Z</published>
     <dcterms:language>in</dcterms:language>
@@ -75,18 +226,55 @@
     <category term="Humorous" />
     <category term="General" />
     <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - "Bukan Tuhan yang harus kau cari, tetapi jawaban mengapa kamu bodoh mencari yang sudah bersamamu." "Kalau Kehidupan ini Palsu, mengapa uangnya harus asli? Saya hanya butuh penjelasan." Jika doa bukan sebuah Permintaan, setid...</summary>
-    <link href="../book_0/book_56.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Sigit Purwadi's Library - "Bukan Tuhan yang harus kau cari, tetpi jawaban mengapa kamu bodoh mencari yang sudah bersamamu." "Kalau Kehidupan ini Palsu, mengapa uangnya harus asli? Saya hanya butuh penjelasan." Jika doa bukan sebuah Permintaan, setida...</summary>
+    <link href="../book_0/book_57.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Atheis</title>
+    <id>calibre:book:9</id>
+    <updated>2019-09-07T08:36:39Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Achdiat%20K.%20Mihardja/Atheis%20%289%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Achdiat%20K.%20Mihardja/Atheis%20%289%29/Atheis%20-%20Achdiat%20K.%20Mihardja.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="222 KB" />
+    <author>
+      <name>Achdiat K. Mihardja</name>
+      <uri>../authors_0/authors_77_Page_1.xml</uri>
+    </author>
+    <published>1972-09-14T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>University of Queensland Press</dcterms:publisher>
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library -</summary>
+    <link href="../book_0/book_9.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Balada Gathak-Gathuk</title>
+    <id>calibre:book:53</id>
+    <updated>2019-09-07T08:38:31Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Sujiwo%20Tejo/Balada%20Gathak-Gathuk%20%2853%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Sujiwo%20Tejo/Balada%20Gathak-Gathuk%20%2853%29/Balada%20Gathak-Gathuk%20-%20Sujiwo%20Tejo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Sujiwo Tejo</name>
+      <uri>../authors_0/authors_19_Page_1.xml</uri>
+    </author>
+    <published>2016-05-01T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
+    <category term="Young Adult Nonfiction" />
+    <category term="Social Science" />
+    <category term="General" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Gathak dan Gathuk kelimpungan. Tanah Air mereka, Giri, telah tumpas diganyang Mataram. Bahkan junjungan mereka pun, Raden Jayengresmi-keturunan Sunan Giri Perapen-pergi entah ke mana.Gathak dan Gathuk galau. Mereka tak tahu ...</summary>
+    <link href="../book_0/book_53.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Buat Apa Shalat?!</title>
-    <id>calibre:book:40</id>
-    <updated>2019-09-02T05:24:44Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Buat%20Apa%20Shalat_%21%20%2840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Buat%20Apa%20Shalat_%21%20%2840%29/Buat%20Apa%20Shalat_%21%20-%20Haidar%20Bagir.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="476 KB" />
+    <id>calibre:book:47</id>
+    <updated>2019-09-07T08:38:15Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Buat%20Apa%20Shalat_%21%20%2847%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Buat%20Apa%20Shalat_%21%20%2847%29/Buat%20Apa%20Shalat_%21%20-%20Haidar%20Bagir.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="476 KB" />
     <author>
       <name>Haidar Bagir</name>
-      <uri>../authors_0/authors_12_Page_1.xml</uri>
+      <uri>../authors_0/authors_46_Page_1.xml</uri>
     </author>
     <published>2006-02-28T05:00:00Z</published>
     <dcterms:language>in</dcterms:language>
@@ -95,18 +283,35 @@
     <category term="Islam" />
     <category term="Rituals &amp; Practice" />
     <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - SHALAT, secara harfiah, berarti doa. Dalam konteks ini, yang dimaksud shalat adalah doa yang disampaikan dengan tata cara (syarat dan rukun) yang khas dalam bentuk bacaan-bacaan dan gerakan-gerakan tertentu.Dalam bahasa syar...</summary>
-    <link href="../book_0/book_40.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Sigit Purwadi's Library - SHALAT, secara harfiah, berarti doa. Dalam konteks ini, yang dimaksud shalat adalah doa yang disampaikan dengan tata cara?syarat dan rukun?yang khas dalam bentuk bacaanbacaan dan gerakan-gerakan tertentu.ÿDalam bahasa syaria...</summary>
+    <link href="../book_0/book_47.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Buddha's Brain</title>
+    <id>calibre:book:19</id>
+    <updated>2019-09-07T08:37:03Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Rick%20Hanson/Buddha%27s%20Brain%20%2819%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Rick%20Hanson/Buddha%27s%20Brain%20%2819%29/Buddha%27s%20Brain%20-%20Rick%20Hanson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Rick Hanson</name>
+      <uri>../authors_0/authors_21_Page_1.xml</uri>
+    </author>
+    <published>2010-06-30T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>New Harbinger Publications</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - In Buddha's Brain, a clinical psychologist and a senior neurologist explain how the brain benefits from contemplative practice and show readers how to develop greater happiness, love, and wisdom by drawing from breakthroughs...</summary>
+    <link href="../book_0/book_19.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>BUMI MANUSIA</title>
     <id>calibre:book:33</id>
-    <updated>2019-09-02T05:22:33Z</updated>
+    <updated>2019-09-07T08:37:41Z</updated>
     <link href="http://repo.purwadi.web.id/ebook/Pramoedya%20Ananta%20Toer/BUMI%20MANUSIA%20%2833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="http://repo.purwadi.web.id/ebook/Pramoedya%20Ananta%20Toer/BUMI%20MANUSIA%20%2833%29/BUMI%20MANUSIA%20-%20Pramoedya%20Ananta%20Toer.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="595 KB" />
     <author>
       <name>Pramoedya Ananta Toer</name>
-      <uri>../authors_0/authors_6_Page_1.xml</uri>
+      <uri>../authors_0/authors_34_Page_1.xml</uri>
     </author>
     <published>2002-09-30T05:00:00Z</published>
     <dcterms:language>in</dcterms:language>
@@ -114,40 +319,40 @@
     <category term="Fiction" />
     <category term="Historical" />
     <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Buku ini bercerita tentang perjalanan seorang tokoh bernama Minke. Minke adalah salah satu anak pribumi yang sekolah di HBS. Pada masa itu, yang dapat masuk ke sekolah HBS adalah orang-orang keturunan Eropa. Minke adalah seo...</summary>
+    <summary>Sigit Purwadi's Library - Buku ini bercerita tentang perjalanan seorang tokoh bernama Minke. Minke adalah salah satu anak pribumi yang sekolah di HBS. Pada masa itu, yang dapat masuk ke sekolah HBS adalah orang-orang keturunan Eropa. Minke adalah seo...</summary>
     <link href="../book_0/book_33.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Dilan: Dia Adalah Dilanku Tahun 1990</title>
-    <id>calibre:book:52</id>
-    <updated>2019-09-02T06:03:58Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan_%20Dia%20Adalah%20Dilanku%20Tahun%201990%20%2852%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan_%20Dia%20Adalah%20Dilanku%20Tahun%201990%20%2852%29/Dilan_%20Dia%20Adalah%20Dilanku%20Tahun%20-%20Pidi%20Baiq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <id>calibre:book:41</id>
+    <updated>2019-09-07T08:38:01Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan_%20Dia%20Adalah%20Dilanku%20Tahun%201990%20%2841%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan_%20Dia%20Adalah%20Dilanku%20Tahun%201990%20%2841%29/Dilan_%20Dia%20Adalah%20Dilanku%20Tahun%20-%20Pidi%20Baiq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Pidi Baiq</name>
-      <uri>../authors_0/authors_13_Page_1.xml</uri>
+      <uri>../authors_0/authors_23_Page_1.xml</uri>
     </author>
     <published>2014-09-14T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
+    <dcterms:language>en</dcterms:language>
     <dcterms:publisher>PastelBooks</dcterms:publisher>
     <category term="Fiction" />
     <category term="General" />
     <category term="Juvenile Fiction" />
     <category term="Humorous Stories" />
     <category term="Love &amp; Romance" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - "Milea, kamu cantik, tapi aku belum mencintaimu. Enggak tahu kalau sore.Tunggu aja." (Dilan 1990)"Milea, jangan pernah bilang ke aku ada yang menyakitimu, nanti, besoknya, orang itu akan hilang." (Dilan 1990)"Cinta sejati ad...</summary>
-    <link href="../book_0/book_52.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - "Milea, kamu cantik, tapi aku belum mencintaimu. Enggak tahu kalau sore.Tunggu aja." (Dilan 1990)"Milea, jangan pernah bilang ke aku ada yang menyakitimu, nanti, besoknya, orang itu akan hilang." (Dilan 1990)"Cinta sejati ad...</summary>
+    <link href="../book_0/book_41.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Dilan 2: Dia Adalah Dilanku Tahun 1991</title>
-    <id>calibre:book:41</id>
-    <updated>2019-09-02T05:24:46Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan%202_%20Dia%20Adalah%20Dilanku%20Tahun%2019%20%2841%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan%202_%20Dia%20Adalah%20Dilanku%20Tahun%2019%20%2841%29/Dilan%202_%20Dia%20Adalah%20Dilanku%20Tah%20-%20Pidi%20Baiq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
+    <id>calibre:book:64</id>
+    <updated>2019-09-07T08:39:00Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan%202_%20Dia%20Adalah%20Dilanku%20Tahun%2019%20%2864%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan%202_%20Dia%20Adalah%20Dilanku%20Tahun%2019%20%2864%29/Dilan%202_%20Dia%20Adalah%20Dilanku%20Tah%20-%20Pidi%20Baiq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
     <author>
       <name>Pidi Baiq</name>
-      <uri>../authors_0/authors_13_Page_1.xml</uri>
+      <uri>../authors_0/authors_23_Page_1.xml</uri>
     </author>
     <published>2015-08-05T05:00:00Z</published>
     <dcterms:language>in</dcterms:language>
@@ -158,18 +363,148 @@
     <category term="Humorous Stories" />
     <category term="Love &amp; Romance" />
     <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - "Jika aku berkata bahwa aku mencintainya, maka itu adalah sebuah pernyataan yang sudah cukup lengkap."  -Milea"Senakal-nakalnya anak geng motor, Lia, mereka shalat pada waktu ujian praktek Agama."  -Dilan  @Viny_JKT48  "Aku ...</summary>
-    <link href="../book_0/book_41.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Sigit Purwadi's Library - "Jika aku berkata bahwa aku mencintainya, maka itu adalah sebuah pernyataan yang sudah cukup lengkap."  -Milea "Senakal-nakalnya anak geng motor, Lia, mereka shalat pada waktu ujian praktek Agama."  -Dilan  @Viny_JKT48  "Aku...</summary>
+    <link href="../book_0/book_64.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Flat-Earth Conspiracy</title>
+    <id>calibre:book:72</id>
+    <updated>2019-09-07T08:39:20Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Eric%20Dubay/The%20Flat-Earth%20Conspiracy%20%2872%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Eric%20Dubay/The%20Flat-Earth%20Conspiracy%20%2872%29/The%20Flat-Earth%20Conspiracy%20-%20Eric%20Dubay.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="26 MB" />
+    <author>
+      <name>Eric Dubay</name>
+      <uri>../authors_0/authors_65_Page_1.xml</uri>
+    </author>
+    <published>2014-11-08T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>lulu.com</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - Wolves in sheep's clothing have pulled the wool over our eyes. For almost 500 years, the masses have been thoroughly deceived by a cosmic fairy-tale of astronomical proportions. We have been taught a falsehood so gigantic an...</summary>
+    <link href="../book_0/book_72.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Friedrich Nietzsche, Collection</title>
+    <id>calibre:book:62</id>
+    <updated>2019-09-07T08:38:56Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Friedrich%20Nietzsche/Friedrich%20Nietzsche%2C%20Collection%20%2862%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Friedrich%20Nietzsche/Friedrich%20Nietzsche%2C%20Collection%20%2862%29/Friedrich%20Nietzsche%2C%20Collection%20-%20Friedrich%20Nietzsche.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Friedrich Nietzsche</name>
+      <uri>../authors_0/authors_57_Page_1.xml</uri>
+    </author>
+    <published>2014-06-28T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Createspace Independent Pub</dcterms:publisher>
+    <category term="Essays" />
+    <category term="Philosophy" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - Friedrich Wilhelm Nietzsche (1844 – 1900) was a German philologist, philosopher, cultural critic, poet and composer. He wrote several critical texts on religion, morality, contemporary culture, philosophy and science, displa...</summary>
+    <link href="../book_0/book_62.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Higher Education?: How Colleges Are Wasting Our Money and Failing Our Kids</title>
+    <id>calibre:book:52</id>
+    <updated>2019-09-07T08:38:28Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Andrew%20Hacker/Higher%20Education__%20How%20Colleges%20Are%20%2852%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Andrew%20Hacker/Higher%20Education__%20How%20Colleges%20Are%20%2852%29/Higher%20Education__%20How%20Colleges%20-%20Andrew%20Hacker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="371 KB" />
+    <author>
+      <name>Andrew Hacker</name>
+      <uri>../authors_0/authors_69_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Claudia Dreifus</name>
+      <uri>../authors_0/authors_70_Page_1.xml</uri>
+    </author>
+    <published>2010-08-02T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Henry Holt and Co.</dcterms:publisher>
+    <category term="Education" />
+    <category term="Higher" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - What's gone wrong at our colleges and universities―and how to get American higher education back on trackA quarter of a million dollars. It's the going tab for four years at most top-tier universities. Why does it cost so mu...</summary>
+    <link href="../book_0/book_52.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Homo Deus: A Brief History of Tomorrow</title>
+    <id>calibre:book:56</id>
+    <updated>2019-09-07T08:38:39Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorr%20%2856%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Yuval%20Noah%20Harari/Homo%20Deus_%20A%20Brief%20History%20of%20Tomorr%20%2856%29/Homo%20Deus_%20A%20Brief%20History%20of%20T%20-%20Yuval%20Noah%20Harari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="53 MB" />
+    <author>
+      <name>Yuval Noah Harari</name>
+      <uri>../authors_0/authors_39_Page_1.xml</uri>
+    </author>
+    <published>2016-09-07T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Vintage Digital</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - THE MILLION COPY BESTSELLER  Sapiens shows us where we came from. Homo Deus shows us where we’re going.Yuval Noah Harari envisions a near future in which we face a new set of challenges. Homo Deus explores the projects, drea...</summary>
+    <link href="../book_0/book_56.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>How to Think More About Sex</title>
+    <id>calibre:book:8</id>
+    <updated>2019-09-07T08:36:37Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Alain%20de%20Botton/How%20to%20Think%20More%20About%20Sex%20%288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Alain%20de%20Botton/How%20to%20Think%20More%20About%20Sex%20%288%29/How%20to%20Think%20More%20About%20Sex%20-%20Alain%20de%20Botton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
+    <author>
+      <name>Alain de Botton</name>
+      <uri>../authors_0/authors_11_Page_1.xml</uri>
+    </author>
+    <published>2012-12-23T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Picador</dcterms:publisher>
+    <category term="Psychology" />
+    <category term="Human Sexuality" />
+    <category term="Social Psychology" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - THE SCHOOL OF LIFE IS DEDICATED TO EXPLORING LIFE'S BIG QUESTIONS IN HIGHLY-PORTABLE PAPERBACKS, FEATURING FRENCH FLAPS AND DECKLE EDGES, THAT THE NEW YORK TIMES CALLS "DAMNABLY CUTE." WE DON'T HAVE ALL THE ANSWERS, BUT WE W...</summary>
+    <link href="../book_0/book_8.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Introduction to Logic and Critical Thinking</title>
+    <id>calibre:book:5</id>
+    <updated>2019-09-07T08:36:29Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Matthew%20J.%20van%20Cleave/Introduction%20to%20Logic%20and%20Critical%20T%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Matthew%20J.%20van%20Cleave/Introduction%20to%20Logic%20and%20Critical%20T%20%285%29/Introduction%20to%20Logic%20and%20Criti%20-%20Matthew%20J.%20van%20Cleave.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="8 MB" />
+    <author>
+      <name>Matthew J. van Cleave</name>
+      <uri>../authors_0/authors_79_Page_1.xml</uri>
+    </author>
+    <published>2016-09-14T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - "This is an introductory textbook in logic and critical thinking. The goal of the textbook is to provide the reader with a set of tools and skills that will enable them to identify and evaluate arguments. The book is intende...</summary>
+    <link href="../book_0/book_5.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Islam: A Short History</title>
+    <id>calibre:book:60</id>
+    <updated>2019-09-07T08:38:50Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Karen%20Armstrong/Islam_%20A%20Short%20History%20%2860%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Karen%20Armstrong/Islam_%20A%20Short%20History%20%2860%29/Islam_%20A%20Short%20History%20-%20Karen%20Armstrong.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="597 KB" />
+    <author>
+      <name>Karen Armstrong</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>2007-12-17T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Modern Library</dcterms:publisher>
+    <category term="Non Fiction" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - No religion in the modern world is as feared and misunderstood as Islam. It haunts the popular Western imagination as an extreme faith that promotes authoritarian government, female oppression, civil war, and terrorism. Kare...</summary>
+    <link href="../book_0/book_60.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
     <title>Jodohku Maunya Sih Kamu: Ngaji Bareng Ust. Wijayanto</title>
-    <id>calibre:book:42</id>
-    <updated>2019-09-02T05:24:49Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20Baren%20%2842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20Baren%20%2842%29/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20-%20Ustadz%20Wijayanto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <id>calibre:book:29</id>
+    <updated>2019-09-07T08:37:30Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20Baren%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20Baren%20%2829%29/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20-%20Ustadz%20Wijayanto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
     <author>
       <name>Ustadz Wijayanto</name>
-      <uri>../authors_0/authors_22_Page_1.xml</uri>
+      <uri>../authors_0/authors_75_Page_1.xml</uri>
     </author>
     <published>2016-01-19T05:00:00Z</published>
     <dcterms:language>in</dcterms:language>
@@ -182,355 +517,8 @@
     <category term="Love &amp; Romance" />
     <category term="Islam Populer" />
     <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Ya Rasulullah, kenapa kau jodohkan aku dengan Bilal? Aku ingin bersuamikan lelaki yang sedang berazan itu. Suaranya bagus sekali, pasti orangnya pun saleh. Ya, itu Bilal.  Itulah sepenggal kisah yang menjadi ilustrasi dalam ...</summary>
-    <link href="../book_0/book_42.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Kalau Cinta Jangan Pacaran - Ngaji Bareng Ust. Wijayanto (Snackbook)</title>
-    <id>calibre:book:44</id>
-    <updated>2019-09-02T05:24:53Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Kalau%20Cinta%20Jangan%20Pacaran%20-%20Ngaji%20B%20%2844%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Kalau%20Cinta%20Jangan%20Pacaran%20-%20Ngaji%20B%20%2844%29/Kalau%20Cinta%20Jangan%20Pacaran%20-%20Ng%20-%20Ustadz%20Wijayanto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Ustadz Wijayanto</name>
-      <uri>../authors_0/authors_22_Page_1.xml</uri>
-    </author>
-    <published>2016-10-12T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Noura e-Lite</dcterms:publisher>
-    <category term="Religion" />
-    <category term="Islam" />
-    <category term="Rituals &amp; Practice" />
-    <category term="Islam Populer" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Cinta adalah suatu perasaan yang lumrah dirasakan oleh siapa pun. Karena itu, wajar pula bila muncul ungkapan bahwa semua orang berhak untuk jatuh cinta. Namun masalahnya, tidak semua cinta yang datang merupakan cinta yang b...</summary>
-    <link href="../book_0/book_44.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Kisah Tanah Jawa</title>
-    <id>calibre:book:28</id>
-    <updated>2019-09-02T05:22:22Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/%40kisahtanahjawa/Kisah%20Tanah%20Jawa%20%2828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/%40kisahtanahjawa/Kisah%20Tanah%20Jawa%20%2828%29/Kisah%20Tanah%20Jawa%20-%20%40kisahtanahjawa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="219 KB" />
-    <author>
-      <name>@kisahtanahjawa</name>
-      <uri>../authors_0/authors_1_Page_1.xml</uri>
-    </author>
-    <published>2018-12-31T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>GagasMedia</dcterms:publisher>
-    <category term="Fiction" />
-    <category term="Horror" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - “Kenapa mobilnya, Pak?” “Nggak tahu nih, Bu. Biar bapak cek dulu, ya.”Kondisi jalan pukul 7 malam itu sangat sepi, hanya ada mobil tersebut ditemani suara jangkrik. Bapak itu mencoba men-starter mobilnya dengan keadaan kap m...</summary>
-    <link href="../book_0/book_28.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>KonMari™ Mengubah Hidupku</title>
-    <id>calibre:book:29</id>
-    <updated>2019-09-02T05:22:24Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Khoirun%20Nikmah/KonMariTM%20Mengubah%20Hidupku%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Khoirun%20Nikmah/KonMariTM%20Mengubah%20Hidupku%20%2829%29/KonMariTM%20Mengubah%20Hidupku%20-%20Khoirun%20Nikmah.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
-    <author>
-      <name>Khoirun Nikmah</name>
-      <uri>../authors_0/authors_2_Page_1.xml</uri>
-    </author>
-    <published>2018-09-27T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
-    <category term="Self-Help" />
-    <category term="Motivational &amp; Inspirational" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Marie Kondo, seorang konsultan berbenah asal Jepang, memperkenalkan metode merapikan yang ampuh tiada duanya, KonMari. Keampuhan metode ini makin marak dirasakan di Indonesia, tepatnya setelah buku The Life-Changing Magic of...</summary>
+    <summary>Sigit Purwadi's Library - Ya Rasulullah, kenapa kau jodohkan aku dengan Bilal? Aku ingin bersuamikan lelaki yang sedang berazan itu. Suaranya bagus sekali, pasti orangnya pun saleh.Ya, itu Bilal.  Itulah sepenggal kisah yang menjadi ilustrasi dalam b...</summary>
     <link href="../book_0/book_29.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
-  <entry>
-    <title>La Tahzan: Jangan Bersedih!</title>
-    <id>calibre:book:46</id>
-    <updated>2019-09-02T05:24:57Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Dr.%20%27aidh%20Al-Qarni/La%20Tahzan_%20Jangan%20Bersedih%21%20%2846%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Dr.%20%27aidh%20Al-Qarni/La%20Tahzan_%20Jangan%20Bersedih%21%20%2846%29/La%20Tahzan_%20Jangan%20Bersedih%21%20-%20Dr.%20%27aidh%20Al-Qarni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="425 KB" />
-    <author>
-      <name>Dr. ‘aidh Al-Qarni</name>
-      <uri>../authors_0/authors_21_Page_1.xml</uri>
-    </author>
-    <published>2016-04-24T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Qisthi Press</dcterms:publisher>
-    <category term="Body; Mind &amp; Spirit" />
-    <category term="Inspiration &amp; Personal Growth" />
-    <category term="Psychology" />
-    <category term="Developmental" />
-    <category term="General" />
-    <category term="Self-Help" />
-    <category term="Motivational &amp; Inspirational" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Sebagai salah satu buku kategori pencerahan hati (an-nafsu al muthma`innah), Lâ Tahzan menawarkan terapi yang lebih dekat dengan al-Qur`an dan Sunah, ketimbang renungan-renungan reflektif semata. Lâ Tahzan menjadi buku terla...</summary>
-    <link href="../book_0/book_46.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Markesot Bertutur Lagi</title>
-    <id>calibre:book:47</id>
-    <updated>2019-09-02T05:24:59Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Markesot%20Bertutur%20Lagi%20%2847%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Markesot%20Bertutur%20Lagi%20%2847%29/Markesot%20Bertutur%20Lagi%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Emha Ainun Nadjib</name>
-      <uri>../authors_0/authors_4_Page_1.xml</uri>
-    </author>
-    <published>2012-08-31T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
-    <category term="Literary Collections" />
-    <category term="General" />
-    <category term="Juvenile Nonfiction" />
-    <category term="Social Science" />
-    <category term="Sociology" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Markesot adalah sosok lugu nan cerdas, mbeling, terkadang misterius. Dalam kesehariannya dengan sahabat-sahabatnya, Markembloh, Markasan, Markemon, dan lain-lain yang tergabung dalam Konsorsium Para Mbambung (KPMb), Markesot...</summary>
-    <link href="../book_0/book_47.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Milea: Suara Dari Dilan</title>
-    <id>calibre:book:48</id>
-    <updated>2019-09-02T05:25:01Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Milea_%20Suara%20Dari%20Dilan%20%2848%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Milea_%20Suara%20Dari%20Dilan%20%2848%29/Milea_%20Suara%20Dari%20Dilan%20-%20Pidi%20Baiq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
-    <author>
-      <name>Pidi Baiq</name>
-      <uri>../authors_0/authors_13_Page_1.xml</uri>
-    </author>
-    <published>2016-09-16T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Pastel Books</dcterms:publisher>
-    <category term="Fiction" />
-    <category term="General" />
-    <category term="Juvenile Fiction" />
-    <category term="Love &amp; Romance" />
-    <category term="Young Adult Fiction" />
-    <category term="Humorous" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - "Dilan memberi penggambaran lain dari sebuah penaklukan cinta &amp;amp; bagaimana indahnya cinta sederhana anak zaman dahulu." @refaniris"Cuma satu yang kuinginkan, aku ingin cowok seperti Dilan." @_SLovaFC"Dilan brengsek! Dia s...</summary>
-    <link href="../book_0/book_48.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Modern Romance</title>
-    <id>calibre:book:49</id>
-    <updated>2019-09-02T05:25:04Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Aziz%20Ansari/Modern%20Romance%20%2849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Aziz%20Ansari/Modern%20Romance%20%2849%29/Modern%20Romance%20-%20Aziz%20Ansari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
-    <author>
-      <name>Aziz Ansari</name>
-      <uri>../authors_0/authors_17_Page_1.xml</uri>
-    </author>
-    <author>
-      <name>Eric Klinenberg</name>
-      <uri>../authors_0/authors_18_Page_1.xml</uri>
-    </author>
-    <published>2015-06-15T05:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Penguin</dcterms:publisher>
-    <category term="Humor" />
-    <category term="Topic" />
-    <category term="Men; Women &amp; Relationships" />
-    <category term="Family &amp; Relationships" />
-    <category term="Love &amp; Romance" />
-    <category term="Marriage &amp; Family" />
-    <category term="Lang:en" />
-    <summary>Sigit Purwadi's Library - The #1 New York Times Bestseller  A hilarious, thoughtful, and in-depth exploration of the pleasures and perils of modern romance from Aziz Ansari, the star of Master of None  and one of this generation’s sharpest comedic vo...</summary>
-    <link href="../book_0/book_49.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Ngopi Bareng Denny Siregar: Tuhan Dalam Secangkir Kopi</title>
-    <id>calibre:book:32</id>
-    <updated>2019-09-02T05:22:31Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Denny%20Siregar/Ngopi%20Bareng%20Denny%20Siregar_%20Tuhan%20Da%20%2832%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Denny%20Siregar/Ngopi%20Bareng%20Denny%20Siregar_%20Tuhan%20Da%20%2832%29/Ngopi%20Bareng%20Denny%20Siregar_%20Tuh%20-%20Denny%20Siregar.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="752 KB" />
-    <author>
-      <name>Denny Siregar</name>
-      <uri>../authors_0/authors_5_Page_1.xml</uri>
-    </author>
-    <published>2016-06-08T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Noura Books</dcterms:publisher>
-    <category term="Body; Mind &amp; Spirit" />
-    <category term="General" />
-    <category term="Religion" />
-    <category term="Spirituality" />
-    <category term="Tuhan dalam Secangkir Kopi" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Denny Siregar lewat tulisan-tulisannya mengajarkan bagaimana menyampaikan ide tanpa mendoktrin, menyetujui suatu hal tanpa menjatuhkan hal lain, menolak gagasan tanpa menghina, dan yang terpenting, mengajari tanpa menggurui....</summary>
-    <link href="../book_0/book_32.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Orang Maiyah</title>
-    <id>calibre:book:50</id>
-    <updated>2019-09-02T05:25:06Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Orang%20Maiyah%20%2850%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Orang%20Maiyah%20%2850%29/Orang%20Maiyah%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="4 MB" />
-    <author>
-      <name>Emha Ainun Nadjib</name>
-      <uri>../authors_0/authors_4_Page_1.xml</uri>
-    </author>
-    <published>2016-01-07T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
-    <category term="Fiction" />
-    <category term="Urban" />
-    <category term="Juvenile Fiction" />
-    <category term="Social Issues" />
-    <category term="Emotions &amp; Feelings" />
-    <category term="Social Science" />
-    <category term="Popular Culture" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Orang Maiyah adalah orang yang membaca dirinya berulang-ulang, ribuan kali. Di dalam Maiyah tak ada guru dan murid. Semua orang adalah murid, sang penghendak ilmu. Hidup orang Maiyah tidak tergantung kekayaan dan atau kemisk...</summary>
-    <link href="../book_0/book_50.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Psikologi Kematian (Edisi Terbaru Gabungan)</title>
-    <id>calibre:book:51</id>
-    <updated>2019-09-02T05:25:08Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Komaruddin%20Hidayat/Psikologi%20Kematian%20%28Edisi%20Terbaru%20Ga%20%2851%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Komaruddin%20Hidayat/Psikologi%20Kematian%20%28Edisi%20Terbaru%20Ga%20%2851%29/Psikologi%20Kematian%20%28Edisi%20Terba%20-%20Komaruddin%20Hidayat.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
-    <author>
-      <name>Komaruddin Hidayat</name>
-      <uri>../authors_0/authors_20_Page_1.xml</uri>
-    </author>
-    <published>2016-01-15T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Noura Books</dcterms:publisher>
-    <category term="Religion" />
-    <category term="Islam" />
-    <category term="General" />
-    <category term="Social Science" />
-    <category term="Islamic Studies" />
-    <category term="Islam Populer" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Memandang kematian sebagai peristiwa yang mengerikan dan menakutkan adalah pilihan yang justru menyakitkan.Kematian, sebagaimana juga kehidupan, adalah anugerah Tuhan. Setiap saat kita berjalan menuju pintu kematian. Kita me...</summary>
-    <link href="../book_0/book_51.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Rahvayana 2: Ada Yang Tiada</title>
-    <id>calibre:book:37</id>
-    <updated>2019-09-02T05:24:37Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Sujiwo%20Tejo/Rahvayana%202_%20Ada%20Yang%20Tiada%20%2837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Sujiwo%20Tejo/Rahvayana%202_%20Ada%20Yang%20Tiada%20%2837%29/Rahvayana%202_%20Ada%20Yang%20Tiada%20-%20Sujiwo%20Tejo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="36 MB" />
-    <author>
-      <name>Sujiwo Tejo</name>
-      <uri>../authors_0/authors_9_Page_1.xml</uri>
-    </author>
-    <published>2015-02-13T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
-    <category term="Juvenile Fiction" />
-    <category term="Toys; Dolls &amp; Puppets" />
-    <category term="Literary Collections" />
-    <category term="Asian" />
-    <category term="General" />
-    <category term="Fiction" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Sinta berubah. Namanya jadi Janaki. Janaki pun berubah. Namanya jadi Waidehi. Tapi, Rahwana tetap mencintainya. Rahwana tetap menjunjungnya, menyembahnya. Terhadap titisan Dewi Widowati itu ia tak menyembah nama. Rahwana men...</summary>
-    <link href="../book_0/book_37.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Sedang Tuhan Pun Cemburu (Republish)</title>
-    <id>calibre:book:31</id>
-    <updated>2019-09-02T05:22:28Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Sedang%20Tuhan%20Pun%20Cemburu%20%28Republish%29%20%2831%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Sedang%20Tuhan%20Pun%20Cemburu%20%28Republish%29%20%2831%29/Sedang%20Tuhan%20Pun%20Cemburu%20%28Repub%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
-    <author>
-      <name>Emha Ainun Nadjib</name>
-      <uri>../authors_0/authors_4_Page_1.xml</uri>
-    </author>
-    <published>2018-06-11T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
-    <category term="Religion" />
-    <category term="Buddhism" />
-    <category term="General" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Salah satu bakat paling besar dalam diri manusia memang menjadi binatang: makhluk tingkat ketiga sesudah benda dan tetumbuhan. Binatang plus akal adalah kita. Binatang plus akal plus tataran-tataran lain dari spiritualisme a...</summary>
-    <link href="../book_0/book_31.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Seni Mencintai Diri Sendiri</title>
-    <id>calibre:book:54</id>
-    <updated>2019-09-02T06:09:30Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Suha%20Hoedi/Seni%20Mencintai%20Diri%20Sendiri%20%2854%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Suha%20Hoedi/Seni%20Mencintai%20Diri%20Sendiri%20%2854%29/Seni%20Mencintai%20Diri%20Sendiri%20-%20Suha%20Hoedi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="2 MB" />
-    <author>
-      <name>Suha Hoedi</name>
-      <uri>../authors_0/authors_26_Page_1.xml</uri>
-    </author>
-    <published>2015-12-31T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>TransMedia</dcterms:publisher>
-    <category term="Self-Help" />
-    <category term="Self-Management" />
-    <category term="General" />
-    <category term="Psychology" />
-    <category term="Personal Growth" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Buku persembahan TransMedia Pustaka ini membahas tip untuk membentuk pribadi yang positif, diawali dengan mengasah kemampuan untuk mencintai diri sendiri. Pembahasan di dalamnya termasuk membenahi pikiran dari penderitaan di...</summary>
-    <link href="../book_0/book_54.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Surat Kepada Kanjeng Nabi</title>
-    <id>calibre:book:36</id>
-    <updated>2019-09-02T05:24:34Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Surat%20Kepada%20Kanjeng%20Nabi%20%2836%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Surat%20Kepada%20Kanjeng%20Nabi%20%2836%29/Surat%20Kepada%20Kanjeng%20Nabi%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="956 KB" />
-    <author>
-      <name>Emha Ainun Nadjib</name>
-      <uri>../authors_0/authors_4_Page_1.xml</uri>
-    </author>
-    <published>2015-08-06T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
-    <category term="Literary Collections" />
-    <category term="General" />
-    <category term="Poetry" />
-    <category term="Asian" />
-    <category term="Religion" />
-    <category term="Islam" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Di negeri kami ini, umatmu berjumlah terbanyak dari penduduknya. Di negeri ini, kami punya Muhammadiyah, punya NU, Persis, punya ulama-ulama dan MUI, ICMI, punya bank, punya HMI, PMII, IMM, Anshor, Pemuda Muhammadiyah, IPM, ...</summary>
-    <link href="../book_0/book_36.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>A Visit to Java With an Account of the Founding of Singapore</title>
-    <id>calibre:book:35</id>
-    <updated>2019-09-02T05:24:32Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/William%20Basil%20Worsfold/A%20Visit%20to%20Java%20With%20an%20Account%20of%20t%20%2835%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/William%20Basil%20Worsfold/A%20Visit%20to%20Java%20With%20an%20Account%20of%20t%20%2835%29/A%20Visit%20to%20Java%20With%20an%20Account%20-%20William%20Basil%20Worsfold.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="842 KB" />
-    <author>
-      <name>William Basil Worsfold</name>
-      <uri>../authors_0/authors_23_Page_1.xml</uri>
-    </author>
-    <published>2011-09-15T05:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Hansebooks</dcterms:publisher>
-    <category term="Lang:en" />
-    <summary>Sigit Purwadi's Library - This is a reproduction of a book published before 1923. This book may have occasional imperfections such as missing or blurred pages, poor pictures, errant marks, etc. that were either part of the original artifact, or were ...</summary>
-    <link href="../book_0/book_35.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>With the Dyaks of Borneo: A Tale of the Head Hunters</title>
-    <id>calibre:book:34</id>
-    <updated>2019-09-02T05:24:30Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Frederick%20Sadlier%20Brereton/With%20the%20Dyaks%20of%20Borneo_%20A%20Tale%20of%20%2834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Frederick%20Sadlier%20Brereton/With%20the%20Dyaks%20of%20Borneo_%20A%20Tale%20of%20%2834%29/With%20the%20Dyaks%20of%20Borneo_%20A%20Tal%20-%20Frederick%20Sadlier%20Brereton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="965 KB" />
-    <author>
-      <name>Frederick Sadlier Brereton</name>
-      <uri>../authors_0/authors_24_Page_1.xml</uri>
-    </author>
-    <published>2009-08-09T05:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Cornell University Library</dcterms:publisher>
-    <category term="History" />
-    <category term="General" />
-    <category term="Lang:en" />
-    <summary>Sigit Purwadi's Library - This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original...</summary>
-    <link href="../book_0/book_34.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
+  <link href="../allbooks/allbooks_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (3 of 3)" />
 </feed>

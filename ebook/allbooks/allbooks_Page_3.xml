@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>All books</title>
+  <id>Calibre2opds:allbooks</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="All books" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>The Relations Between Religion and Science Eight Lectures Preached Before the University of Oxford in the Year 1884</title>
+    <id>calibre:book:48</id>
+    <updated>2019-09-07T08:38:17Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Frederick%20Temple/The%20Relations%20Between%20Religion%20and%20S%20%2848%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Frederick%20Temple/The%20Relations%20Between%20Religion%20and%20S%20%2848%29/The%20Relations%20Between%20Religion%20-%20Frederick%20Temple.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="172 KB" />
+    <author>
+      <name>Frederick Temple</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>2006-11-02T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>tredition</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - This book is part of the TREDITION CLASSICS series. The creators of this series are united by passion for literature and driven by the intention of making all public domain books available in printed format again - worldwide...</summary>
+    <link href="../book_0/book_48.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Salt: The Essential Guide to Cooking With the Most Important Ingredient in Your Kitchen</title>
+    <id>calibre:book:50</id>
+    <updated>2019-09-07T08:38:23Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Leslie%20Bilderback/Salt_%20The%20Essential%20Guide%20to%20Cooking%20%2850%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Leslie%20Bilderback/Salt_%20The%20Essential%20Guide%20to%20Cooking%20%2850%29/Salt_%20The%20Essential%20Guide%20to%20Co%20-%20Leslie%20Bilderback.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="40 MB" />
+    <author>
+      <name>Leslie Bilderback</name>
+      <uri>../authors_0/authors_50_Page_1.xml</uri>
+    </author>
+    <published>2016-09-05T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>St. Martin's Press</dcterms:publisher>
+    <category term="Cooking" />
+    <category term="Specific Ingredients" />
+    <category term="Herbs; Spices; Condiments" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - Salt has been an essential dining element since the invention of the kitchen table. But today, specialty salts come in a vast variety of forms and flavors. Smokey salts, salts infused with clay or charcoal, herby and spicy s...</summary>
+    <link href="../book_0/book_50.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sapiens: Sejarah Ringkas Umat Manusia dari Zaman Batu hingga Perkiraan Kepunahannya</title>
+    <id>calibre:book:37</id>
+    <updated>2019-09-07T08:37:51Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Yuval%20Noah%20Harari/Sapiens_%20Sejarah%20Ringkas%20Umat%20Manusi%20%2837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Yuval%20Noah%20Harari/Sapiens_%20Sejarah%20Ringkas%20Umat%20Manusi%20%2837%29/Sapiens_%20Sejarah%20Ringkas%20Umat%20M%20-%20Yuval%20Noah%20Harari.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
+    <author>
+      <name>Yuval Noah Harari</name>
+      <uri>../authors_0/authors_39_Page_1.xml</uri>
+    </author>
+    <published>2017-06-30T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Pustaka Alvabet</dcterms:publisher>
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Planet Bumi telah berusia 4,5 miliar tahun. Namun, hanya dalam waktu  singkat, satu spesies di antara banyak spesies lain telah menaklukkannya.  Seratus ribu tahun silam, setidaknya ada enam spesies manusia yang  menghuni Bu...</summary>
+    <link href="../book_0/book_37.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sedang Tuhan Pun Cemburu (Republish)</title>
+    <id>calibre:book:38</id>
+    <updated>2019-09-07T08:37:54Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Sedang%20Tuhan%20Pun%20Cemburu%20%28Republish%29%20%2838%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Sedang%20Tuhan%20Pun%20Cemburu%20%28Republish%29%20%2838%29/Sedang%20Tuhan%20Pun%20Cemburu%20%28Repub%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Emha Ainun Nadjib</name>
+      <uri>../authors_0/authors_32_Page_1.xml</uri>
+    </author>
+    <published>2018-06-11T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Bentang Pustaka</dcterms:publisher>
+    <category term="Religion" />
+    <category term="Buddhism" />
+    <category term="General" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Salah satu bakat paling besar dalam diri manusia memang menjadi binatang: makhluk tingkat ketiga sesudah benda dan tetumbuhan. Binatang plus akal adalah kita. Binatang plus akal plus tataran-tataran lain dari spiritualisme a...</summary>
+    <link href="../book_0/book_38.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Seeking Allah, Finding Jesus: A Devout Muslim Encounters Christianity</title>
+    <id>calibre:book:6</id>
+    <updated>2019-09-07T08:36:32Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Nabeel%20Qureshi/Seeking%20Allah%2C%20Finding%20Jesus_%20A%20Devo%20%286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Nabeel%20Qureshi/Seeking%20Allah%2C%20Finding%20Jesus_%20A%20Devo%20%286%29/Seeking%20Allah%2C%20Finding%20Jesus_%20A%20-%20Nabeel%20Qureshi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="379 KB" />
+    <author>
+      <name>Nabeel Qureshi</name>
+      <uri>../authors_0/authors_78_Page_1.xml</uri>
+    </author>
+    <published>2016-04-18T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Zondervan</dcterms:publisher>
+    <category term="Biography &amp; Autobiography" />
+    <category term="Religious" />
+    <category term="Religion" />
+    <category term="Christian Theology" />
+    <category term="Apologetics" />
+    <category term="Comparative Religion" />
+    <category term="ebook" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - In  Seeking Allah, Finding Jesus, now expanded with bonus content, Nabeel Qureshi describes his dramatic journey from Islam to Christianity, complete with friendships, investigations, and supernatural dreams along the way.Pr...</summary>
+    <link href="../book_0/book_6.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sejarah Tuhan: Kisah 4.000 Tahun Pencarian Tuhan Dalam Agama-Agama Manusia</title>
+    <id>calibre:book:61</id>
+    <updated>2019-09-07T08:38:53Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Karen%20Armstrong/Sejarah%20Tuhan_%20Kisah%204.000%20Tahun%20Pen%20%2861%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Karen%20Armstrong/Sejarah%20Tuhan_%20Kisah%204.000%20Tahun%20Pen%20%2861%29/Sejarah%20Tuhan_%20Kisah%204.000%20Tahu%20-%20Karen%20Armstrong.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Karen Armstrong</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>2014-10-07T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
+    <category term="Religion" />
+    <category term="Comparative Religion" />
+    <category term="Juvenile Nonfiction" />
+    <category term="General" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Sejarah Tuhan adalah kajian lengkap tentang Tuhan yang paling populer sejak publikasi pertamanya pada dekade terakhir abad ke-20. Ditulis oleh Karen Armstrong, komentator masalah agama terkemuka asal Inggris, buku ini melaca...</summary>
+    <link href="../book_0/book_61.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Seni Mencintai Diri Sendiri</title>
+    <id>calibre:book:32</id>
+    <updated>2019-09-07T08:37:39Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Suha%20Hoedi/Seni%20Mencintai%20Diri%20Sendiri%20%2832%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Suha%20Hoedi/Seni%20Mencintai%20Diri%20Sendiri%20%2832%29/Seni%20Mencintai%20Diri%20Sendiri%20-%20Suha%20Hoedi.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="2 MB" />
+    <author>
+      <name>Suha Hoedi</name>
+      <uri>../authors_0/authors_33_Page_1.xml</uri>
+    </author>
+    <published>2015-12-31T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>TransMedia</dcterms:publisher>
+    <category term="Self-Help" />
+    <category term="Self-Management" />
+    <category term="General" />
+    <category term="Psychology" />
+    <category term="Personal Growth" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Buku persembahan TransMedia Pustaka ini membahas tip untuk membentuk pribadi yang positif, diawali dengan mengasah kemampuan untuk mencintai diri sendiri. Pembahasan di dalamnya termasuk membenahi pikiran dari penderitaan di...</summary>
+    <link href="../book_0/book_32.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Setengah Jalan</title>
+    <id>calibre:book:65</id>
+    <updated>2019-09-07T08:39:03Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Ernest%20Prakasa/Setengah%20Jalan%20%2865%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Ernest%20Prakasa/Setengah%20Jalan%20%2865%29/Setengah%20Jalan%20-%20Ernest%20Prakasa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
+    <author>
+      <name>Ernest Prakasa</name>
+      <uri>../authors_0/authors_59_Page_1.xml</uri>
+    </author>
+    <published>2017-10-04T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Bentang B first</dcterms:publisher>
+    <category term="Self-Help" />
+    <category term="Affirmations" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Gue mendukung kebebasan berekspresi di YouTube, termasuk bagi orang yang kontroversial kayak Young Lex. Orang sering bilang ke gue, "Tapi Nest, Young Lex itu nggak mendidik!" Kalau digituin, gue cuma jawab, "Sejak kapan mend...</summary>
+    <link href="../book_0/book_65.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Spiritualitas Tanpa Tuhan</title>
+    <id>calibre:book:10</id>
+    <updated>2019-09-07T08:36:41Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Andre%20Comte-Sponville/Spiritualitas%20Tanpa%20Tuhan%20%2810%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Andre%20Comte-Sponville/Spiritualitas%20Tanpa%20Tuhan%20%2810%29/Spiritualitas%20Tanpa%20Tuhan%20-%20Andre%20Comte-Sponville.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1017 KB" />
+    <author>
+      <name>André Comte-Sponville</name>
+      <uri>../authors_0/authors_13_Page_1.xml</uri>
+    </author>
+    <published>2007-12-02T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Pustaka Alvabet</dcterms:publisher>
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Bisakah kita hidup tanpa agama? Dapatkah  kita beretika tanpa Tuhan? Atau, adakah sesuatu yang disebut  “spiritualitas ateis”? Dalam buku ini, filsuf terkemuka Prancis André  Comte-Sponville menjawab pertanyaan itu dengan me...</summary>
+    <link href="../book_0/book_10.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Story of the Jews Volume One: Finding the Words 1000 BC-1492 AD</title>
+    <id>calibre:book:20</id>
+    <updated>2019-09-07T08:37:06Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Simon%20Schama/The%20Story%20of%20the%20Jews%20Volume%20One_%20Fi%20%2820%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Simon%20Schama/The%20Story%20of%20the%20Jews%20Volume%20One_%20Fi%20%2820%29/The%20Story%20of%20the%20Jews%20Volume%20On%20-%20Simon%20Schama.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="10 MB" />
+    <author>
+      <name>Simon Schama</name>
+      <uri>../authors_0/authors_22_Page_1.xml</uri>
+    </author>
+    <published>2017-10-23T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="History" />
+    <category term="Jewish" />
+    <category term="Religion" />
+    <category term="Judaism" />
+    <category term="Ancient" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - In this magnificently illustrated cultural history—the tie-in to the PBS and BBC series The Story of the Jews—Simon Schama details the story of the Jewish experience, tracing it across three millennia, from their beginnings ...</summary>
+    <link href="../book_0/book_20.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Surat Kepada Kanjeng Nabi</title>
+    <id>calibre:book:42</id>
+    <updated>2019-09-07T08:38:03Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Surat%20Kepada%20Kanjeng%20Nabi%20%2842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Emha%20Ainun%20Nadjib/Surat%20Kepada%20Kanjeng%20Nabi%20%2842%29/Surat%20Kepada%20Kanjeng%20Nabi%20-%20Emha%20Ainun%20Nadjib.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="956 KB" />
+    <author>
+      <name>Emha Ainun Nadjib</name>
+      <uri>../authors_0/authors_32_Page_1.xml</uri>
+    </author>
+    <published>2015-08-06T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
+    <category term="Literary Collections" />
+    <category term="General" />
+    <category term="Poetry" />
+    <category term="Asian" />
+    <category term="Religion" />
+    <category term="Islam" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Di negeri kami ini, umatmu berjumlah terbanyak dari penduduknya. Di negeri ini, kami punya Muhammadiyah, punya NU, Persis, punya ulama-ulama dan MUI, ICMI, punya bank, punya HMI, PMII, IMM, Anshor, Pemuda Muhammadiyah, IPM, ...</summary>
+    <link href="../book_0/book_42.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>TOEFL ASYIK: (Chapter 1: LISTENING COMPREHENSION)</title>
+    <id>calibre:book:67</id>
+    <updated>2019-09-07T08:39:08Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Y.%20Sri%20Purwaningsih/TOEFL%20ASYIK_%20%28Chapter%201_%20LISTENING%20C%20%2867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Y.%20Sri%20Purwaningsih/TOEFL%20ASYIK_%20%28Chapter%201_%20LISTENING%20C%20%2867%29/TOEFL%20ASYIK_%20%28Chapter%201_%20LISTEN%20-%20Y.%20Sri%20Purwaningsih.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="3 MB" />
+    <author>
+      <name>Y. Sri Purwaningsih</name>
+      <uri>../authors_0/authors_61_Page_1.xml</uri>
+    </author>
+    <published>2016-11-30T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>IndonesiaTera</dcterms:publisher>
+    <category term="Study Aids" />
+    <category term="TOEFL (Test of English as a Foreign Language) &amp; IELTS (International English Language Testing System)" />
+    <category term="General" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Test TOEFL saat ini sudah digunakan sebagai salah satu syarat bagi siswa SMA atau sederajat yang akan melanjutkan ke jenjang Perguruan Tinggi. Nah, biasanya buku TOEFL dikemas dengan bahasa yang serius dan kemasan yang tebal...</summary>
+    <link href="../book_0/book_67.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../allbooks/allbooks_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 3)" />
+  <link href="../allbooks/allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 3)" />
+</feed>

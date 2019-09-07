@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>A Visit to Java With an Account of the Founding of Singapore</title>
-  <id>urn:book:6a16a310-2c2e-43d0-bf18-3049103da82c</id>
-  <updated>2019-09-02T05:24:32Z</updated>
-  <link href="./book_35.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="A Visit to Java With an Account of the Founding of Singapore" />
+  <title>The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing</title>
+  <id>urn:book:e6bc94b7-0411-4d55-8338-bc6e76a569e8</id>
+  <updated>2019-09-07T08:37:46Z</updated>
+  <link href="./book_35.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
-  <link href="http://repo.purwadi.web.id/ebook/William%20Basil%20Worsfold/A%20Visit%20to%20Java%20With%20an%20Account%20of%20t%20%2835%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
-  <link href="http://repo.purwadi.web.id/ebook/William%20Basil%20Worsfold/A%20Visit%20to%20Java%20With%20an%20Account%20of%20t%20%2835%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-  <link href="http://repo.purwadi.web.id/ebook/William%20Basil%20Worsfold/A%20Visit%20to%20Java%20With%20an%20Account%20of%20t%20%2835%29/A%20Visit%20to%20Java%20With%20an%20Account%20-%20William%20Basil%20Worsfold.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="842 KB" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="http://repo.purwadi.web.id/ebook/Marie%20Kondo/The%20Life-Changing%20Magic%20of%20Tidying%20U%20%2835%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Marie%20Kondo/The%20Life-Changing%20Magic%20of%20Tidying%20U%20%2835%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Marie%20Kondo/The%20Life-Changing%20Magic%20of%20Tidying%20U%20%2835%29/The%20Life-Changing%20Magic%20of%20Tidy%20-%20Marie%20Kondo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
   <author>
-    <name>William Basil Worsfold</name>
-    <uri>../authors_0/authors_23_Page_1.xml</uri>
+    <name>Marie Kondō</name>
+    <uri>../authors_0/authors_72_Page_1.xml</uri>
   </author>
-  <published>2011-09-15T05:00:00Z</published>
+  <published>2014-10-13T05:00:00Z</published>
   <dcterms:language>en</dcterms:language>
-  <dcterms:publisher>Hansebooks</dcterms:publisher>
+  <dcterms:publisher>Ten Speed Press</dcterms:publisher>
   <category term="Lang:en" />
   <content type="text/html">
     <p>
       <strong>Rating:</strong>
-      Not rated
+      ****
     </p>
     <p>
       <strong>Tags:</strong>
@@ -29,61 +30,277 @@
     </p>
     <p>
       <strong>Publisher:</strong>
-      Hansebooks
+      Ten Speed Press
     </p>
     <p>
       <strong>Published:</strong>
-      September 15, 2011
+      October 13, 2014
     </p>
     <p>
       <strong>Added:</strong>
-      September 2, 2019
+      September 5, 2019
     </p>
     <p>
       <strong>Modified:</strong>
-      September 2, 2019
+      September 7, 2019
     </p>
     <p>
       <strong>Summary</strong>
     </p>
     <div xmlns="">
       <p>
-        <a href="https://repo.purwadi.web.id/ebook">
-          <b>Sigit Purwadi's Library</b>
-        </a>
-         - This is a reproduction of a book published before
-      1923. This book may have occasional imperfections
-        <br />
-        such as missing or blurred pages, poor pictures, errant
-      marks, etc. that were either part of the original artifact,
-        <br />
-        or were introduced by the scanning process. We believe
-      this work is culturally important, and despite the
-      imperfections,
-        <br />
-        have elected to bring it back into print as part of our
-      continuing commitment to the preservation of printed works
-        <br />
-        worldwide. We appreciate your understanding of the
-      imperfections in the preservation process, and hope you enjoy
-      this valuable book.
+        <b>
+          <a href="https://repo.purwadi.web.id/ebook/">Sigit Purwadi's
+      Library</a>
+           -
+        </b>
+         
+        <strong>
+          The #1
+          <em>New York Times</em>
+           bestselling guide to
+      decluttering your home and the inspiration for the hit
+      Netflix show
+          <em>Tidying Up with Marie Kondo</em>
+          .
+        </strong>
       </p>
-      <p>++++</p>
-      <p>The below data was compiled from various identification
-      fields in the bibliographic record of this title. This data
-      is provided as an additional tool in helping to ensure
-      edition identification:</p>
-      <p>++++   </p>
+      <p>Despite constant efforts to declutter your home, do papers
+      still accumulate like snowdrifts and clothes pile up like a
+      tangled mess of noodles?</p>
+      <p>Japanese cleaning consultant Marie Kondo takes tidying to
+      a whole new level, promising that if you properly simplify
+      and organize your home once, you’ll never have to do it
+      again. Most methods advocate a room-by-room or
+      little-by-little approach, which doom you to pick away at
+      your piles of stuff forever. The KonMari Method, with its
+      revolutionary category-by-category system, leads to lasting
+      results. In fact, none of Kondo’s clients have lapsed
+      (and she still has a three-month waiting list). </p>
+      <p>With detailed guidance for determining which items in your
+      house “spark joy” (and which don’t), this
+      international bestseller featuring Tokyo’s newest
+      lifestyle phenomenon will help you clear your clutter and
+      enjoy the unique magic of a tidy home—and the calm,
+      motivated mindset it can inspire.**</p>
+      <h3>Review</h3>
+      <p>
+        <strong>
+          #1
+          <em>New York Times</em>
+          Best Seller
+          <br />
+          Amazon's Best Book of 2014 in Crafts, Home &amp;
+        Garden
+        </strong>
+      </p>
+      <p>
+        "Ms. Kondo delivers her tidy manifesto like a kind of Zen
+      nanny, both hortatory and animistic." --
+        <strong>
+          <em>The New York Times</em>
+        </strong>
+      </p>
+      <p>
+        ". . . a literal how-to-heave-ho, and I recommend it for
+      anyone who struggles with the material excess of living in a
+      privileged society. (Thanks to Ms. Kondo, I kiss my old socks
+      goodbye.) ... To show you how serious my respect for Ms.
+      Kondo is: if I ever get a tattoo, it will say, Spark Joy!" --
+        <strong>Jamie Lee Curtis,</strong>
+        * **TIME
+      </p>
+      <hr />
+      <p>
+        "This book lives up to its title: it will change your
+      life." -- B.J. Novak,
+        <strong>
+          <em>People</em>
+        </strong>
+        "This book is a cult. A totally reasonable, scary
+      cult that works, doesn’t kill people (a bonus), but
+      does drastically change your life. In this case — for
+      the better." --
+        <strong>Buzzfeed</strong>
+      </p>
+      <p>
+        "The most organized woman in the world." --
+        <strong>*PureWow</strong>
+      </p>
+      <ul>
+        <li>
+          ". . . the Japanese expert’s ode to decluttering
+        is simple and easy to follow." --
+          <strong>Vogue.com</strong>
+          ". . . her voice . . . is by
+        turns stern and enchanted, like a fairy godmother for
+        socks." --
+          <strong>
+            <em>The Wall Street Journal</em>
+          </strong>
+        </li>
+      </ul>
+      <p>
+        "Reading it, you glimpse a glittering mental freedom from
+      the unread/uncrafted/unworn, buyer’s remorse, the
+      nervous eyeing of real estate listings. Life’s
+      overwhelm, conquered." *--
+        <strong>The Atlantic</strong>
+        <em>"All hail the new decluttering queen Marie Kondo, whose
+      mess-busting bestseller has prompted a craze for tidying in
+      homes across the world . . . one proper clear out is all you
+      need for the rest of your life." --</em>
+        Good Housekeeping*
+      (UK)
+      </p>
+      <p>
+        "How could this pocket-sized book, which has already sold
+      over 2 million copies and sits firmly atop the
+        <em>New York Times</em>
+        Best Seller list, make such a big
+      promise? Here's the short answer: Because it's legit. .
+      . . Kondo's method really can change your life — if you
+      let it." --
+        <strong>TODAY.com</strong>
+      </p>
+      <p>
+        "Kondo challenges you to ask yourself whether each object
+      you have is achieving a purpose. Is it propelling you forward
+      or holding you in the past?" --
+        <strong>*USA Today</strong>
+      </p>
+      <ul>
+        <li>
+          ". . . a brief and bracing practical guide to tidying
+        up your home." --
+          <strong>
+            <em>Financial Times</em>
+          </strong>
+        </li>
+      </ul>
+      <p>
+        "[It is] enough to salute Kondo for her recognition of
+      something quietly profound: that mess is often about
+      unhappiness, and that the right kind of tidying can be a kind
+      of psychotherapy for the home as well as for the people in it
+      . . . Its strength is its simplicity." -- 
+        <strong>*The London Times</strong>
+        *
+      </p>
+      <h3>Review</h3>
+      <p>
+        <strong>
+          #1
+          <em>New York Times</em>
+          Best Seller
+          <br />
+          Amazon's Best Book of 2014 in Crafts, Home &amp;
+        Garden
+        </strong>
+      </p>
+      <p>
+        "Ms. Kondo delivers her tidy manifesto like a kind of Zen
+      nanny, both hortatory and animistic." --
+        <strong>
+          <em>The New York Times</em>
+        </strong>
+      </p>
+      <p>
+        ". . . a literal how-to-heave-ho, and I recommend it for
+      anyone who struggles with the material excess of living in a
+      privileged society. (Thanks to Ms. Kondo, I kiss my old socks
+      goodbye.) ... To show you how serious my respect for Ms.
+      Kondo is: if I ever get a tattoo, it will say, Spark Joy!" --
+        <strong>Jamie Lee Curtis,</strong>
+        * **TIME
+      </p>
+      <hr />
+      <p>
+        "This book lives up to its title: it will change your
+      life." -- B.J. Novak,
+        <strong>
+          <em>People</em>
+        </strong>
+        "This book is a cult. A totally reasonable, scary
+      cult that works, doesn’t kill people (a bonus), but
+      does drastically change your life. In this case — for
+      the better." --
+        <strong>Buzzfeed</strong>
+      </p>
+      <p>
+        "The most organized woman in the world." --
+        <strong>*PureWow</strong>
+      </p>
+      <ul>
+        <li>
+          ". . . the Japanese expert’s ode to decluttering
+        is simple and easy to follow." --
+          <strong>Vogue.com</strong>
+          ". . . her voice . . . is by
+        turns stern and enchanted, like a fairy godmother for
+        socks." --
+          <strong>
+            <em>The Wall Street Journal</em>
+          </strong>
+        </li>
+      </ul>
+      <p>
+        "Reading it, you glimpse a glittering mental freedom from
+      the unread/uncrafted/unworn, buyer’s remorse, the
+      nervous eyeing of real estate listings. Life’s
+      overwhelm, conquered." *--
+        <strong>The Atlantic</strong>
+        <em>"All hail the new decluttering queen Marie Kondo, whose
+      mess-busting bestseller has prompted a craze for tidying in
+      homes across the world . . . one proper clear out is all you
+      need for the rest of your life." --</em>
+        Good Housekeeping*
+      (UK)
+      </p>
+      <p>
+        "How could this pocket-sized book, which has already sold
+      over 2 million copies and sits firmly atop the
+        <em>New York Times</em>
+        Best Seller list, make such a big
+      promise? Here's the short answer: Because it's legit. .
+      . . Kondo's method really can change your life — if you
+      let it." --
+        <strong>TODAY.com</strong>
+      </p>
+      <p>
+        "Kondo challenges you to ask yourself whether each object
+      you have is achieving a purpose. Is it propelling you forward
+      or holding you in the past?" --
+        <strong>*USA Today</strong>
+      </p>
+      <ul>
+        <li>
+          ". . . a brief and bracing practical guide to tidying
+        up your home." --
+          <strong>
+            <em>Financial Times</em>
+          </strong>
+        </li>
+      </ul>
+      <p>
+        "[It is] enough to salute Kondo for her recognition of
+      something quietly profound: that mess is often about
+      unhappiness, and that the right kind of tidying can be a kind
+      of psychotherapy for the home as well as for the people in it
+      . . . Its strength is its simplicity." -- 
+        <strong>*The London Times</strong>
+        *
+      </p>
     </div>
   </content>
-  <link href="../authors_0/authors_23_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by William Basil Worsfold" />
-  <link href="http://www.goodreads.com/book/title/A%20Visit%20to%20Java%20With%20an%20Account%20of%20the%20Founding%20of%20Singapore" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/A%20Visit%20to%20Java%20With%20an%20Account%20of%20the%20Founding%20of%20Singapore" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
-  <link href="http://www.librarything.com/title/A%20Visit%20to%20Java%20With%20an%20Account%20of%20the%20Founding%20of%20Singapore%20William%20Basil%20Worsfold" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
-  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=A%20Visit%20to%20Java%20With%20an%20Account%20of%20the%20Founding%20of%20Singapore&amp;field-author=William%20Basil%20Worsfold" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
-  <link href="http://www.goodreads.com/book/author/William%20Basil%20Worsfold" type="text/html" rel="related" title="William Basil Worsfold on Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/William%20Basil%20Worsfold" type="text/html" rel="related" title="William Basil Worsfold on Wikipedia" target="_blank" />
-  <link href="http://www.librarything.com/author/WorsfoldWilliamBasil" type="text/html" rel="related" title="William Basil Worsfold on LibraryThing" target="_blank" />
-  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=William%20Basil%20Worsfold" type="text/html" rel="related" title="William Basil Worsfold on Amazon" target="_blank" />
-  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?William%20Basil%20Worsfold" type="text/html" rel="related" title="William Basil Worsfold on ISFDB" target="_blank" />
+  <link href="../authors_0/authors_72_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Marie Kondō" />
+  <link href="http://www.goodreads.com/book/title/The%20Life-Changing%20Magic%20of%20Tidying%20Up%3A%20The%20Japanese%20Art%20of%20Decluttering%20and%20Organizing" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/The%20Life-Changing%20Magic%20of%20Tidying%20Up%3A%20The%20Japanese%20Art%20of%20Decluttering%20and%20Organizing" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/The%20Life-Changing%20Magic%20of%20Tidying%20Up%3A%20The%20Japanese%20Art%20of%20Decluttering%20and%20Organizing%20Marie%20Kond%C5%8D" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Life-Changing%20Magic%20of%20Tidying%20Up%3A%20The%20Japanese%20Art%20of%20Decluttering%20and%20Organizing&amp;field-author=Marie%20Kond%C5%8D" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Marie%20Kond%C5%8D" type="text/html" rel="related" title="Marie Kondō on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Marie%20Kond%C5%8D" type="text/html" rel="related" title="Marie Kondō on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/Kond%C5%8DMarie" type="text/html" rel="related" title="Marie Kondō on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Marie%20Kond%C5%8D" type="text/html" rel="related" title="Marie Kondō on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Marie%20Kond%C5%8D" type="text/html" rel="related" title="Marie Kondō on ISFDB" target="_blank" />
 </entry>

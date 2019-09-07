@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Dkk.</title>
+  <id>Calibre2opds:authors:76</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_76_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Dkk." />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <entry>
+    <title>Mengikat Makna Selamanya</title>
+    <id>calibre:book:15</id>
+    <updated>2019-09-07T08:36:52Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Mengikat%20Makna%20Selamanya%20%2815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Mengikat%20Makna%20Selamanya%20%2815%29/Mengikat%20Makna%20Selamanya%20-%20Haidar%20Bagir.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="874 KB" />
+    <author>
+      <name>Haidar Bagir</name>
+      <uri>../authors_0/authors_46_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Dkk.</name>
+      <uri>../authors_0/authors_76_Page_1.xml</uri>
+    </author>
+    <published>2018-07-10T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
+    <category term="Education" />
+    <category term="Counseling" />
+    <category term="General" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Hernowo tak hanya bicara tentang keterampilan baca-tulis; lebih dari itu, dia terutama bicara tentang sebuah kehidupan yang bermakna.—Riris K. Toha-Sarumpaet, Guru Besar Fakultas Ilmu Pengetahuan Budaya, Universitas Indonesi...</summary>
+    <link href="../book_0/book_15.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

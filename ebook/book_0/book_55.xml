@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Kitab Seks &amp; Rumah Tangga dalam Islam</title>
+  <id>urn:book:26f0b23a-2e6a-4c55-a833-990acda15e9b</id>
+  <updated>2019-09-07T08:38:36Z</updated>
+  <link href="./book_55.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Kitab Seks &amp; Rumah Tangga dalam Islam" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="http://repo.purwadi.web.id/ebook/Syekh%20Imam%20Abu%20Muhammad/Kitab%20Seks%20%26%20Rumah%20Tangga%20dalam%20Isla%20%2855%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Syekh%20Imam%20Abu%20Muhammad/Kitab%20Seks%20%26%20Rumah%20Tangga%20dalam%20Isla%20%2855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Syekh%20Imam%20Abu%20Muhammad/Kitab%20Seks%20%26%20Rumah%20Tangga%20dalam%20Isla%20%2855%29/Kitab%20Seks%20%26%20Rumah%20Tangga%20dalam%20-%20Syekh%20Imam%20Abu%20Muhammad.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="1 MB" />
+  <author>
+    <name>Syekh Imam Abu Muhammad</name>
+    <uri>../authors_0/authors_53_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>in</dcterms:language>
+  <dcterms:publisher>Kaurama Buana Antara</dcterms:publisher>
+  <category term="Lang:in" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:in
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Kaurama Buana Antara
+    </p>
+    <p>
+      <strong>Published:</strong>
+      January 1, 0101
+    </p>
+    <p>
+      <strong>Added:</strong>
+      September 5, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      September 7, 2019
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">
+      <b>
+        <a href="https://repo.purwadi.web.id/ebook/">Sigit Purwadi's
+    Library</a>
+         -
+      </b>
+       Dalam kitab ini memuat 20 pasal
+    tentang beberapa hadist dan nasehat dalam mebina Rumah Tangga
+    yaitu mulai dari keutamaan menikah, memilih seorang calon
+    istri, masalah tata krama dalam berhubungan intim (sex) dengan
+    seorang istri dan beberapa masalah yang berkaitan dengan
+    tangung jawab seorang suami untuk membina rumah tangga yang
+    Islami.
+    </p>
+  </content>
+  <link href="../authors_0/authors_53_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Syekh Imam Abu Muhammad" />
+  <link href="http://www.goodreads.com/book/title/Kitab%20Seks%20%26%20Rumah%20Tangga%20dalam%20Islam" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Kitab%20Seks%20%26%20Rumah%20Tangga%20dalam%20Islam" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Kitab%20Seks%20%26%20Rumah%20Tangga%20dalam%20Islam%20Syekh%20Imam%20Abu%20Muhammad" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Kitab%20Seks%20%26%20Rumah%20Tangga%20dalam%20Islam&amp;field-author=Syekh%20Imam%20Abu%20Muhammad" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Syekh%20Imam%20Abu%20Muhammad" type="text/html" rel="related" title="Syekh Imam Abu Muhammad on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Syekh%20Imam%20Abu%20Muhammad" type="text/html" rel="related" title="Syekh Imam Abu Muhammad on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/MuhammadSyekhImamAbu" type="text/html" rel="related" title="Syekh Imam Abu Muhammad on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Syekh%20Imam%20Abu%20Muhammad" type="text/html" rel="related" title="Syekh Imam Abu Muhammad on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Syekh%20Imam%20Abu%20Muhammad" type="text/html" rel="related" title="Syekh Imam Abu Muhammad on ISFDB" target="_blank" />
+</entry>

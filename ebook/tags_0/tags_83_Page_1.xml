@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Horror</title>
+  <id>Calibre2opds:taglist:H:83</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_83_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Horror" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with H" />
+  <entry>
+    <title>Kisah Tanah Jawa</title>
+    <id>calibre:book:44</id>
+    <updated>2019-09-07T08:38:08Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/%40kisahtanahjawa/Kisah%20Tanah%20Jawa%20%2844%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/%40kisahtanahjawa/Kisah%20Tanah%20Jawa%20%2844%29/Kisah%20Tanah%20Jawa%20-%20%40kisahtanahjawa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="219 KB" />
+    <author>
+      <name>@kisahtanahjawa</name>
+      <uri>../authors_0/authors_43_Page_1.xml</uri>
+    </author>
+    <published>2018-12-31T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>GagasMedia</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - “Kenapa mobilnya, Pak?”“Nggak tahu nih, Bu. Biar bapak cek dulu, ya.”Kondisi jalan pukul 7 malam itu sangat sepi, hanya ada mobil tersebut ditemani suara jangkrik. Bapak itu mencoba men-starter mobilnya dengan keadaan kap mo...</summary>
+    <link href="../book_0/book_44.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

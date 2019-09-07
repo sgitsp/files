@@ -12,66 +12,540 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="../recent/recent_ONEWEEK_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 2)" />
   <entry>
-    <title>Jodohku Maunya Sih Kamu: Ngaji Bareng Ust. Wijayanto [August 31, 2019]</title>
-    <id>calibre:book:3</id>
-    <updated>2019-09-01T00:52:58Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20Baren%20%283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20Baren%20%283%29/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20-%20Ustadz%20Wijayanto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <title>The Flat-Earth Conspiracy [September 5, 2019]</title>
+    <id>calibre:book:72</id>
+    <updated>2019-09-07T08:39:20Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Eric%20Dubay/The%20Flat-Earth%20Conspiracy%20%2872%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Eric%20Dubay/The%20Flat-Earth%20Conspiracy%20%2872%29/The%20Flat-Earth%20Conspiracy%20-%20Eric%20Dubay.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="26 MB" />
     <author>
-      <name>Ustadz Wijayanto</name>
-      <uri>../authors_0/authors_6_Page_1.xml</uri>
+      <name>Eric Dubay</name>
+      <uri>../authors_0/authors_65_Page_1.xml</uri>
     </author>
-    <published>2016-01-19T05:00:00Z</published>
+    <published>2014-11-08T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>lulu.com</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - Wolves in sheep's clothing have pulled the wool over our eyes. For almost 500 years, the masses have been thoroughly deceived by a cosmic fairy-tale of astronomical proportions. We have been taught a falsehood so gigantic an...</summary>
+    <link href="../book_0/book_72.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>TOEFL ASYIK: (Chapter 1: LISTENING COMPREHENSION) [September 5, 2019]</title>
+    <id>calibre:book:67</id>
+    <updated>2019-09-07T08:39:08Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Y.%20Sri%20Purwaningsih/TOEFL%20ASYIK_%20%28Chapter%201_%20LISTENING%20C%20%2867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Y.%20Sri%20Purwaningsih/TOEFL%20ASYIK_%20%28Chapter%201_%20LISTENING%20C%20%2867%29/TOEFL%20ASYIK_%20%28Chapter%201_%20LISTEN%20-%20Y.%20Sri%20Purwaningsih.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="3 MB" />
+    <author>
+      <name>Y. Sri Purwaningsih</name>
+      <uri>../authors_0/authors_61_Page_1.xml</uri>
+    </author>
+    <published>2016-11-30T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>IndonesiaTera</dcterms:publisher>
+    <category term="Study Aids" />
+    <category term="TOEFL (Test of English as a Foreign Language) &amp; IELTS (International English Language Testing System)" />
+    <category term="General" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Test TOEFL saat ini sudah digunakan sebagai salah satu syarat bagi siswa SMA atau sederajat yang akan melanjutkan ke jenjang Perguruan Tinggi. Nah, biasanya buku TOEFL dikemas dengan bahasa yang serius dan kemasan yang tebal...</summary>
+    <link href="../book_0/book_67.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Friedrich Nietzsche, Collection [September 5, 2019]</title>
+    <id>calibre:book:62</id>
+    <updated>2019-09-07T08:38:56Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Friedrich%20Nietzsche/Friedrich%20Nietzsche%2C%20Collection%20%2862%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Friedrich%20Nietzsche/Friedrich%20Nietzsche%2C%20Collection%20%2862%29/Friedrich%20Nietzsche%2C%20Collection%20-%20Friedrich%20Nietzsche.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Friedrich Nietzsche</name>
+      <uri>../authors_0/authors_57_Page_1.xml</uri>
+    </author>
+    <published>2014-06-28T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Createspace Independent Pub</dcterms:publisher>
+    <category term="Essays" />
+    <category term="Philosophy" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - Friedrich Wilhelm Nietzsche (1844 – 1900) was a German philologist, philosopher, cultural critic, poet and composer. He wrote several critical texts on religion, morality, contemporary culture, philosophy and science, displa...</summary>
+    <link href="../book_0/book_62.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Men Without Women: Stories [September 5, 2019]</title>
+    <id>calibre:book:59</id>
+    <updated>2019-09-07T08:38:48Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Haruki%20Murakami/Men%20Without%20Women_%20Stories%20%2859%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Haruki%20Murakami/Men%20Without%20Women_%20Stories%20%2859%29/Men%20Without%20Women_%20Stories%20-%20Haruki%20Murakami.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="216 KB" />
+    <author>
+      <name>Haruki Murakami</name>
+      <uri>../authors_0/authors_55_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Philip Gabriel</name>
+      <uri>../authors_0/authors_68_Page_1.xml</uri>
+    </author>
+    <published>2017-05-08T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Knopf</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Literary" />
+    <category term="Short Stories (Single Author)" />
+    <category term="Magical Realism" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - “Haruki Mu...</summary>
+    <link href="../book_0/book_59.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Kitab Seks &amp; Rumah Tangga dalam Islam [September 5, 2019]</title>
+    <id>calibre:book:55</id>
+    <updated>2019-09-07T08:38:36Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Syekh%20Imam%20Abu%20Muhammad/Kitab%20Seks%20%26%20Rumah%20Tangga%20dalam%20Isla%20%2855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Syekh%20Imam%20Abu%20Muhammad/Kitab%20Seks%20%26%20Rumah%20Tangga%20dalam%20Isla%20%2855%29/Kitab%20Seks%20%26%20Rumah%20Tangga%20dalam%20-%20Syekh%20Imam%20Abu%20Muhammad.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="1 MB" />
+    <author>
+      <name>Syekh Imam Abu Muhammad</name>
+      <uri>../authors_0/authors_53_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Kaurama Buana Antara</dcterms:publisher>
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Dalam kitab ini memuat 20 pasal tentang beberapa hadist dan nasehat dalam mebina Rumah Tangga yaitu mulai dari keutamaan menikah, memilih seorang calon istri, masalah tata krama dalam berhubungan intim (sex) dengan seorang i...</summary>
+    <link href="../book_0/book_55.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Higher Education?: How Colleges Are Wasting Our Money and Failing Our Kids [September 5, 2019]</title>
+    <id>calibre:book:52</id>
+    <updated>2019-09-07T08:38:28Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Andrew%20Hacker/Higher%20Education__%20How%20Colleges%20Are%20%2852%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Andrew%20Hacker/Higher%20Education__%20How%20Colleges%20Are%20%2852%29/Higher%20Education__%20How%20Colleges%20-%20Andrew%20Hacker.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="371 KB" />
+    <author>
+      <name>Andrew Hacker</name>
+      <uri>../authors_0/authors_69_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Claudia Dreifus</name>
+      <uri>../authors_0/authors_70_Page_1.xml</uri>
+    </author>
+    <published>2010-08-02T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Henry Holt and Co.</dcterms:publisher>
+    <category term="Education" />
+    <category term="Higher" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - What's gone wrong at our colleges and universities―and how to get American higher education back on trackA quarter of a million dollars. It's the going tab for four years at most top-tier universities. Why does it cost so mu...</summary>
+    <link href="../book_0/book_52.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Salt: The Essential Guide to Cooking With the Most Important Ingredient in Your Kitchen [September 5, 2019]</title>
+    <id>calibre:book:50</id>
+    <updated>2019-09-07T08:38:23Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Leslie%20Bilderback/Salt_%20The%20Essential%20Guide%20to%20Cooking%20%2850%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Leslie%20Bilderback/Salt_%20The%20Essential%20Guide%20to%20Cooking%20%2850%29/Salt_%20The%20Essential%20Guide%20to%20Co%20-%20Leslie%20Bilderback.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="40 MB" />
+    <author>
+      <name>Leslie Bilderback</name>
+      <uri>../authors_0/authors_50_Page_1.xml</uri>
+    </author>
+    <published>2016-09-05T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>St. Martin's Press</dcterms:publisher>
+    <category term="Cooking" />
+    <category term="Specific Ingredients" />
+    <category term="Herbs; Spices; Condiments" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - Salt has been an essential dining element since the invention of the kitchen table. But today, specialty salts come in a vast variety of forms and flavors. Smokey salts, salts infused with clay or charcoal, herby and spicy s...</summary>
+    <link href="../book_0/book_50.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Art of Data Science [September 5, 2019]</title>
+    <id>calibre:book:49</id>
+    <updated>2019-09-07T08:38:20Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Roger%20Peng/The%20Art%20of%20Data%20Science%20%2849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Roger%20Peng/The%20Art%20of%20Data%20Science%20%2849%29/The%20Art%20of%20Data%20Science%20-%20Roger%20Peng.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
+    <author>
+      <name>Roger Peng</name>
+      <uri>../authors_0/authors_71_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Elizabeth Matsui</name>
+      <uri>../authors_0/authors_49_Page_1.xml</uri>
+    </author>
+    <published>2016-06-07T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>lulu.com</dcterms:publisher>
+    <category term="Business &amp; Economics" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - This book describes, simply and in general terms, the process of analyzing data. The authors have extensive experience both managing data analysts and conducting their own data analyses, and have carefully observed what prod...</summary>
+    <link href="../book_0/book_49.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Relations Between Religion and Science Eight Lectures Preached Before the University of Oxford in the Year 1884 [September 5, 2019]</title>
+    <id>calibre:book:48</id>
+    <updated>2019-09-07T08:38:17Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Frederick%20Temple/The%20Relations%20Between%20Religion%20and%20S%20%2848%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Frederick%20Temple/The%20Relations%20Between%20Religion%20and%20S%20%2848%29/The%20Relations%20Between%20Religion%20-%20Frederick%20Temple.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="172 KB" />
+    <author>
+      <name>Frederick Temple</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>2006-11-02T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>tredition</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - This book is part of the TREDITION CLASSICS series. The creators of this series are united by passion for literature and driven by the intention of making all public domain books available in printed format again - worldwide...</summary>
+    <link href="../book_0/book_48.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pachinko [September 5, 2019]</title>
+    <id>calibre:book:45</id>
+    <updated>2019-09-07T08:38:10Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Min%20Jin%20Lee/Pachinko%20%2845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Min%20Jin%20Lee/Pachinko%20%2845%29/Pachinko%20-%20Min%20Jin%20Lee.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="650 KB" />
+    <author>
+      <name>Min Jin Lee</name>
+      <uri>../authors_0/authors_44_Page_1.xml</uri>
+    </author>
+    <published>2017-02-06T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Grand Central Publishing</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Family Life" />
+    <category term="General" />
+    <category term="Romance" />
+    <category term="Historical" />
+    <category term="20th Century" />
+    <category term="Media Tie-In" />
+    <category term="Asian American" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - A New York Times Top Ten Book of the Year and National Book Award finalist, Pachinko is an "extraordinary epic" of four generations of a poor Korean immigrant family as they fight to control their destiny in 20th-century Jap...</summary>
+    <link href="../book_0/book_45.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mein Kampf [September 5, 2019]</title>
+    <id>calibre:book:36</id>
+    <updated>2019-09-07T09:20:25Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Adolf%20Hitler/Mein%20Kampf%20%2836%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Adolf%20Hitler/Mein%20Kampf%20%2836%29/Mein%20Kampf%20-%20Adolf%20Hitler.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="820 KB" />
+    <author>
+      <name>Adolf Hitler</name>
+      <uri>../authors_0/authors_38_Page_1.xml</uri>
+    </author>
+    <published>2006-06-14T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Jaico Publishing House</dcterms:publisher>
+    <category term="History" />
+    <category term="Europe" />
+    <category term="Germany" />
+    <category term="Biography &amp; Autobiography" />
+    <category term="Military" />
+    <category term="Reference" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - For the first time in 65 years, a modern, easy to understand, truly complete and uncensored edition of Mein Kampf has been released which reveals more than any past translation. This hardcover book is also the first translat...</summary>
+    <link href="../book_0/book_36.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing [September 5, 2019]</title>
+    <id>calibre:book:35</id>
+    <updated>2019-09-07T08:37:46Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Marie%20Kondo/The%20Life-Changing%20Magic%20of%20Tidying%20U%20%2835%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Marie%20Kondo/The%20Life-Changing%20Magic%20of%20Tidying%20U%20%2835%29/The%20Life-Changing%20Magic%20of%20Tidy%20-%20Marie%20Kondo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Marie Kondō</name>
+      <uri>../authors_0/authors_72_Page_1.xml</uri>
+    </author>
+    <published>2014-10-13T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Ten Speed Press</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - The #1 New York Times  bestselling guide to decluttering your home and the inspiration for the hit Netflix show Tidying Up with Marie Kondo.  Despite constant efforts to declutter your home, do papers still accumulate like s...</summary>
+    <link href="../book_0/book_35.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The 101 Most Influential People Who Never Lived: How Characters of Fiction, Myth, Legends, Television, and Movies Have Shaped Our Society, Changed Our Behavior, and Set the Course of History [September 5, 2019]</title>
+    <id>calibre:book:34</id>
+    <updated>2019-09-07T08:37:44Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Allan%20Lazar/The%20101%20Most%20Influential%20People%20Who%20%2834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Allan%20Lazar/The%20101%20Most%20Influential%20People%20Who%20%2834%29/The%20101%20Most%20Influential%20People%20-%20Allan%20Lazar.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="1 MB" />
+    <author>
+      <name>Allan Lazar</name>
+      <uri>../authors_0/authors_73_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Dan Karlan</name>
+      <uri>../authors_0/authors_74_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Jeremy Salter</name>
+      <uri>../authors_0/authors_36_Page_1.xml</uri>
+    </author>
+    <published>2009-10-12T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Harper Collins</dcterms:publisher>
+    <category term="Biography &amp; Autobiography" />
+    <category term="Entertainment &amp; Performing Arts" />
+    <category term="Humor" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - From Santa Claus to Buffy the Vampire Slayer, from Uncle Sam to Uncle Tom, here is a compelling, eye-opening, and endlessly entertaining compendium of fictional trendsetters and world-shakers who have helped shape our cultur...</summary>
+    <link href="../book_0/book_34.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>101 Things Everyone Should Know About Economics [September 5, 2019]</title>
+    <id>calibre:book:14</id>
+    <updated>2019-09-07T08:36:50Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Peter%20Sander/101%20Things%20Everyone%20Should%20Know%20Abou%20%2814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Peter%20Sander/101%20Things%20Everyone%20Should%20Know%20Abou%20%2814%29/101%20Things%20Everyone%20Should%20Know%20-%20Peter%20Sander.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="821 KB" />
+    <author>
+      <name>Peter Sander</name>
+      <uri>../authors_0/authors_16_Page_1.xml</uri>
+    </author>
+    <published>2013-12-02T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Simon and Schuster</dcterms:publisher>
+    <category term="Business &amp; Economics" />
+    <category term="Economics" />
+    <category term="General" />
+    <category term="Comparative" />
+    <category term="Accounting" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - Economics, demystified!From the collapse of housing prices to the thousand-point drops in the stock market, the past five years have been full of economic crises. These changes not only affect the overall market--they can al...</summary>
+    <link href="../book_0/book_14.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Power of Habit [September 5, 2019]</title>
+    <id>calibre:book:13</id>
+    <updated>2019-09-07T08:36:47Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Charles%20Duhigg/The%20Power%20of%20Habit%20%2813%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Charles%20Duhigg/The%20Power%20of%20Habit%20%2813%29/The%20Power%20of%20Habit%20-%20Charles%20Duhigg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Charles Duhigg</name>
+      <uri>../authors_0/authors_15_Page_1.xml</uri>
+    </author>
+    <published>2012-02-27T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House Publishing Group</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - A young woman walks into a laboratory. Over the past two years, she has transformed almost every aspect of her life. She has quit smoking, run a marathon, and been promoted at work. The patterns inside her brain, neurologist...</summary>
+    <link href="../book_0/book_13.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>90 Minutes in Heaven [September 5, 2019]</title>
+    <id>calibre:book:12</id>
+    <updated>2019-09-07T08:36:45Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Don%20Piper/90%20Minutes%20in%20Heaven%20%2812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Don%20Piper/90%20Minutes%20in%20Heaven%20%2812%29/90%20Minutes%20in%20Heaven%20-%20Don%20Piper.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Don Piper</name>
+      <uri>../authors_0/authors_14_Page_1.xml</uri>
+    </author>
+    <published>2009-08-31T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Revell</dcterms:publisher>
+    <category term="BIO018000" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - As he is driving home from a minister's conference, Baptist minister Don Piper collides with a semi-truck that crosses into his lane. He is pronounced dead at the scene. For the next 90 minutes, Piper experiences heaven wher...</summary>
+    <link href="../book_0/book_12.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Quiet: The Power of Introverts in a World That Can't Stop Talking [September 5, 2019]</title>
+    <id>calibre:book:11</id>
+    <updated>2019-09-07T08:36:43Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Susan%20Cain/Quiet_%20The%20Power%20of%20Introverts%20in%20a%20%2811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Susan%20Cain/Quiet_%20The%20Power%20of%20Introverts%20in%20a%20%2811%29/Quiet_%20The%20Power%20of%20Introverts%20-%20Susan%20Cain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Susan Cain</name>
+      <uri>../authors_0/authors_4_Page_1.xml</uri>
+    </author>
+    <published>2012-01-24T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Broadway</dcterms:publisher>
+    <category term="Psychology" />
+    <category term="Self-Help" />
+    <category term="Personal Growth" />
+    <category term="Creative Ability" />
+    <category term="Success" />
+    <category term="Personality" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - At least one-third of the people we know are introverts. They are the ones who prefer listening to speaking, reading to partying; who innovate and create but dislike self-promotion; who favor working on their own over brains...</summary>
+    <link href="../book_0/book_11.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>How to Think More About Sex [September 5, 2019]</title>
+    <id>calibre:book:8</id>
+    <updated>2019-09-07T08:36:37Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Alain%20de%20Botton/How%20to%20Think%20More%20About%20Sex%20%288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Alain%20de%20Botton/How%20to%20Think%20More%20About%20Sex%20%288%29/How%20to%20Think%20More%20About%20Sex%20-%20Alain%20de%20Botton.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="3 MB" />
+    <author>
+      <name>Alain de Botton</name>
+      <uri>../authors_0/authors_11_Page_1.xml</uri>
+    </author>
+    <published>2012-12-23T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Picador</dcterms:publisher>
+    <category term="Psychology" />
+    <category term="Human Sexuality" />
+    <category term="Social Psychology" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - THE SCHOOL OF LIFE IS DEDICATED TO EXPLORING LIFE'S BIG QUESTIONS IN HIGHLY-PORTABLE PAPERBACKS, FEATURING FRENCH FLAPS AND DECKLE EDGES, THAT THE NEW YORK TIMES CALLS "DAMNABLY CUTE." WE DON'T HAVE ALL THE ANSWERS, BUT WE W...</summary>
+    <link href="../book_0/book_8.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Introduction to Logic and Critical Thinking [September 5, 2019]</title>
+    <id>calibre:book:5</id>
+    <updated>2019-09-07T08:36:29Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Matthew%20J.%20van%20Cleave/Introduction%20to%20Logic%20and%20Critical%20T%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Matthew%20J.%20van%20Cleave/Introduction%20to%20Logic%20and%20Critical%20T%20%285%29/Introduction%20to%20Logic%20and%20Criti%20-%20Matthew%20J.%20van%20Cleave.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="8 MB" />
+    <author>
+      <name>Matthew J. van Cleave</name>
+      <uri>../authors_0/authors_79_Page_1.xml</uri>
+    </author>
+    <published>2016-09-14T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - "This is an introductory textbook in logic and critical thinking. The goal of the textbook is to provide the reader with a set of tools and skills that will enable them to identify and evaluate arguments. The book is intende...</summary>
+    <link href="../book_0/book_5.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Quiet Power: The Secret Strengths of Introverts [September 5, 2019]</title>
+    <id>calibre:book:4</id>
+    <updated>2019-09-07T08:36:26Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Susan%20Cain/Quiet%20Power_%20The%20Secret%20Strengths%20of%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Susan%20Cain/Quiet%20Power_%20The%20Secret%20Strengths%20of%20%284%29/Quiet%20Power_%20The%20Secret%20Strengt%20-%20Susan%20Cain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Susan Cain</name>
+      <uri>../authors_0/authors_4_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Gregory Mone</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Erica Moroz</name>
+      <uri>../authors_0/authors_80_Page_1.xml</uri>
+    </author>
+    <published>2016-05-02T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin</dcterms:publisher>
+    <category term="Juvenile Nonfiction" />
+    <category term="Social Science" />
+    <category term="Psychology" />
+    <category term="Social Topics" />
+    <category term="Self-Esteem &amp; Self-Reliance" />
+    <category term="Emotions &amp; Feelings" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - The monumental bestseller Quiet has been recast in a new edition that empowers introverted kids and teens  Susan Cain sparked a worldwide conversation when she published Quiet: The Power of Introverts in a World That Can’t S...</summary>
+    <link href="../book_0/book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Tahzan: Jangan Bersedih! [September 2, 2019]</title>
+    <id>calibre:book:71</id>
+    <updated>2019-09-07T08:39:17Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Dr.%20%27aidh%20Al-Qarni/La%20Tahzan_%20Jangan%20Bersedih%21%20%2871%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Dr.%20%27aidh%20Al-Qarni/La%20Tahzan_%20Jangan%20Bersedih%21%20%2871%29/La%20Tahzan_%20Jangan%20Bersedih%21%20-%20Dr.%20%27aidh%20Al-Qarni.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="425 KB" />
+    <author>
+      <name>Dr. ‘aidh Al-Qarni</name>
+      <uri>../authors_0/authors_66_Page_1.xml</uri>
+    </author>
+    <published>2016-04-24T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Qisthi Press</dcterms:publisher>
+    <category term="Body; Mind &amp; Spirit" />
+    <category term="Inspiration &amp; Personal Growth" />
+    <category term="Psychology" />
+    <category term="Developmental" />
+    <category term="General" />
+    <category term="Self-Help" />
+    <category term="Motivational &amp; Inspirational" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Sebagai salah satu buku kategori pencerahan hati (an-nafsu al muthma`innah), Lâ Tahzan menawarkan terapi yang lebih dekat dengan al-Qur`an dan Sunah, ketimbang renungan-renungan reflektif semata. Lâ Tahzan menjadi buku terla...</summary>
+    <link href="../book_0/book_71.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Allah, Liberty &amp; Love: The Courage to Reconcile Faith and Freedom [September 2, 2019]</title>
+    <id>calibre:book:69</id>
+    <updated>2019-09-07T08:39:13Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Irshad%20Manji/Allah%2C%20Liberty%20%26%20Love_%20The%20Courage%20t%20%2869%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Irshad%20Manji/Allah%2C%20Liberty%20%26%20Love_%20The%20Courage%20t%20%2869%29/Allah%2C%20Liberty%20%26%20Love_%20The%20Cour%20-%20Irshad%20Manji.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Irshad Manji</name>
+      <uri>../authors_0/authors_62_Page_1.xml</uri>
+    </author>
+    <published>2011-06-06T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Random House of Canada</dcterms:publisher>
+    <category term="Religion" />
+    <category term="Spirituality" />
+    <category term="Political Science" />
+    <category term="Peace" />
+    <category term="Islam" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - "Irshad Manji is the new voice of reform, not only for Islam, but for all religions." — Deepak ChopraThe New York Times bestselling author to whom Oprah gave her first ever Chutzpah Award, Irshad Manji has written a book tha...</summary>
+    <link href="../book_0/book_69.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Psikologi Kematian (Edisi Terbaru Gabungan) [September 2, 2019]</title>
+    <id>calibre:book:66</id>
+    <updated>2019-09-07T08:39:06Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Komaruddin%20Hidayat/Psikologi%20Kematian%20%28Edisi%20Terbaru%20Ga%20%2866%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Komaruddin%20Hidayat/Psikologi%20Kematian%20%28Edisi%20Terbaru%20Ga%20%2866%29/Psikologi%20Kematian%20%28Edisi%20Terba%20-%20Komaruddin%20Hidayat.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Komaruddin Hidayat</name>
+      <uri>../authors_0/authors_67_Page_1.xml</uri>
+    </author>
+    <published>2016-01-15T05:00:00Z</published>
     <dcterms:language>in</dcterms:language>
     <dcterms:publisher>Noura Books</dcterms:publisher>
     <category term="Religion" />
+    <category term="Islam" />
     <category term="General" />
-    <category term="Juvenile Nonfiction" />
-    <category term="Family &amp; Relationships" />
-    <category term="Love &amp; Romance" />
-    <category term="Islam" />
+    <category term="Social Science" />
+    <category term="Islamic Studies" />
+    <category term="Islam Populer" />
     <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Ya Rasulullah, kenapa kau jodohkan aku dengan Bilal? Aku ingin bersuamikan lelaki yang sedang berazan itu. Suaranya bagus sekali, pasti orangnya pun saleh.Ya, itu Bilal.  Itulah sepenggal kisah yang menjadi ilustrasi dalam b...</summary>
-    <link href="../book_0/book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Sigit Purwadi's Library - Memandang kematian sebagai peristiwa yang mengerikan dan menakutkan adalah pilihan yang justru menyakitkan. Kematian, sebagaimana juga kehidupan, adalah anugerah Tuhan.Setiap saat kita berjalan menuju pintu kematian. Kita me...</summary>
+    <link href="../book_0/book_66.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>Buat Apa Shalat?! [August 31, 2019]</title>
-    <id>calibre:book:2</id>
-    <updated>2019-09-01T00:20:22Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Buat%20Apa%20Shalat_%21%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Haidar%20Bagir/Buat%20Apa%20Shalat_%21%20%282%29/Buat%20Apa%20Shalat_%21%20-%20Haidar%20Bagir.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="476 KB" />
+    <title>Setengah Jalan [September 2, 2019]</title>
+    <id>calibre:book:65</id>
+    <updated>2019-09-07T08:39:03Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Ernest%20Prakasa/Setengah%20Jalan%20%2865%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Ernest%20Prakasa/Setengah%20Jalan%20%2865%29/Setengah%20Jalan%20-%20Ernest%20Prakasa.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
     <author>
-      <name>Haidar Bagir</name>
-      <uri>../authors_0/authors_2_Page_1.xml</uri>
+      <name>Ernest Prakasa</name>
+      <uri>../authors_0/authors_59_Page_1.xml</uri>
     </author>
-    <published>2006-02-28T05:00:00Z</published>
+    <published>2017-10-04T05:00:00Z</published>
     <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Mizan Pustaka</dcterms:publisher>
-    <category term="Religion" />
-    <category term="Rituals &amp; Practice" />
-    <category term="Islam" />
+    <dcterms:publisher>Bentang B first</dcterms:publisher>
+    <category term="Self-Help" />
+    <category term="Affirmations" />
     <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - SHALAT, secara harfiah, berarti doa. Dalam konteks ini, yang dimaksud shalat adalah doa yang disampaikan dengan tata cara?syarat dan rukun?yang khas dalam bentuk bacaanbacaan dan gerakan-gerakan tertentu.ÿDalam bahasa syaria...</summary>
-    <link href="../book_0/book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <summary>Sigit Purwadi's Library - Gue mendukung kebebasan berekspresi di YouTube, termasuk bagi orang yang kontroversial kayak Young Lex. Orang sering bilang ke gue, "Tapi Nest, Young Lex itu nggak mendidik!" Kalau digituin, gue cuma jawab, "Sejak kapan mend...</summary>
+    <link href="../book_0/book_65.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
-    <title>The Prophet [August 31, 2019]</title>
-    <id>calibre:book:1</id>
-    <updated>2019-09-01T00:08:37Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Kahlil%20Gibran/The%20Prophet%20%281%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Kahlil%20Gibran/The%20Prophet%20%281%29/The%20Prophet%20-%20Kahlil%20Gibran.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="150 KB" />
+    <title>Dilan 2: Dia Adalah Dilanku Tahun 1991 [September 2, 2019]</title>
+    <id>calibre:book:64</id>
+    <updated>2019-09-07T08:39:00Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan%202_%20Dia%20Adalah%20Dilanku%20Tahun%2019%20%2864%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Pidi%20Baiq/Dilan%202_%20Dia%20Adalah%20Dilanku%20Tahun%2019%20%2864%29/Dilan%202_%20Dia%20Adalah%20Dilanku%20Tah%20-%20Pidi%20Baiq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="6 MB" />
     <author>
-      <name>Kahlil Gibran</name>
-      <uri>../authors_0/authors_1_Page_1.xml</uri>
+      <name>Pidi Baiq</name>
+      <uri>../authors_0/authors_23_Page_1.xml</uri>
     </author>
-    <published>1923-09-14T05:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <published>2015-08-05T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>PastelBooks</dcterms:publisher>
     <category term="Fiction" />
-    <category term="Poetry" />
-    <category term="Lang:en" />
-    <summary>The Prophet is a book of 26 poetic essays written in English in 1923 by the Lebanese-American artist, philosopher and writer Khalil Gibran. In the book, the prophet Almustafa who has lived in the foreign city of Orphalese for 12 years is about to boa...</summary>
-    <link href="../book_0/book_1.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+    <category term="General" />
+    <category term="Juvenile Fiction" />
+    <category term="Humorous Stories" />
+    <category term="Love &amp; Romance" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - "Jika aku berkata bahwa aku mencintainya, maka itu adalah sebuah pernyataan yang sudah cukup lengkap."  -Milea "Senakal-nakalnya anak geng motor, Lia, mereka shalat pada waktu ujian praktek Agama."  -Dilan  @Viny_JKT48  "Aku...</summary>
+    <link href="../book_0/book_64.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

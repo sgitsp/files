@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>The Power of Habit</title>
+  <id>urn:book:0bd92b2e-cdf9-4450-8c8c-e92081d2754c</id>
+  <updated>2019-09-07T08:36:47Z</updated>
+  <link href="./book_13.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="The Power of Habit" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="http://repo.purwadi.web.id/ebook/Charles%20Duhigg/The%20Power%20of%20Habit%20%2813%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Charles%20Duhigg/The%20Power%20of%20Habit%20%2813%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Charles%20Duhigg/The%20Power%20of%20Habit%20%2813%29/The%20Power%20of%20Habit%20-%20Charles%20Duhigg.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+  <author>
+    <name>Charles Duhigg</name>
+    <uri>../authors_0/authors_15_Page_1.xml</uri>
+  </author>
+  <published>2012-02-27T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Random House Publishing Group</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Random House Publishing Group
+    </p>
+    <p>
+      <strong>Published:</strong>
+      February 27, 2012
+    </p>
+    <p>
+      <strong>Added:</strong>
+      September 5, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      September 7, 2019
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      <b>
+        <a href="https://repo.purwadi.web.id/ebook/">Sigit Purwadi's
+    Library</a>
+         -
+      </b>
+       A young woman walks into a
+    laboratory. Over the past two years, she has transformed almost
+    every aspect of her life. She has quit smoking, run a marathon,
+    and been promoted at work. The patterns inside her brain,
+    neurologists discover, have fundamentally changed.
+      <br />
+      <br />
+      Marketers at Procter &amp; Gamble study videos of people
+    making their beds. They are desperately trying to figure out
+    how to sell a new product called Febreze, on track to be one of
+    the biggest flops in company history. Suddenly, one of them
+    detects a nearly imperceptible pattern--and with a slight shift
+    in advertising, Febreze goes on to earn a billion dollars a
+    year.
+      <br />
+      <br />
+      An untested CEO takes over one of the largest companies
+    in America. His first order of business is attacking a single
+    pattern among his employees--how they approach worker
+    safety--and soon the firm, Alcoa, becomes the top performer in
+    the Dow Jones.
+      <br />
+      <br />
+      What do all these people have in common? They achieved
+    success by focusing on the...
+    </p>
+  </content>
+  <link href="../authors_0/authors_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Charles Duhigg" />
+  <link href="http://www.goodreads.com/book/title/The%20Power%20of%20Habit" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/The%20Power%20of%20Habit" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/The%20Power%20of%20Habit%20Charles%20Duhigg" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=The%20Power%20of%20Habit&amp;field-author=Charles%20Duhigg" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Charles%20Duhigg" type="text/html" rel="related" title="Charles Duhigg on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Charles%20Duhigg" type="text/html" rel="related" title="Charles Duhigg on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/DuhiggCharles" type="text/html" rel="related" title="Charles Duhigg on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Charles%20Duhigg" type="text/html" rel="related" title="Charles Duhigg on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Charles%20Duhigg" type="text/html" rel="related" title="Charles Duhigg on ISFDB" target="_blank" />
+</entry>
