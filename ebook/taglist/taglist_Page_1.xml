@@ -54,7 +54,7 @@
   <entry>
     <title>Tags starting with E</title>
     <id>Calibre2opds:taglist:E</id>
-    <content type="text">7 tags</content>
+    <content type="text">8 tags</content>
     <link href="../taglist/taglist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -70,7 +70,7 @@
   <entry>
     <title>Tags starting with G</title>
     <id>Calibre2opds:taglist:G</id>
-    <content type="text">General, Germany</content>
+    <content type="text">3 tags</content>
     <link href="../taglist/taglist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -86,7 +86,7 @@
   <entry>
     <title>Tags starting with I</title>
     <id>Calibre2opds:taglist:I</id>
-    <content type="text">6 tags</content>
+    <content type="text">7 tags</content>
     <link href="../taglist/taglist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -142,7 +142,7 @@
   <entry>
     <title>Tags starting with S</title>
     <id>Calibre2opds:taglist:S</id>
-    <content type="text">14 tags</content>
+    <content type="text">15 tags</content>
     <link href="../taglist/taglist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

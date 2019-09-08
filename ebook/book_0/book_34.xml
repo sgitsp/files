@@ -7,6 +7,7 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
   <link href="http://repo.purwadi.web.id/ebook/Allan%20Lazar/The%20101%20Most%20Influential%20People%20Who%20%2834%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="http://repo.purwadi.web.id/ebook/Allan%20Lazar/The%20101%20Most%20Influential%20People%20Who%20%2834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="http://repo.purwadi.web.id/ebook/Allan%20Lazar/The%20101%20Most%20Influential%20People%20Who%20%2834%29/The%20101%20Most%20Influential%20People%20-%20Allan%20Lazar.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="1 MB" />

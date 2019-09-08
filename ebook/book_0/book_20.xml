@@ -8,6 +8,7 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
   <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
   <link href="http://repo.purwadi.web.id/ebook/Simon%20Schama/The%20Story%20of%20the%20Jews%20Volume%20One_%20Fi%20%2820%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="http://repo.purwadi.web.id/ebook/Simon%20Schama/The%20Story%20of%20the%20Jews%20Volume%20One_%20Fi%20%2820%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="http://repo.purwadi.web.id/ebook/Simon%20Schama/The%20Story%20of%20the%20Jews%20Volume%20One_%20Fi%20%2820%29/The%20Story%20of%20the%20Jews%20Volume%20On%20-%20Simon%20Schama.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="10 MB" />

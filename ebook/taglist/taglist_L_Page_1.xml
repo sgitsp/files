@@ -14,24 +14,24 @@
   <link href="./taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
   <entry>
     <title>Lang:en</title>
-    <id>Calibre2opds:taglist:L:118</id>
-    <content type="text">31 books</content>
-    <link href="../tags_1/tags_118_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <id>Calibre2opds:taglist:L:123</id>
+    <content type="text">32 books</content>
+    <link href="../tags_1/tags_123_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
     <title>Lang:in</title>
-    <id>Calibre2opds:taglist:L:119</id>
+    <id>Calibre2opds:taglist:L:124</id>
     <content type="text">31 books</content>
-    <link href="../tags_1/tags_119_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags_1/tags_124_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
     <title>Language Arts &amp; Disciplines</title>
     <id>Calibre2opds:taglist:L:90</id>
-    <content type="text">1 book</content>
+    <content type="text">2 books</content>
     <link href="../tags_0/tags_90_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

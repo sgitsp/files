@@ -13,10 +13,10 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <link href="./taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
   <entry>
-    <title>TOEFL (Test of English as a Foreign Language) &amp; IELTS (International English Language Testing System)</title>
-    <id>Calibre2opds:taglist:T:53</id>
+    <title>TOEFL (Test of English as a Foreign Language)</title>
+    <id>Calibre2opds:taglist:T:118</id>
     <content type="text">1 book</content>
-    <link href="../tags_0/tags_53_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags_1/tags_118_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

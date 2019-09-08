@@ -14,6 +14,14 @@
   <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
   <link href="../authorlist/authorlist_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 3)" />
   <entry>
+    <title>Dan Karlan</title>
+    <id>Calibre2opds:authors:74</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_74_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Eric Klinenberg</title>
     <id>Calibre2opds:authors:10</id>
     <content type="text">Modern Romance</content>
@@ -202,14 +210,6 @@
     <id>Calibre2opds:authors:18</id>
     <content type="text">The Life of Reason</content>
     <link href="../authors_0/authors_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Simon Schama</title>
-    <id>Calibre2opds:authors:22</id>
-    <content type="text">1 book</content>
-    <link href="../authors_0/authors_22_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

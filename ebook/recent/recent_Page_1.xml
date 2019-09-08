@@ -12,9 +12,9 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
   <entry>
-    <title>Sep 7, 2019</title>
+    <title>Sep 8, 2019</title>
     <id>Calibre2opds:recent:ONEDAY</id>
-    <content type="text">16 books</content>
+    <content type="text">1 book</content>
     <link href="../recent/recent_ONEDAY_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../recent.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -22,7 +22,7 @@
   <entry>
     <title>Previous week</title>
     <id>Calibre2opds:recent:ONEWEEK</id>
-    <content type="text">46 books</content>
+    <content type="text">62 books</content>
     <link href="../recent/recent_ONEWEEK_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../recent.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

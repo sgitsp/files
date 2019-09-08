@@ -14,6 +14,29 @@
   <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
   <link href="../taglist/taglist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with F" />
   <entry>
+    <title>English for Everyone: English Grammar Guide</title>
+    <id>calibre:book:73</id>
+    <updated>2019-09-08T11:10:05Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Dk/English%20for%20Everyone_%20English%20Gramma%20%2873%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Dk/English%20for%20Everyone_%20English%20Gramma%20%2873%29/English%20for%20Everyone_%20English%20G%20-%20Dk.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="25 MB" />
+    <author>
+      <name>Dk</name>
+      <uri>../authors_0/authors_83_Page_1.xml</uri>
+    </author>
+    <published>2016-12-12T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin</dcterms:publisher>
+    <category term="Foreign Language Study" />
+    <category term="English as a Second Language" />
+    <category term="Study Aids" />
+    <category term="Study Guides" />
+    <category term="Language Arts &amp; Disciplines" />
+    <category term="Grammar &amp; Punctuation" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - A self-study English grammar guide using innovative visual learning methods to make even the trickiest points easy to understand, for the approximately 1 million adults in the United States learning English as a second langu...</summary>
+    <link href="../book_0/book_73.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>A Reference Grammar of Modern Standard Arabic</title>
     <id>calibre:book:40</id>
     <updated>2019-09-07T08:37:58Z</updated>

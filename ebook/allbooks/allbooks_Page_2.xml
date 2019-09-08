@@ -14,6 +14,30 @@
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
   <link href="../allbooks/allbooks_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 3)" />
   <entry>
+    <title>Jodohku Maunya Sih Kamu: Ngaji Bareng Ust. Wijayanto</title>
+    <id>calibre:book:29</id>
+    <updated>2019-09-07T08:37:30Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20Baren%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20Baren%20%2829%29/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20-%20Ustadz%20Wijayanto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
+    <author>
+      <name>Ustadz Wijayanto</name>
+      <uri>../authors_0/authors_75_Page_1.xml</uri>
+    </author>
+    <published>2016-01-19T05:00:00Z</published>
+    <dcterms:language>in</dcterms:language>
+    <dcterms:publisher>Noura Books</dcterms:publisher>
+    <category term="Religion" />
+    <category term="Islam" />
+    <category term="General" />
+    <category term="Juvenile Nonfiction" />
+    <category term="Family &amp; Relationships" />
+    <category term="Love &amp; Romance" />
+    <category term="Islam Populer" />
+    <category term="Lang:in" />
+    <summary>Sigit Purwadi's Library - Ya Rasulullah, kenapa kau jodohkan aku dengan Bilal? Aku ingin bersuamikan lelaki yang sedang berazan itu. Suaranya bagus sekali, pasti orangnya pun saleh.Ya, itu Bilal.  Itulah sepenggal kisah yang menjadi ilustrasi dalam b...</summary>
+    <link href="../book_0/book_29.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Kalau Cinta Jangan Pacaran - Ngaji Bareng Ust. Wijayanto (Snackbook)</title>
     <id>calibre:book:18</id>
     <updated>2019-09-07T08:37:00Z</updated>
@@ -536,28 +560,6 @@
     <category term="Lang:in" />
     <summary>Sigit Purwadi's Library - Sinta berubah. Namanya jadi Janaki. Janaki pun berubah. Namanyajadi Waidehi. Tapi, Rahwana tetap mencintainya. Rahwana tetapmenjunjungnya, menyembahnya.Terhadap titisan Dewi Widowati itu ia tak menyembah nama.Rahwana menyemb...</summary>
     <link href="../book_0/book_17.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>A Reference Grammar of Modern Standard Arabic</title>
-    <id>calibre:book:40</id>
-    <updated>2019-09-07T08:37:58Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Karin%20C.%20Ryding/A%20Reference%20Grammar%20of%20Modern%20Standa%20%2840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Karin%20C.%20Ryding/A%20Reference%20Grammar%20of%20Modern%20Standa%20%2840%29/A%20Reference%20Grammar%20of%20Modern%20S%20-%20Karin%20C.%20Ryding.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="5 MB" />
-    <author>
-      <name>Karin C. Ryding</name>
-      <uri>../authors_0/authors_41_Page_1.xml</uri>
-    </author>
-    <published>2005-08-24T05:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <dcterms:publisher>Cambridge University Press</dcterms:publisher>
-    <category term="Foreign Language Study" />
-    <category term="Arabic" />
-    <category term="Language Arts &amp; Disciplines" />
-    <category term="Linguistics" />
-    <category term="General" />
-    <category term="Lang:en" />
-    <summary>Sigit Purwadi's Library - A Reference Grammar of Modern Standard Arabic is a comprehensive handbook on the structure of Arabic. Keeping technical terminology to a minimum, it provides a detailed yet accessible overview of Arabic in which the essentia...</summary>
-    <link href="../book_0/book_40.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 3)" />
 </feed>

@@ -367,6 +367,29 @@
     <link href="../book_0/book_64.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>English for Everyone: English Grammar Guide</title>
+    <id>calibre:book:73</id>
+    <updated>2019-09-08T11:10:05Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Dk/English%20for%20Everyone_%20English%20Gramma%20%2873%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Dk/English%20for%20Everyone_%20English%20Gramma%20%2873%29/English%20for%20Everyone_%20English%20G%20-%20Dk.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="25 MB" />
+    <author>
+      <name>Dk</name>
+      <uri>../authors_0/authors_83_Page_1.xml</uri>
+    </author>
+    <published>2016-12-12T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin</dcterms:publisher>
+    <category term="Foreign Language Study" />
+    <category term="English as a Second Language" />
+    <category term="Study Aids" />
+    <category term="Study Guides" />
+    <category term="Language Arts &amp; Disciplines" />
+    <category term="Grammar &amp; Punctuation" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - A self-study English grammar guide using innovative visual learning methods to make even the trickiest points easy to understand, for the approximately 1 million adults in the United States learning English as a second langu...</summary>
+    <link href="../book_0/book_73.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>The Flat-Earth Conspiracy</title>
     <id>calibre:book:72</id>
     <updated>2019-09-07T08:39:20Z</updated>
@@ -495,30 +518,6 @@
     <category term="Lang:en" />
     <summary>Sigit Purwadi's Library - No religion in the modern world is as feared and misunderstood as Islam. It haunts the popular Western imagination as an extreme faith that promotes authoritarian government, female oppression, civil war, and terrorism. Kare...</summary>
     <link href="../book_0/book_60.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Jodohku Maunya Sih Kamu: Ngaji Bareng Ust. Wijayanto</title>
-    <id>calibre:book:29</id>
-    <updated>2019-09-07T08:37:30Z</updated>
-    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20Baren%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="http://repo.purwadi.web.id/ebook/Ustadz%20Wijayanto/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20Baren%20%2829%29/Jodohku%20Maunya%20Sih%20Kamu_%20Ngaji%20-%20Ustadz%20Wijayanto.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="2 MB" />
-    <author>
-      <name>Ustadz Wijayanto</name>
-      <uri>../authors_0/authors_75_Page_1.xml</uri>
-    </author>
-    <published>2016-01-19T05:00:00Z</published>
-    <dcterms:language>in</dcterms:language>
-    <dcterms:publisher>Noura Books</dcterms:publisher>
-    <category term="Religion" />
-    <category term="Islam" />
-    <category term="General" />
-    <category term="Juvenile Nonfiction" />
-    <category term="Family &amp; Relationships" />
-    <category term="Love &amp; Romance" />
-    <category term="Islam Populer" />
-    <category term="Lang:in" />
-    <summary>Sigit Purwadi's Library - Ya Rasulullah, kenapa kau jodohkan aku dengan Bilal? Aku ingin bersuamikan lelaki yang sedang berazan itu. Suaranya bagus sekali, pasti orangnya pun saleh.Ya, itu Bilal.  Itulah sepenggal kisah yang menjadi ilustrasi dalam b...</summary>
-    <link href="../book_0/book_29.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <link href="../allbooks/allbooks_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (3 of 3)" />
 </feed>

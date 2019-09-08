@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Lang:en</title>
+  <id>Calibre2opds:taglist:L:123</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tags_123_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lang:en" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with L" />
+  <link href="./tags_123_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lang:en" />
+  <entry>
+    <title>Quiet Faith: An Introvert's Guide to Spiritual Survival</title>
+    <id>calibre:book:3</id>
+    <updated>2019-09-07T08:36:21Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Judson%20Edwards/Quiet%20Faith_%20An%20Introvert%27s%20Guide%20to%20%283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Judson%20Edwards/Quiet%20Faith_%20An%20Introvert%27s%20Guide%20to%20%283%29/Quiet%20Faith_%20An%20Introvert%27s%20Gui%20-%20Judson%20Edwards.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="198 KB" />
+    <author>
+      <name>Judson Edwards</name>
+      <uri>../authors_0/authors_81_Page_1.xml</uri>
+    </author>
+    <published>2013-08-08T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Smyth &amp; Helwys Publishing Incorporated</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - In Quiet Faith , Judson Edwards writes, “For all of the fine qualities we introverts bring to the table, the truth remains that we are typically viewed as people in need of a personality upgrade. Those of us who are active i...</summary>
+    <link href="../book_0/book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Quiet Power: The Secret Strengths of Introverts</title>
+    <id>calibre:book:4</id>
+    <updated>2019-09-07T08:36:26Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Susan%20Cain/Quiet%20Power_%20The%20Secret%20Strengths%20of%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Susan%20Cain/Quiet%20Power_%20The%20Secret%20Strengths%20of%20%284%29/Quiet%20Power_%20The%20Secret%20Strengt%20-%20Susan%20Cain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="1 MB" />
+    <author>
+      <name>Susan Cain</name>
+      <uri>../authors_0/authors_4_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Gregory Mone</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Erica Moroz</name>
+      <uri>../authors_0/authors_80_Page_1.xml</uri>
+    </author>
+    <published>2016-05-02T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin</dcterms:publisher>
+    <category term="Juvenile Nonfiction" />
+    <category term="Social Science" />
+    <category term="Psychology" />
+    <category term="Social Topics" />
+    <category term="Self-Esteem &amp; Self-Reliance" />
+    <category term="Emotions &amp; Feelings" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - The monumental bestseller Quiet has been recast in a new edition that empowers introverted kids and teens  Susan Cain sparked a worldwide conversation when she published Quiet: The Power of Introverts in a World That Can’t S...</summary>
+    <link href="../book_0/book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A Reference Grammar of Modern Standard Arabic</title>
+    <id>calibre:book:40</id>
+    <updated>2019-09-07T08:37:58Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Karin%20C.%20Ryding/A%20Reference%20Grammar%20of%20Modern%20Standa%20%2840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Karin%20C.%20Ryding/A%20Reference%20Grammar%20of%20Modern%20Standa%20%2840%29/A%20Reference%20Grammar%20of%20Modern%20S%20-%20Karin%20C.%20Ryding.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="5 MB" />
+    <author>
+      <name>Karin C. Ryding</name>
+      <uri>../authors_0/authors_41_Page_1.xml</uri>
+    </author>
+    <published>2005-08-24T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Cambridge University Press</dcterms:publisher>
+    <category term="Foreign Language Study" />
+    <category term="Arabic" />
+    <category term="Language Arts &amp; Disciplines" />
+    <category term="Linguistics" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - A Reference Grammar of Modern Standard Arabic is a comprehensive handbook on the structure of Arabic. Keeping technical terminology to a minimum, it provides a detailed yet accessible overview of Arabic in which the essentia...</summary>
+    <link href="../book_0/book_40.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Relations Between Religion and Science Eight Lectures Preached Before the University of Oxford in the Year 1884</title>
+    <id>calibre:book:48</id>
+    <updated>2019-09-07T08:38:17Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Frederick%20Temple/The%20Relations%20Between%20Religion%20and%20S%20%2848%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Frederick%20Temple/The%20Relations%20Between%20Religion%20and%20S%20%2848%29/The%20Relations%20Between%20Religion%20-%20Frederick%20Temple.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="172 KB" />
+    <author>
+      <name>Frederick Temple</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>2006-11-02T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>tredition</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - This book is part of the TREDITION CLASSICS series. The creators of this series are united by passion for literature and driven by the intention of making all public domain books available in printed format again - worldwide...</summary>
+    <link href="../book_0/book_48.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Salt: The Essential Guide to Cooking With the Most Important Ingredient in Your Kitchen</title>
+    <id>calibre:book:50</id>
+    <updated>2019-09-07T08:38:23Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Leslie%20Bilderback/Salt_%20The%20Essential%20Guide%20to%20Cooking%20%2850%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Leslie%20Bilderback/Salt_%20The%20Essential%20Guide%20to%20Cooking%20%2850%29/Salt_%20The%20Essential%20Guide%20to%20Co%20-%20Leslie%20Bilderback.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="40 MB" />
+    <author>
+      <name>Leslie Bilderback</name>
+      <uri>../authors_0/authors_50_Page_1.xml</uri>
+    </author>
+    <published>2016-09-05T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>St. Martin's Press</dcterms:publisher>
+    <category term="Cooking" />
+    <category term="Specific Ingredients" />
+    <category term="Herbs; Spices; Condiments" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - Salt has been an essential dining element since the invention of the kitchen table. But today, specialty salts come in a vast variety of forms and flavors. Smokey salts, salts infused with clay or charcoal, herby and spicy s...</summary>
+    <link href="../book_0/book_50.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Seeking Allah, Finding Jesus: A Devout Muslim Encounters Christianity</title>
+    <id>calibre:book:6</id>
+    <updated>2019-09-07T08:36:32Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Nabeel%20Qureshi/Seeking%20Allah%2C%20Finding%20Jesus_%20A%20Devo%20%286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Nabeel%20Qureshi/Seeking%20Allah%2C%20Finding%20Jesus_%20A%20Devo%20%286%29/Seeking%20Allah%2C%20Finding%20Jesus_%20A%20-%20Nabeel%20Qureshi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="379 KB" />
+    <author>
+      <name>Nabeel Qureshi</name>
+      <uri>../authors_0/authors_78_Page_1.xml</uri>
+    </author>
+    <published>2016-04-18T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Zondervan</dcterms:publisher>
+    <category term="Biography &amp; Autobiography" />
+    <category term="Religious" />
+    <category term="Religion" />
+    <category term="Christian Theology" />
+    <category term="Apologetics" />
+    <category term="Comparative Religion" />
+    <category term="ebook" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - In  Seeking Allah, Finding Jesus, now expanded with bonus content, Nabeel Qureshi describes his dramatic journey from Islam to Christianity, complete with friendships, investigations, and supernatural dreams along the way.Pr...</summary>
+    <link href="../book_0/book_6.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Story of the Jews Volume One: Finding the Words 1000 BC-1492 AD</title>
+    <id>calibre:book:20</id>
+    <updated>2019-09-07T08:37:06Z</updated>
+    <link href="http://repo.purwadi.web.id/ebook/Simon%20Schama/The%20Story%20of%20the%20Jews%20Volume%20One_%20Fi%20%2820%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="http://repo.purwadi.web.id/ebook/Simon%20Schama/The%20Story%20of%20the%20Jews%20Volume%20One_%20Fi%20%2820%29/The%20Story%20of%20the%20Jews%20Volume%20On%20-%20Simon%20Schama.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="Download this ebook as EPUB" displaysize="10 MB" />
+    <author>
+      <name>Simon Schama</name>
+      <uri>../authors_0/authors_22_Page_1.xml</uri>
+    </author>
+    <published>2017-10-23T05:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>HarperCollins</dcterms:publisher>
+    <category term="History" />
+    <category term="Jewish" />
+    <category term="Religion" />
+    <category term="Judaism" />
+    <category term="Ancient" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>Sigit Purwadi's Library - In this magnificently illustrated cultural history—the tie-in to the PBS and BBC series The Story of the Jews—Simon Schama details the story of the Jewish experience, tracing it across three millennia, from their beginnings ...</summary>
+    <link href="../book_0/book_20.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../tags_1/tags_123_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
+</feed>

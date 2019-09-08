@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>English for Everyone: English Grammar Guide</title>
+  <id>urn:book:d301be3b-e9c1-402e-b5f8-410c6fd022d0</id>
+  <updated>2019-09-08T11:10:05Z</updated>
+  <link href="./book_73.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="English for Everyone: English Grammar Guide" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Sigit Purwadi's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Sigit Purwadi's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="http://repo.purwadi.web.id/ebook/Dk/English%20for%20Everyone_%20English%20Gramma%20%2873%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="http://repo.purwadi.web.id/ebook/Dk/English%20for%20Everyone_%20English%20Gramma%20%2873%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="http://repo.purwadi.web.id/ebook/Dk/English%20for%20Everyone_%20English%20Gramma%20%2873%29/English%20for%20Everyone_%20English%20G%20-%20Dk.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition" title="Download this ebook as PDF" displaysize="25 MB" />
+  <author>
+    <name>Dk</name>
+    <uri>../authors_0/authors_83_Page_1.xml</uri>
+  </author>
+  <published>2016-12-12T05:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Penguin</dcterms:publisher>
+  <category term="Foreign Language Study" />
+  <category term="English as a Second Language" />
+  <category term="Study Aids" />
+  <category term="Study Guides" />
+  <category term="Language Arts &amp; Disciplines" />
+  <category term="Grammar &amp; Punctuation" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Foreign Language Study, English as a Second Language, Study Aids, Study Guides, Language Arts &amp; Disciplines, Grammar &amp; Punctuation, Lang:en
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      Penguin
+    </p>
+    <p>
+      <strong>Published:</strong>
+      December 12, 2016
+    </p>
+    <p>
+      <strong>Added:</strong>
+      September 8, 2019
+    </p>
+    <p>
+      <strong>Modified:</strong>
+      September 8, 2019
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">
+      <b>
+        <a href="https://repo.purwadi.web.id/ebook/">Sigit Purwadi's
+    Library</a>
+         -
+      </b>
+       A self-study English grammar guide
+    using innovative visual learning methods to make even the
+    trickiest points easy to understand, for the approximately 1
+    million adults in the United States learning English as a
+    second language.Suitable for English-language learners of all
+    levels, from beginner to advanced, and even experienced English
+    speakers looking for a reminder of key language points, English
+    for Everyone: English Grammar Guide is an intuitive way to
+    study English grammar. Clear illustrations put learning points
+    in context and make them easy to remember, and simple graphics
+    and annotated sample sentences break down grammar
+    constructions, making even difficult points easy to
+    follow.English for Everyone: English Grammar Guide covers the
+    language skills, vocabulary, and grammar needed for the major
+    global English-language exams, including TOEFL. All learning is
+    practiced across speaking, listening, reading, and writing
+    exercises, offering rounded preparation for work, travel,
+    study, and exams. Download the free app and practice online
+    with free listening exercises at www.dkefe.com.
+    </p>
+  </content>
+  <link href="../authors_0/authors_83_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Dk" />
+  <link href="http://www.goodreads.com/book/title/English%20for%20Everyone%3A%20English%20Grammar%20Guide" type="text/html" rel="related" title="This book on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/English%20for%20Everyone%3A%20English%20Grammar%20Guide" type="text/html" rel="related" title="This book on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/English%20for%20Everyone%3A%20English%20Grammar%20Guide%20Dk" type="text/html" rel="related" title="This book on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=English%20for%20Everyone%3A%20English%20Grammar%20Guide&amp;field-author=Dk" type="text/html" rel="related" title="This book on Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Dk" type="text/html" rel="related" title="Dk on Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Dk" type="text/html" rel="related" title="Dk on Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/Dk" type="text/html" rel="related" title="Dk on LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Dk" type="text/html" rel="related" title="Dk on Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Dk" type="text/html" rel="related" title="Dk on ISFDB" target="_blank" />
+</entry>

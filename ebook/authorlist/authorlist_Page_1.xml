@@ -101,6 +101,14 @@
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
   <entry>
+    <title>Dk</title>
+    <id>Calibre2opds:authors:83</id>
+    <content type="text">1 book</content>
+    <link href="../authors_0/authors_83_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Dkk.</title>
     <id>Calibre2opds:authors:76</id>
     <content type="text">Mengikat Makna Selamanya</content>
@@ -201,14 +209,6 @@
     <id>Calibre2opds:authors:33</id>
     <content type="text">Seni Mencintai Diri Sendiri</content>
     <link href="../authors_0/authors_33_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Dan Karlan</title>
-    <id>Calibre2opds:authors:74</id>
-    <content type="text">1 book</content>
-    <link href="../authors_0/authors_74_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>
